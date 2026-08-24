@@ -1,6 +1,6 @@
 const links = [
   ["總覽", "/"], ["歷年趨勢", "/trends"], ["級分分布", "/distribution"],
-  ["成績定位", "/position"], ["資料下載", "/downloads"], ["方法", "/methodology"],
+  ["成績定位", "/position"], ["非應屆", "/noncurrent"], ["資料下載", "/downloads"], ["方法", "/methodology"],
 ] as const;
 
 export function SiteHeader() {

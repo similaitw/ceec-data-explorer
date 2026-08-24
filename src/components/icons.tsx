@@ -10,13 +10,13 @@ export function SubjectIcon({ subject, size = 34 }: { subject: SubjectId; size?:
   return <svg {...common}><path d="M18 7h12M21 7v12L10 37c-1 2 .5 4 3 4h22c2.5 0 4-2 3-4L27 19V7"/><path d="M15 32h18M19 27c4 2 7-2 11 0"/><circle cx="21" cy="35" r="1" fill="currentColor" stroke="none"/></svg>;
 }
 
-export type FeatureIconName = "trend" | "distribution" | "position" | "download";
+export type FeatureIconName = "trend" | "distribution" | "position" | "download" | "repeaters";
 
 export function FeatureIcon({ name, size = 32 }: { name: FeatureIconName; size?: number }) {
   const common = { width: size, height: size, viewBox: "0 0 48 48", fill: "none", stroke: "currentColor", strokeWidth: 2.4, strokeLinecap: "round" as const, strokeLinejoin: "round" as const, "aria-hidden": true };
   if (name === "trend") return <svg {...common}><path d="M8 39h32M9 38V9"/><path d="m13 31 8-9 7 5 10-14"/><circle cx="13" cy="31" r="2" fill="currentColor"/><circle cx="21" cy="22" r="2" fill="currentColor"/><circle cx="28" cy="27" r="2" fill="currentColor"/><circle cx="38" cy="13" r="2" fill="currentColor"/></svg>;
   if (name === "distribution") return <svg {...common}><path d="M8 39h32"/><rect x="11" y="26" width="6" height="13" rx="2"/><rect x="21" y="15" width="6" height="24" rx="2"/><rect x="31" y="8" width="6" height="31" rx="2"/></svg>;
   if (name === "position") return <svg {...common}><circle cx="24" cy="24" r="17"/><circle cx="24" cy="24" r="9"/><circle cx="24" cy="24" r="2.5" fill="currentColor"/><path d="M24 4v7M44 24h-7M24 44v-7M4 24h7"/></svg>;
+  if (name === "repeaters") return <svg {...common}><circle cx="18" cy="17" r="6"/><path d="M7 36c1.5-7 6-11 11-11s9.5 4 11 11"/><path d="M31 12h9v9M40 12l-8 8M40 28v8h-8M40 36l-7-7"/></svg>;
   return <svg {...common}><path d="M24 7v24M15 23l9 9 9-9"/><path d="M9 35v6h30v-6"/></svg>;
 }
-

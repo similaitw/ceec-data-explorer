@@ -28,6 +28,21 @@ export interface RegistrationFact {
   source_id: string;
 }
 
+export interface NoncurrentPathwayFact {
+  academic_year: number;
+  gsat_total_registered: number;
+  gsat_noncurrent_registered: number;
+  gsat_noncurrent_share: number;
+  distribution_total_registered: number;
+  distribution_noncurrent_registered: number;
+  distribution_total_admitted: number;
+  distribution_noncurrent_admitted: number;
+  distribution_noncurrent_admission_rate: number;
+  distribution_noncurrent_admitted_share: number;
+  gsat_source_id: string;
+  distribution_source_id: string;
+}
+
 export interface ScoreDistributionFact {
   academic_year: number;
   exam: "GSAT";
@@ -77,4 +92,3 @@ export interface SourceRecord {
   sha256: string;
   parse_status: string;
 }
-

@@ -59,6 +59,7 @@ export default async function HomePage() {
         <a className="dataset-card" data-code="COMPARE" href="/trends"><span className="feature-icon"><FeatureIcon name="trend" /></span><h3>歷年趨勢</h3><p>比較五標、報名與缺考率。</p></a>
         <a className="dataset-card" data-code="DISTRIBUTION" href="/distribution"><span className="feature-icon"><FeatureIcon name="distribution" /></span><h3>級分分布</h3><p>查看各級分人數與累計比例。</p></a>
         <a className="dataset-card" data-code="POSITION" href="/position"><span className="feature-icon"><FeatureIcon name="position" /></span><h3>成績定位</h3><p>取得 PR 區間與五標位置。</p></a>
+        <a className="dataset-card" data-code="NONCURRENT" href="/noncurrent"><span className="feature-icon"><FeatureIcon name="repeaters" /></span><h3>非應屆觀察</h3><p>查看人數、占比與分發錄取率。</p></a>
         <a className="dataset-card" data-code="REPRODUCE" href="/downloads"><span className="feature-icon"><FeatureIcon name="download" /></span><h3>資料下載</h3><p>下載 CSV／JSON 或查看來源。</p></a>
       </div>
     </section>

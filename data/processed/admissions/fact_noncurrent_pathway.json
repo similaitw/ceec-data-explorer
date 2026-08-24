@@ -1,0 +1,29 @@
+{
+  "schema_version": "1.0.0",
+  "generated_at": "2026-08-24T00:00:00+08:00",
+  "source_ids": [
+    "gsat-111-registration",
+    "gsat-112-registration",
+    "gsat-113-registration",
+    "gsat-114-registration",
+    "gsat-115-registration",
+    "uac-111-registration-admission",
+    "uac-112-registration-admission",
+    "uac-113-registration-admission",
+    "uac-114-registration-admission",
+    "uac-115-result-presentation"
+  ],
+  "data": [
+    { "academic_year": 111, "gsat_total_registered": 116445, "gsat_noncurrent_registered": 9270, "gsat_noncurrent_share": 7.96, "distribution_total_registered": 25297, "distribution_noncurrent_registered": 3009, "distribution_total_admitted": 25028, "distribution_noncurrent_admitted": 2818, "distribution_noncurrent_admission_rate": 93.65, "distribution_noncurrent_admitted_share": 11.26, "gsat_source_id": "gsat-111-registration", "distribution_source_id": "uac-111-registration-admission" },
+    { "academic_year": 112, "gsat_total_registered": 118551, "gsat_noncurrent_registered": 11962, "gsat_noncurrent_share": 10.09, "distribution_total_registered": 37797, "distribution_noncurrent_registered": 4685, "distribution_total_admitted": 36338, "distribution_noncurrent_admitted": 4040, "distribution_noncurrent_admission_rate": 86.23, "distribution_noncurrent_admitted_share": 11.12, "gsat_source_id": "gsat-112-registration", "distribution_source_id": "uac-112-registration-admission" },
+    { "academic_year": 113, "gsat_total_registered": 120172, "gsat_noncurrent_registered": 14412, "gsat_noncurrent_share": 11.99, "distribution_total_registered": 37069, "distribution_noncurrent_registered": 5395, "distribution_total_admitted": 35076, "distribution_noncurrent_admitted": 4683, "distribution_noncurrent_admission_rate": 86.80, "distribution_noncurrent_admitted_share": 13.35, "gsat_source_id": "gsat-113-registration", "distribution_source_id": "uac-113-registration-admission" },
+    { "academic_year": 114, "gsat_total_registered": 121181, "gsat_noncurrent_registered": 15913, "gsat_noncurrent_share": 13.13, "distribution_total_registered": 33733, "distribution_noncurrent_registered": 5477, "distribution_total_admitted": 32497, "distribution_noncurrent_admitted": 4981, "distribution_noncurrent_admission_rate": 90.94, "distribution_noncurrent_admitted_share": 15.33, "gsat_source_id": "gsat-114-registration", "distribution_source_id": "uac-114-registration-admission" },
+    { "academic_year": 115, "gsat_total_registered": 121535, "gsat_noncurrent_registered": 15768, "gsat_noncurrent_share": 12.97, "distribution_total_registered": 33071, "distribution_noncurrent_registered": 5083, "distribution_total_admitted": 32257, "distribution_noncurrent_admitted": 4673, "distribution_noncurrent_admission_rate": 91.93, "distribution_noncurrent_admitted_share": 14.49, "gsat_source_id": "gsat-115-registration", "distribution_source_id": "uac-115-result-presentation" }
+  ],
+  "notes": [
+    "非應屆為官方分類，不完全等同一般語意的重考生。",
+    "學測報名與分發入學登記是不同母群，不可把兩者相減或視為同一批考生的漏斗。",
+    "分發錄取率 = 非應屆錄取人數 / 非應屆登記人數；不代表繁星、申請入學等所有管道的總上榜率。"
+  ],
+  "quality": { "status": "passed", "warnings": [] }
+}

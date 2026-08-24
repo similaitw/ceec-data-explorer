@@ -14,7 +14,7 @@ export function LineChart({ id, series, yMax = 15, yMin = 0, yTicks = [0, 3, 6, 
       const points = item.values.map((point) => `${x(point.x)},${y(point.y)}`).join(" ");
       return <g key={item.label}>
         <polyline points={points} fill="none" stroke={item.color} strokeWidth="4" strokeLinejoin="round" />
-        {item.values.map((point) => <g key={point.x}><circle cx={x(point.x)} cy={y(point.y)} r="6" fill="#ffffff" stroke={item.color} strokeWidth="3"><title>{item.label} {point.x}：{point.y}{suffix}</title></circle><text x={x(point.x)} y={y(point.y)-13} textAnchor="middle" fill={item.color}>{point.y}</text></g>)}
+        {item.values.map((point) => <g key={point.x}><circle cx={x(point.x)} cy={y(point.y)} r="6" fill="#ffffff" stroke={item.color} strokeWidth="3"><title>{`${item.label} ${point.x}：${point.y}${suffix}`}</title></circle><text x={x(point.x)} y={y(point.y)-13} textAnchor="middle" fill={item.color}>{point.y}</text></g>)}
       </g>;
     })}
   </svg>;

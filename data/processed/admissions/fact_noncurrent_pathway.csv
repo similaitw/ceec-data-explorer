@@ -1,0 +1,6 @@
+academic_year,gsat_total_registered,gsat_noncurrent_registered,gsat_noncurrent_share,distribution_total_registered,distribution_noncurrent_registered,distribution_total_admitted,distribution_noncurrent_admitted,distribution_noncurrent_admission_rate,distribution_noncurrent_admitted_share,gsat_source_id,distribution_source_id
+111,116445,9270,7.96,25297,3009,25028,2818,93.65,11.26,gsat-111-registration,uac-111-registration-admission
+112,118551,11962,10.09,37797,4685,36338,4040,86.23,11.12,gsat-112-registration,uac-112-registration-admission
+113,120172,14412,11.99,37069,5395,35076,4683,86.80,13.35,gsat-113-registration,uac-113-registration-admission
+114,121181,15913,13.13,33733,5477,32497,4981,90.94,15.33,gsat-114-registration,uac-114-registration-admission
+115,121535,15768,12.97,33071,5083,32257,4673,91.93,14.49,gsat-115-registration,uac-115-result-presentation

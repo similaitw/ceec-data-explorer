@@ -20,7 +20,16 @@
 
 ## 缺失值
 
+## fact_noncurrent_pathway
+
+每列為「年度 × 非應屆統計」。`gsat_noncurrent_registered` 與 `gsat_noncurrent_share` 來自大考中心學測報名統計；`distribution_noncurrent_registered`、`distribution_noncurrent_admitted`、`distribution_noncurrent_admission_rate` 與 `distribution_noncurrent_admitted_share` 來自大學考試入學分發委員會。
+
+- 「非應屆」是官方分類，不完全等同一般語意的重考生。
+- 學測報名者與分發入學登記者是不同母群，不可視為同一批考生的漏斗。
+- 分發錄取率只涵蓋分發入學，不是所有升學管道的總上榜率。
+
+## 缺失值
+
 - 空值代表該 grain 不適用，例如全體報名列沒有到考／缺考值。
 - 官方 `--` 代表該年度科目制度不存在，不轉成 0，也不輸出成有效事實列。
 - MVP 附件未遇到 `*` 或 `<5` 抑制值；未來 parser 必須另設缺失原因，禁止轉 0。
-
