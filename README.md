@@ -2,6 +2,8 @@
 
 已完成 111–115 學年度學測 MVP ETL 與互動網站。網站包含總覽、歷年趨勢、級分分布、成績定位、資料下載、方法與品質頁，使用真實 processed data 靜態產生。
 
+線上網站：<https://ceec-data-explorer.vercel.app>
+
 ## 快速開始
 
 ```powershell

@@ -13,3 +13,5 @@ public/data/
 data/raw/**/*.xls
 data/raw/**/*.xlsx
 data/staging/
+
+.vercel
