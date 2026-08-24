@@ -1,0 +1,150 @@
+{
+  "schema_version": "1.0.0",
+  "generated_at": "2026-08-24T13:31:54.919304+00:00",
+  "source_ids": [
+    "uac-115-result-presentation"
+  ],
+  "data": [
+    {
+      "academic_year": 115,
+      "group": "教育",
+      "admitted_count": 1113,
+      "capacity_usage_rate": 100.0,
+      "source_id": "uac-115-result-presentation"
+    },
+    {
+      "academic_year": 115,
+      "group": "跨領域",
+      "admitted_count": 77,
+      "capacity_usage_rate": 100.0,
+      "source_id": "uac-115-result-presentation"
+    },
+    {
+      "academic_year": 115,
+      "group": "數理化",
+      "admitted_count": 2174,
+      "capacity_usage_rate": 100.0,
+      "source_id": "uac-115-result-presentation"
+    },
+    {
+      "academic_year": 115,
+      "group": "財經",
+      "admitted_count": 3409,
+      "capacity_usage_rate": 99.71,
+      "source_id": "uac-115-result-presentation"
+    },
+    {
+      "academic_year": 115,
+      "group": "生命科學",
+      "admitted_count": 1478,
+      "capacity_usage_rate": 99.66,
+      "source_id": "uac-115-result-presentation"
+    },
+    {
+      "academic_year": 115,
+      "group": "工程",
+      "admitted_count": 6864,
+      "capacity_usage_rate": 99.55,
+      "source_id": "uac-115-result-presentation"
+    },
+    {
+      "academic_year": 115,
+      "group": "資訊",
+      "admitted_count": 5333,
+      "capacity_usage_rate": 99.14,
+      "source_id": "uac-115-result-presentation"
+    },
+    {
+      "academic_year": 115,
+      "group": "地球環境",
+      "admitted_count": 857,
+      "capacity_usage_rate": 98.62,
+      "source_id": "uac-115-result-presentation"
+    },
+    {
+      "academic_year": 115,
+      "group": "法政",
+      "admitted_count": 1997,
+      "capacity_usage_rate": 98.57,
+      "source_id": "uac-115-result-presentation"
+    },
+    {
+      "academic_year": 115,
+      "group": "文史哲",
+      "admitted_count": 1962,
+      "capacity_usage_rate": 98.15,
+      "source_id": "uac-115-result-presentation"
+    },
+    {
+      "academic_year": 115,
+      "group": "醫藥衛生",
+      "admitted_count": 3383,
+      "capacity_usage_rate": 97.89,
+      "source_id": "uac-115-result-presentation"
+    },
+    {
+      "academic_year": 115,
+      "group": "管理",
+      "admitted_count": 4669,
+      "capacity_usage_rate": 97.7,
+      "source_id": "uac-115-result-presentation"
+    },
+    {
+      "academic_year": 115,
+      "group": "生物資源",
+      "admitted_count": 824,
+      "capacity_usage_rate": 97.63,
+      "source_id": "uac-115-result-presentation"
+    },
+    {
+      "academic_year": 115,
+      "group": "外語",
+      "admitted_count": 2008,
+      "capacity_usage_rate": 97.33,
+      "source_id": "uac-115-result-presentation"
+    },
+    {
+      "academic_year": 115,
+      "group": "社會心理",
+      "admitted_count": 1591,
+      "capacity_usage_rate": 96.6,
+      "source_id": "uac-115-result-presentation"
+    },
+    {
+      "academic_year": 115,
+      "group": "建築設計",
+      "admitted_count": 1323,
+      "capacity_usage_rate": 94.1,
+      "source_id": "uac-115-result-presentation"
+    },
+    {
+      "academic_year": 115,
+      "group": "大眾傳播",
+      "admitted_count": 1119,
+      "capacity_usage_rate": 93.72,
+      "source_id": "uac-115-result-presentation"
+    },
+    {
+      "academic_year": 115,
+      "group": "藝術",
+      "admitted_count": 962,
+      "capacity_usage_rate": 92.77,
+      "source_id": "uac-115-result-presentation"
+    },
+    {
+      "academic_year": 115,
+      "group": "遊憩運動",
+      "admitted_count": 734,
+      "capacity_usage_rate": 92.44,
+      "source_id": "uac-115-result-presentation"
+    }
+  ],
+  "notes": [
+    "部分系組跨兩個學群，學群錄取人數加總會大於全體錄取總數。",
+    "目前官方放榜簡報僅提供 115 學年度學群彙總。"
+  ],
+  "quality": {
+    "status": "passed",
+    "warnings": []
+  }
+}

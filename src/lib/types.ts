@@ -43,6 +43,25 @@ export interface NoncurrentPathwayFact {
   distribution_source_id: string;
 }
 
+export interface UniversityAdmissionFact {
+  academic_year: number;
+  university: string;
+  ownership: "公立" | "私立";
+  region: string;
+  program_count: number;
+  admitted_count: number;
+  source_id: string;
+  institution_source_id: string;
+}
+
+export interface GroupAdmissionFact {
+  academic_year: number;
+  group: string;
+  admitted_count: number;
+  capacity_usage_rate: number;
+  source_id: string;
+}
+
 export interface ScoreDistributionFact {
   academic_year: number;
   exam: "GSAT";

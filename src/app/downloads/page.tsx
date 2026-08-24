@@ -11,6 +11,8 @@ const datasets = [
   { code:"BOUNDARY", title:"原始分數—級分對照", path:"gsat", stem:"fact_score_boundary", rows:480, years:"111–115", grain:"年度 × 科目 × 級分", description:"原得總分上下界、開閉區間與官方原始文字。" },
   { code:"STANDARD", title:"五標", path:"gsat", stem:"fact_standard", rows:150, years:"111–115", grain:"年度 × 科目 × 標準", description:"頂標、前標、均標、後標、底標級分與累計百分比。" },
   { code:"NONCURRENT", title:"非應屆與分發錄取", path:"admissions", stem:"fact_noncurrent_pathway", rows:5, years:"111–115", grain:"年度 × 考生屆別", description:"非應屆學測報名人數、占比，以及分發登記、錄取人數與錄取率。" },
+  { code:"UNIVERSITIES", title:"大學分發錄取統計", path:"admissions", stem:"fact_university_admission", rows:305, years:"111–115", grain:"年度 × 大學", description:"各校分發系組數與錄取人數，附校本部地區及公私立屬性。" },
+  { code:"GROUPS", title:"學群錄取統計", path:"admissions", stem:"fact_group_admission", rows:19, years:"115", grain:"年度 × 學群", description:"115 學年度各學群錄取人數與名額使用率。" },
 ];
 
 export default async function DownloadsPage() {

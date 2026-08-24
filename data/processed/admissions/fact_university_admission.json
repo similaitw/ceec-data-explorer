@@ -1,0 +1,3073 @@
+{
+  "schema_version": "1.0.0",
+  "generated_at": "2026-08-24T13:31:54.917413+00:00",
+  "source_ids": [
+    "uac-111-program-results",
+    "uac-112-program-results",
+    "uac-113-program-results",
+    "uac-114-program-results",
+    "uac-115-program-results",
+    "moe-114-institution-directory"
+  ],
+  "data": [
+    {
+      "academic_year": 111,
+      "university": "世新大學",
+      "ownership": "私立",
+      "region": "臺北市",
+      "program_count": 26,
+      "admitted_count": 434,
+      "source_id": "uac-111-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 111,
+      "university": "中原大學",
+      "ownership": "私立",
+      "region": "桃園市",
+      "program_count": 37,
+      "admitted_count": 610,
+      "source_id": "uac-111-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 111,
+      "university": "中國文化大學",
+      "ownership": "私立",
+      "region": "臺北市",
+      "program_count": 68,
+      "admitted_count": 257,
+      "source_id": "uac-111-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 111,
+      "university": "中國醫藥大學",
+      "ownership": "私立",
+      "region": "臺中市",
+      "program_count": 16,
+      "admitted_count": 343,
+      "source_id": "uac-111-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 111,
+      "university": "中山醫學大學",
+      "ownership": "私立",
+      "region": "臺中市",
+      "program_count": 21,
+      "admitted_count": 637,
+      "source_id": "uac-111-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 111,
+      "university": "中華大學",
+      "ownership": "私立",
+      "region": "新竹市",
+      "program_count": 31,
+      "admitted_count": 45,
+      "source_id": "uac-111-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 111,
+      "university": "亞洲大學",
+      "ownership": "私立",
+      "region": "臺中市",
+      "program_count": 51,
+      "admitted_count": 158,
+      "source_id": "uac-111-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 111,
+      "university": "佛光大學",
+      "ownership": "私立",
+      "region": "宜蘭縣",
+      "program_count": 23,
+      "admitted_count": 13,
+      "source_id": "uac-111-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 111,
+      "university": "元智大學",
+      "ownership": "私立",
+      "region": "桃園市",
+      "program_count": 26,
+      "admitted_count": 317,
+      "source_id": "uac-111-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 111,
+      "university": "南華大學",
+      "ownership": "私立",
+      "region": "嘉義縣",
+      "program_count": 24,
+      "admitted_count": 44,
+      "source_id": "uac-111-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 111,
+      "university": "國立中央大學",
+      "ownership": "公立",
+      "region": "桃園市",
+      "program_count": 32,
+      "admitted_count": 633,
+      "source_id": "uac-111-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 111,
+      "university": "國立中山大學",
+      "ownership": "公立",
+      "region": "高雄市",
+      "program_count": 32,
+      "admitted_count": 455,
+      "source_id": "uac-111-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 111,
+      "university": "國立中正大學",
+      "ownership": "公立",
+      "region": "嘉義縣",
+      "program_count": 33,
+      "admitted_count": 704,
+      "source_id": "uac-111-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 111,
+      "university": "國立中興大學",
+      "ownership": "公立",
+      "region": "臺中市",
+      "program_count": 42,
+      "admitted_count": 880,
+      "source_id": "uac-111-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 111,
+      "university": "國立嘉義大學",
+      "ownership": "公立",
+      "region": "嘉義市",
+      "program_count": 43,
+      "admitted_count": 755,
+      "source_id": "uac-111-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 111,
+      "university": "國立宜蘭大學",
+      "ownership": "公立",
+      "region": "宜蘭縣",
+      "program_count": 15,
+      "admitted_count": 259,
+      "source_id": "uac-111-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 111,
+      "university": "國立屏東大學",
+      "ownership": "公立",
+      "region": "屏東縣",
+      "program_count": 33,
+      "admitted_count": 275,
+      "source_id": "uac-111-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 111,
+      "university": "國立彰化師範大學",
+      "ownership": "公立",
+      "region": "彰化縣",
+      "program_count": 23,
+      "admitted_count": 516,
+      "source_id": "uac-111-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 111,
+      "university": "國立成功大學",
+      "ownership": "公立",
+      "region": "臺南市",
+      "program_count": 51,
+      "admitted_count": 1415,
+      "source_id": "uac-111-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 111,
+      "university": "國立政治大學",
+      "ownership": "公立",
+      "region": "臺北市",
+      "program_count": 52,
+      "admitted_count": 1019,
+      "source_id": "uac-111-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 111,
+      "university": "國立暨南國際大學",
+      "ownership": "公立",
+      "region": "南投縣",
+      "program_count": 26,
+      "admitted_count": 307,
+      "source_id": "uac-111-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 111,
+      "university": "國立東華大學",
+      "ownership": "公立",
+      "region": "花蓮縣",
+      "program_count": 44,
+      "admitted_count": 522,
+      "source_id": "uac-111-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 111,
+      "university": "國立清華大學",
+      "ownership": "公立",
+      "region": "新竹市",
+      "program_count": 47,
+      "admitted_count": 669,
+      "source_id": "uac-111-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 111,
+      "university": "國立聯合大學",
+      "ownership": "公立",
+      "region": "苗栗縣",
+      "program_count": 22,
+      "admitted_count": 288,
+      "source_id": "uac-111-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 111,
+      "university": "國立臺中教育大學",
+      "ownership": "公立",
+      "region": "臺中市",
+      "program_count": 18,
+      "admitted_count": 290,
+      "source_id": "uac-111-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 111,
+      "university": "國立臺北大學",
+      "ownership": "公立",
+      "region": "新北市",
+      "program_count": 20,
+      "admitted_count": 527,
+      "source_id": "uac-111-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 111,
+      "university": "國立臺北教育大學",
+      "ownership": "公立",
+      "region": "臺北市",
+      "program_count": 22,
+      "admitted_count": 310,
+      "source_id": "uac-111-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 111,
+      "university": "國立臺南大學",
+      "ownership": "公立",
+      "region": "臺南市",
+      "program_count": 23,
+      "admitted_count": 389,
+      "source_id": "uac-111-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 111,
+      "university": "國立臺南藝術大學",
+      "ownership": "公立",
+      "region": "臺南市",
+      "program_count": 3,
+      "admitted_count": 45,
+      "source_id": "uac-111-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 111,
+      "university": "國立臺東大學",
+      "ownership": "公立",
+      "region": "臺東縣",
+      "program_count": 21,
+      "admitted_count": 99,
+      "source_id": "uac-111-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 111,
+      "university": "國立臺灣大學",
+      "ownership": "公立",
+      "region": "臺北市",
+      "program_count": 70,
+      "admitted_count": 1598,
+      "source_id": "uac-111-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 111,
+      "university": "國立臺灣師範大學",
+      "ownership": "公立",
+      "region": "臺北市",
+      "program_count": 39,
+      "admitted_count": 590,
+      "source_id": "uac-111-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 111,
+      "university": "國立臺灣海洋大學",
+      "ownership": "公立",
+      "region": "基隆市",
+      "program_count": 23,
+      "admitted_count": 422,
+      "source_id": "uac-111-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 111,
+      "university": "國立臺灣藝術大學",
+      "ownership": "公立",
+      "region": "新北市",
+      "program_count": 15,
+      "admitted_count": 200,
+      "source_id": "uac-111-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 111,
+      "university": "國立臺灣體育運動大學",
+      "ownership": "公立",
+      "region": "臺中市",
+      "program_count": 5,
+      "admitted_count": 76,
+      "source_id": "uac-111-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 111,
+      "university": "國立金門大學",
+      "ownership": "公立",
+      "region": "金門縣",
+      "program_count": 17,
+      "admitted_count": 114,
+      "source_id": "uac-111-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 111,
+      "university": "國立陽明交通大學",
+      "ownership": "公立",
+      "region": "新竹市",
+      "program_count": 39,
+      "admitted_count": 672,
+      "source_id": "uac-111-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 111,
+      "university": "國立體育大學",
+      "ownership": "公立",
+      "region": "桃園市",
+      "program_count": 7,
+      "admitted_count": 77,
+      "source_id": "uac-111-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 111,
+      "university": "國立高雄大學",
+      "ownership": "公立",
+      "region": "高雄市",
+      "program_count": 23,
+      "admitted_count": 485,
+      "source_id": "uac-111-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 111,
+      "university": "國立高雄師範大學",
+      "ownership": "公立",
+      "region": "高雄市",
+      "program_count": 21,
+      "admitted_count": 411,
+      "source_id": "uac-111-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 111,
+      "university": "大同大學",
+      "ownership": "私立",
+      "region": "臺北市",
+      "program_count": 23,
+      "admitted_count": 76,
+      "source_id": "uac-111-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 111,
+      "university": "大葉大學",
+      "ownership": "私立",
+      "region": "彰化縣",
+      "program_count": 36,
+      "admitted_count": 28,
+      "source_id": "uac-111-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 111,
+      "university": "實踐大學",
+      "ownership": "私立",
+      "region": "臺北市",
+      "program_count": 67,
+      "admitted_count": 206,
+      "source_id": "uac-111-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 111,
+      "university": "康寧大學",
+      "ownership": "私立",
+      "region": "臺北市",
+      "program_count": 2,
+      "admitted_count": 4,
+      "source_id": "uac-111-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 111,
+      "university": "慈濟大學",
+      "ownership": "私立",
+      "region": "花蓮縣",
+      "program_count": 17,
+      "admitted_count": 62,
+      "source_id": "uac-111-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 111,
+      "university": "明道大學",
+      "ownership": "私立",
+      "region": "彰化縣",
+      "program_count": 9,
+      "admitted_count": 10,
+      "source_id": "uac-111-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 111,
+      "university": "東吳大學",
+      "ownership": "私立",
+      "region": "臺北市",
+      "program_count": 24,
+      "admitted_count": 832,
+      "source_id": "uac-111-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 111,
+      "university": "東海大學",
+      "ownership": "私立",
+      "region": "臺中市",
+      "program_count": 55,
+      "admitted_count": 620,
+      "source_id": "uac-111-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 111,
+      "university": "淡江大學",
+      "ownership": "私立",
+      "region": "新北市",
+      "program_count": 54,
+      "admitted_count": 929,
+      "source_id": "uac-111-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 111,
+      "university": "玄奘大學",
+      "ownership": "私立",
+      "region": "新竹市",
+      "program_count": 8,
+      "admitted_count": 4,
+      "source_id": "uac-111-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 111,
+      "university": "真理大學",
+      "ownership": "私立",
+      "region": "新北市",
+      "program_count": 28,
+      "admitted_count": 24,
+      "source_id": "uac-111-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 111,
+      "university": "義守大學",
+      "ownership": "私立",
+      "region": "高雄市",
+      "program_count": 53,
+      "admitted_count": 186,
+      "source_id": "uac-111-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 111,
+      "university": "臺北市立大學",
+      "ownership": "公立",
+      "region": "臺北市",
+      "program_count": 22,
+      "admitted_count": 304,
+      "source_id": "uac-111-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 111,
+      "university": "臺北醫學大學",
+      "ownership": "私立",
+      "region": "臺北市",
+      "program_count": 16,
+      "admitted_count": 323,
+      "source_id": "uac-111-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 111,
+      "university": "輔仁大學",
+      "ownership": "私立",
+      "region": "新北市",
+      "program_count": 58,
+      "admitted_count": 1255,
+      "source_id": "uac-111-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 111,
+      "university": "逢甲大學",
+      "ownership": "私立",
+      "region": "臺中市",
+      "program_count": 49,
+      "admitted_count": 577,
+      "source_id": "uac-111-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 111,
+      "university": "銘傳大學",
+      "ownership": "私立",
+      "region": "臺北市",
+      "program_count": 61,
+      "admitted_count": 425,
+      "source_id": "uac-111-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 111,
+      "university": "長庚大學",
+      "ownership": "私立",
+      "region": "桃園市",
+      "program_count": 24,
+      "admitted_count": 509,
+      "source_id": "uac-111-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 111,
+      "university": "長榮大學",
+      "ownership": "私立",
+      "region": "臺南市",
+      "program_count": 49,
+      "admitted_count": 76,
+      "source_id": "uac-111-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 111,
+      "university": "靜宜大學",
+      "ownership": "私立",
+      "region": "臺中市",
+      "program_count": 35,
+      "admitted_count": 127,
+      "source_id": "uac-111-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 111,
+      "university": "馬偕醫學院",
+      "ownership": "私立",
+      "region": "新北市",
+      "program_count": 4,
+      "admitted_count": 68,
+      "source_id": "uac-111-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 111,
+      "university": "高雄醫學大學",
+      "ownership": "私立",
+      "region": "高雄市",
+      "program_count": 22,
+      "admitted_count": 523,
+      "source_id": "uac-111-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 112,
+      "university": "世新大學",
+      "ownership": "私立",
+      "region": "臺北市",
+      "program_count": 26,
+      "admitted_count": 942,
+      "source_id": "uac-112-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 112,
+      "university": "中原大學",
+      "ownership": "私立",
+      "region": "桃園市",
+      "program_count": 39,
+      "admitted_count": 905,
+      "source_id": "uac-112-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 112,
+      "university": "中國文化大學",
+      "ownership": "私立",
+      "region": "臺北市",
+      "program_count": 69,
+      "admitted_count": 937,
+      "source_id": "uac-112-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 112,
+      "university": "中國醫藥大學",
+      "ownership": "私立",
+      "region": "臺中市",
+      "program_count": 16,
+      "admitted_count": 420,
+      "source_id": "uac-112-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 112,
+      "university": "中山醫學大學",
+      "ownership": "私立",
+      "region": "臺中市",
+      "program_count": 22,
+      "admitted_count": 850,
+      "source_id": "uac-112-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 112,
+      "university": "中華大學",
+      "ownership": "私立",
+      "region": "新竹市",
+      "program_count": 25,
+      "admitted_count": 192,
+      "source_id": "uac-112-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 112,
+      "university": "亞洲大學",
+      "ownership": "私立",
+      "region": "臺中市",
+      "program_count": 42,
+      "admitted_count": 552,
+      "source_id": "uac-112-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 112,
+      "university": "佛光大學",
+      "ownership": "私立",
+      "region": "宜蘭縣",
+      "program_count": 22,
+      "admitted_count": 24,
+      "source_id": "uac-112-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 112,
+      "university": "元智大學",
+      "ownership": "私立",
+      "region": "桃園市",
+      "program_count": 26,
+      "admitted_count": 672,
+      "source_id": "uac-112-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 112,
+      "university": "南華大學",
+      "ownership": "私立",
+      "region": "嘉義縣",
+      "program_count": 20,
+      "admitted_count": 103,
+      "source_id": "uac-112-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 112,
+      "university": "國立中央大學",
+      "ownership": "公立",
+      "region": "桃園市",
+      "program_count": 32,
+      "admitted_count": 691,
+      "source_id": "uac-112-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 112,
+      "university": "國立中山大學",
+      "ownership": "公立",
+      "region": "高雄市",
+      "program_count": 35,
+      "admitted_count": 556,
+      "source_id": "uac-112-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 112,
+      "university": "國立中正大學",
+      "ownership": "公立",
+      "region": "嘉義縣",
+      "program_count": 33,
+      "admitted_count": 803,
+      "source_id": "uac-112-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 112,
+      "university": "國立中興大學",
+      "ownership": "公立",
+      "region": "臺中市",
+      "program_count": 42,
+      "admitted_count": 976,
+      "source_id": "uac-112-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 112,
+      "university": "國立嘉義大學",
+      "ownership": "公立",
+      "region": "嘉義市",
+      "program_count": 43,
+      "admitted_count": 1131,
+      "source_id": "uac-112-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 112,
+      "university": "國立宜蘭大學",
+      "ownership": "公立",
+      "region": "宜蘭縣",
+      "program_count": 15,
+      "admitted_count": 419,
+      "source_id": "uac-112-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 112,
+      "university": "國立屏東大學",
+      "ownership": "公立",
+      "region": "屏東縣",
+      "program_count": 33,
+      "admitted_count": 412,
+      "source_id": "uac-112-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 112,
+      "university": "國立彰化師範大學",
+      "ownership": "公立",
+      "region": "彰化縣",
+      "program_count": 24,
+      "admitted_count": 581,
+      "source_id": "uac-112-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 112,
+      "university": "國立成功大學",
+      "ownership": "公立",
+      "region": "臺南市",
+      "program_count": 51,
+      "admitted_count": 1437,
+      "source_id": "uac-112-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 112,
+      "university": "國立政治大學",
+      "ownership": "公立",
+      "region": "臺北市",
+      "program_count": 52,
+      "admitted_count": 1077,
+      "source_id": "uac-112-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 112,
+      "university": "國立暨南國際大學",
+      "ownership": "公立",
+      "region": "南投縣",
+      "program_count": 28,
+      "admitted_count": 458,
+      "source_id": "uac-112-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 112,
+      "university": "國立東華大學",
+      "ownership": "公立",
+      "region": "花蓮縣",
+      "program_count": 48,
+      "admitted_count": 804,
+      "source_id": "uac-112-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 112,
+      "university": "國立清華大學",
+      "ownership": "公立",
+      "region": "新竹市",
+      "program_count": 48,
+      "admitted_count": 664,
+      "source_id": "uac-112-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 112,
+      "university": "國立聯合大學",
+      "ownership": "公立",
+      "region": "苗栗縣",
+      "program_count": 22,
+      "admitted_count": 515,
+      "source_id": "uac-112-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 112,
+      "university": "國立臺中教育大學",
+      "ownership": "公立",
+      "region": "臺中市",
+      "program_count": 17,
+      "admitted_count": 378,
+      "source_id": "uac-112-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 112,
+      "university": "國立臺北大學",
+      "ownership": "公立",
+      "region": "新北市",
+      "program_count": 20,
+      "admitted_count": 623,
+      "source_id": "uac-112-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 112,
+      "university": "國立臺北教育大學",
+      "ownership": "公立",
+      "region": "臺北市",
+      "program_count": 21,
+      "admitted_count": 354,
+      "source_id": "uac-112-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 112,
+      "university": "國立臺南大學",
+      "ownership": "公立",
+      "region": "臺南市",
+      "program_count": 23,
+      "admitted_count": 509,
+      "source_id": "uac-112-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 112,
+      "university": "國立臺南藝術大學",
+      "ownership": "公立",
+      "region": "臺南市",
+      "program_count": 3,
+      "admitted_count": 45,
+      "source_id": "uac-112-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 112,
+      "university": "國立臺東大學",
+      "ownership": "公立",
+      "region": "臺東縣",
+      "program_count": 21,
+      "admitted_count": 285,
+      "source_id": "uac-112-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 112,
+      "university": "國立臺灣大學",
+      "ownership": "公立",
+      "region": "臺北市",
+      "program_count": 70,
+      "admitted_count": 1598,
+      "source_id": "uac-112-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 112,
+      "university": "國立臺灣師範大學",
+      "ownership": "公立",
+      "region": "臺北市",
+      "program_count": 39,
+      "admitted_count": 635,
+      "source_id": "uac-112-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 112,
+      "university": "國立臺灣海洋大學",
+      "ownership": "公立",
+      "region": "基隆市",
+      "program_count": 23,
+      "admitted_count": 539,
+      "source_id": "uac-112-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 112,
+      "university": "國立臺灣藝術大學",
+      "ownership": "公立",
+      "region": "新北市",
+      "program_count": 15,
+      "admitted_count": 218,
+      "source_id": "uac-112-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 112,
+      "university": "國立臺灣體育運動大學",
+      "ownership": "公立",
+      "region": "臺中市",
+      "program_count": 5,
+      "admitted_count": 93,
+      "source_id": "uac-112-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 112,
+      "university": "國立金門大學",
+      "ownership": "公立",
+      "region": "金門縣",
+      "program_count": 19,
+      "admitted_count": 275,
+      "source_id": "uac-112-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 112,
+      "university": "國立陽明交通大學",
+      "ownership": "公立",
+      "region": "新竹市",
+      "program_count": 40,
+      "admitted_count": 629,
+      "source_id": "uac-112-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 112,
+      "university": "國立體育大學",
+      "ownership": "公立",
+      "region": "桃園市",
+      "program_count": 7,
+      "admitted_count": 99,
+      "source_id": "uac-112-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 112,
+      "university": "國立高雄大學",
+      "ownership": "公立",
+      "region": "高雄市",
+      "program_count": 23,
+      "admitted_count": 590,
+      "source_id": "uac-112-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 112,
+      "university": "國立高雄師範大學",
+      "ownership": "公立",
+      "region": "高雄市",
+      "program_count": 21,
+      "admitted_count": 451,
+      "source_id": "uac-112-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 112,
+      "university": "大同大學",
+      "ownership": "私立",
+      "region": "臺北市",
+      "program_count": 23,
+      "admitted_count": 270,
+      "source_id": "uac-112-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 112,
+      "university": "大葉大學",
+      "ownership": "私立",
+      "region": "彰化縣",
+      "program_count": 38,
+      "admitted_count": 107,
+      "source_id": "uac-112-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 112,
+      "university": "實踐大學",
+      "ownership": "私立",
+      "region": "臺北市",
+      "program_count": 46,
+      "admitted_count": 396,
+      "source_id": "uac-112-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 112,
+      "university": "康寧大學",
+      "ownership": "私立",
+      "region": "臺北市",
+      "program_count": 2,
+      "admitted_count": 16,
+      "source_id": "uac-112-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 112,
+      "university": "慈濟大學",
+      "ownership": "私立",
+      "region": "花蓮縣",
+      "program_count": 17,
+      "admitted_count": 144,
+      "source_id": "uac-112-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 112,
+      "university": "東吳大學",
+      "ownership": "私立",
+      "region": "臺北市",
+      "program_count": 24,
+      "admitted_count": 1290,
+      "source_id": "uac-112-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 112,
+      "university": "東海大學",
+      "ownership": "私立",
+      "region": "臺中市",
+      "program_count": 49,
+      "admitted_count": 1239,
+      "source_id": "uac-112-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 112,
+      "university": "淡江大學",
+      "ownership": "私立",
+      "region": "新北市",
+      "program_count": 52,
+      "admitted_count": 2034,
+      "source_id": "uac-112-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 112,
+      "university": "玄奘大學",
+      "ownership": "私立",
+      "region": "新竹市",
+      "program_count": 8,
+      "admitted_count": 7,
+      "source_id": "uac-112-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 112,
+      "university": "真理大學",
+      "ownership": "私立",
+      "region": "新北市",
+      "program_count": 29,
+      "admitted_count": 26,
+      "source_id": "uac-112-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 112,
+      "university": "義守大學",
+      "ownership": "私立",
+      "region": "高雄市",
+      "program_count": 54,
+      "admitted_count": 713,
+      "source_id": "uac-112-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 112,
+      "university": "臺北市立大學",
+      "ownership": "公立",
+      "region": "臺北市",
+      "program_count": 22,
+      "admitted_count": 357,
+      "source_id": "uac-112-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 112,
+      "university": "臺北醫學大學",
+      "ownership": "私立",
+      "region": "臺北市",
+      "program_count": 16,
+      "admitted_count": 331,
+      "source_id": "uac-112-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 112,
+      "university": "輔仁大學",
+      "ownership": "私立",
+      "region": "新北市",
+      "program_count": 56,
+      "admitted_count": 1700,
+      "source_id": "uac-112-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 112,
+      "university": "逢甲大學",
+      "ownership": "私立",
+      "region": "臺中市",
+      "program_count": 40,
+      "admitted_count": 1102,
+      "source_id": "uac-112-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 112,
+      "university": "銘傳大學",
+      "ownership": "私立",
+      "region": "臺北市",
+      "program_count": 58,
+      "admitted_count": 1087,
+      "source_id": "uac-112-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 112,
+      "university": "長庚大學",
+      "ownership": "私立",
+      "region": "桃園市",
+      "program_count": 24,
+      "admitted_count": 526,
+      "source_id": "uac-112-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 112,
+      "university": "長榮大學",
+      "ownership": "私立",
+      "region": "臺南市",
+      "program_count": 38,
+      "admitted_count": 215,
+      "source_id": "uac-112-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 112,
+      "university": "靜宜大學",
+      "ownership": "私立",
+      "region": "臺中市",
+      "program_count": 35,
+      "admitted_count": 575,
+      "source_id": "uac-112-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 112,
+      "university": "馬偕醫學院",
+      "ownership": "私立",
+      "region": "新北市",
+      "program_count": 5,
+      "admitted_count": 128,
+      "source_id": "uac-112-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 112,
+      "university": "高雄醫學大學",
+      "ownership": "私立",
+      "region": "高雄市",
+      "program_count": 22,
+      "admitted_count": 633,
+      "source_id": "uac-112-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 113,
+      "university": "世新大學",
+      "ownership": "私立",
+      "region": "臺北市",
+      "program_count": 25,
+      "admitted_count": 941,
+      "source_id": "uac-113-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 113,
+      "university": "中原大學",
+      "ownership": "私立",
+      "region": "桃園市",
+      "program_count": 39,
+      "admitted_count": 658,
+      "source_id": "uac-113-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 113,
+      "university": "中國文化大學",
+      "ownership": "私立",
+      "region": "臺北市",
+      "program_count": 67,
+      "admitted_count": 1026,
+      "source_id": "uac-113-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 113,
+      "university": "中國醫藥大學",
+      "ownership": "私立",
+      "region": "臺中市",
+      "program_count": 17,
+      "admitted_count": 305,
+      "source_id": "uac-113-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 113,
+      "university": "中山醫學大學",
+      "ownership": "私立",
+      "region": "臺中市",
+      "program_count": 22,
+      "admitted_count": 788,
+      "source_id": "uac-113-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 113,
+      "university": "中華大學",
+      "ownership": "私立",
+      "region": "新竹市",
+      "program_count": 24,
+      "admitted_count": 320,
+      "source_id": "uac-113-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 113,
+      "university": "亞洲大學",
+      "ownership": "私立",
+      "region": "臺中市",
+      "program_count": 39,
+      "admitted_count": 485,
+      "source_id": "uac-113-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 113,
+      "university": "佛光大學",
+      "ownership": "私立",
+      "region": "宜蘭縣",
+      "program_count": 23,
+      "admitted_count": 31,
+      "source_id": "uac-113-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 113,
+      "university": "元智大學",
+      "ownership": "私立",
+      "region": "桃園市",
+      "program_count": 27,
+      "admitted_count": 559,
+      "source_id": "uac-113-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 113,
+      "university": "南華大學",
+      "ownership": "私立",
+      "region": "嘉義縣",
+      "program_count": 20,
+      "admitted_count": 78,
+      "source_id": "uac-113-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 113,
+      "university": "國立中央大學",
+      "ownership": "公立",
+      "region": "桃園市",
+      "program_count": 32,
+      "admitted_count": 679,
+      "source_id": "uac-113-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 113,
+      "university": "國立中山大學",
+      "ownership": "公立",
+      "region": "高雄市",
+      "program_count": 37,
+      "admitted_count": 462,
+      "source_id": "uac-113-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 113,
+      "university": "國立中正大學",
+      "ownership": "公立",
+      "region": "嘉義縣",
+      "program_count": 33,
+      "admitted_count": 804,
+      "source_id": "uac-113-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 113,
+      "university": "國立中興大學",
+      "ownership": "公立",
+      "region": "臺中市",
+      "program_count": 43,
+      "admitted_count": 913,
+      "source_id": "uac-113-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 113,
+      "university": "國立嘉義大學",
+      "ownership": "公立",
+      "region": "嘉義市",
+      "program_count": 43,
+      "admitted_count": 1100,
+      "source_id": "uac-113-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 113,
+      "university": "國立宜蘭大學",
+      "ownership": "公立",
+      "region": "宜蘭縣",
+      "program_count": 15,
+      "admitted_count": 341,
+      "source_id": "uac-113-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 113,
+      "university": "國立屏東大學",
+      "ownership": "公立",
+      "region": "屏東縣",
+      "program_count": 32,
+      "admitted_count": 365,
+      "source_id": "uac-113-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 113,
+      "university": "國立彰化師範大學",
+      "ownership": "公立",
+      "region": "彰化縣",
+      "program_count": 24,
+      "admitted_count": 558,
+      "source_id": "uac-113-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 113,
+      "university": "國立成功大學",
+      "ownership": "公立",
+      "region": "臺南市",
+      "program_count": 51,
+      "admitted_count": 1403,
+      "source_id": "uac-113-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 113,
+      "university": "國立政治大學",
+      "ownership": "公立",
+      "region": "臺北市",
+      "program_count": 52,
+      "admitted_count": 1146,
+      "source_id": "uac-113-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 113,
+      "university": "國立暨南國際大學",
+      "ownership": "公立",
+      "region": "南投縣",
+      "program_count": 28,
+      "admitted_count": 467,
+      "source_id": "uac-113-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 113,
+      "university": "國立東華大學",
+      "ownership": "公立",
+      "region": "花蓮縣",
+      "program_count": 50,
+      "admitted_count": 877,
+      "source_id": "uac-113-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 113,
+      "university": "國立清華大學",
+      "ownership": "公立",
+      "region": "新竹市",
+      "program_count": 48,
+      "admitted_count": 614,
+      "source_id": "uac-113-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 113,
+      "university": "國立聯合大學",
+      "ownership": "公立",
+      "region": "苗栗縣",
+      "program_count": 22,
+      "admitted_count": 480,
+      "source_id": "uac-113-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 113,
+      "university": "國立臺中教育大學",
+      "ownership": "公立",
+      "region": "臺中市",
+      "program_count": 17,
+      "admitted_count": 393,
+      "source_id": "uac-113-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 113,
+      "university": "國立臺北大學",
+      "ownership": "公立",
+      "region": "新北市",
+      "program_count": 20,
+      "admitted_count": 651,
+      "source_id": "uac-113-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 113,
+      "university": "國立臺北教育大學",
+      "ownership": "公立",
+      "region": "臺北市",
+      "program_count": 21,
+      "admitted_count": 354,
+      "source_id": "uac-113-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 113,
+      "university": "國立臺南大學",
+      "ownership": "公立",
+      "region": "臺南市",
+      "program_count": 23,
+      "admitted_count": 479,
+      "source_id": "uac-113-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 113,
+      "university": "國立臺南藝術大學",
+      "ownership": "公立",
+      "region": "臺南市",
+      "program_count": 3,
+      "admitted_count": 45,
+      "source_id": "uac-113-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 113,
+      "university": "國立臺東大學",
+      "ownership": "公立",
+      "region": "臺東縣",
+      "program_count": 21,
+      "admitted_count": 226,
+      "source_id": "uac-113-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 113,
+      "university": "國立臺灣大學",
+      "ownership": "公立",
+      "region": "臺北市",
+      "program_count": 70,
+      "admitted_count": 1507,
+      "source_id": "uac-113-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 113,
+      "university": "國立臺灣師範大學",
+      "ownership": "公立",
+      "region": "臺北市",
+      "program_count": 39,
+      "admitted_count": 625,
+      "source_id": "uac-113-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 113,
+      "university": "國立臺灣海洋大學",
+      "ownership": "公立",
+      "region": "基隆市",
+      "program_count": 23,
+      "admitted_count": 525,
+      "source_id": "uac-113-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 113,
+      "university": "國立臺灣藝術大學",
+      "ownership": "公立",
+      "region": "新北市",
+      "program_count": 15,
+      "admitted_count": 224,
+      "source_id": "uac-113-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 113,
+      "university": "國立臺灣體育運動大學",
+      "ownership": "公立",
+      "region": "臺中市",
+      "program_count": 5,
+      "admitted_count": 75,
+      "source_id": "uac-113-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 113,
+      "university": "國立金門大學",
+      "ownership": "公立",
+      "region": "金門縣",
+      "program_count": 20,
+      "admitted_count": 224,
+      "source_id": "uac-113-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 113,
+      "university": "國立陽明交通大學",
+      "ownership": "公立",
+      "region": "新竹市",
+      "program_count": 41,
+      "admitted_count": 616,
+      "source_id": "uac-113-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 113,
+      "university": "國立體育大學",
+      "ownership": "公立",
+      "region": "桃園市",
+      "program_count": 7,
+      "admitted_count": 70,
+      "source_id": "uac-113-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 113,
+      "university": "國立高雄大學",
+      "ownership": "公立",
+      "region": "高雄市",
+      "program_count": 23,
+      "admitted_count": 535,
+      "source_id": "uac-113-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 113,
+      "university": "國立高雄師範大學",
+      "ownership": "公立",
+      "region": "高雄市",
+      "program_count": 21,
+      "admitted_count": 446,
+      "source_id": "uac-113-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 113,
+      "university": "大同大學",
+      "ownership": "私立",
+      "region": "臺北市",
+      "program_count": 23,
+      "admitted_count": 262,
+      "source_id": "uac-113-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 113,
+      "university": "大葉大學",
+      "ownership": "私立",
+      "region": "彰化縣",
+      "program_count": 41,
+      "admitted_count": 243,
+      "source_id": "uac-113-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 113,
+      "university": "實踐大學",
+      "ownership": "私立",
+      "region": "臺北市",
+      "program_count": 49,
+      "admitted_count": 570,
+      "source_id": "uac-113-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 113,
+      "university": "康寧大學",
+      "ownership": "私立",
+      "region": "臺北市",
+      "program_count": 2,
+      "admitted_count": 19,
+      "source_id": "uac-113-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 113,
+      "university": "慈濟大學",
+      "ownership": "私立",
+      "region": "花蓮縣",
+      "program_count": 17,
+      "admitted_count": 148,
+      "source_id": "uac-113-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 113,
+      "university": "東吳大學",
+      "ownership": "私立",
+      "region": "臺北市",
+      "program_count": 24,
+      "admitted_count": 1223,
+      "source_id": "uac-113-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 113,
+      "university": "東海大學",
+      "ownership": "私立",
+      "region": "臺中市",
+      "program_count": 48,
+      "admitted_count": 1161,
+      "source_id": "uac-113-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 113,
+      "university": "淡江大學",
+      "ownership": "私立",
+      "region": "新北市",
+      "program_count": 47,
+      "admitted_count": 1817,
+      "source_id": "uac-113-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 113,
+      "university": "玄奘大學",
+      "ownership": "私立",
+      "region": "新竹市",
+      "program_count": 8,
+      "admitted_count": 7,
+      "source_id": "uac-113-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 113,
+      "university": "真理大學",
+      "ownership": "私立",
+      "region": "新北市",
+      "program_count": 25,
+      "admitted_count": 63,
+      "source_id": "uac-113-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 113,
+      "university": "義守大學",
+      "ownership": "私立",
+      "region": "高雄市",
+      "program_count": 50,
+      "admitted_count": 693,
+      "source_id": "uac-113-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 113,
+      "university": "臺北市立大學",
+      "ownership": "公立",
+      "region": "臺北市",
+      "program_count": 22,
+      "admitted_count": 344,
+      "source_id": "uac-113-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 113,
+      "university": "臺北醫學大學",
+      "ownership": "私立",
+      "region": "臺北市",
+      "program_count": 16,
+      "admitted_count": 273,
+      "source_id": "uac-113-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 113,
+      "university": "輔仁大學",
+      "ownership": "私立",
+      "region": "新北市",
+      "program_count": 58,
+      "admitted_count": 1585,
+      "source_id": "uac-113-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 113,
+      "university": "逢甲大學",
+      "ownership": "私立",
+      "region": "臺中市",
+      "program_count": 41,
+      "admitted_count": 854,
+      "source_id": "uac-113-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 113,
+      "university": "銘傳大學",
+      "ownership": "私立",
+      "region": "臺北市",
+      "program_count": 64,
+      "admitted_count": 1380,
+      "source_id": "uac-113-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 113,
+      "university": "長庚大學",
+      "ownership": "私立",
+      "region": "桃園市",
+      "program_count": 24,
+      "admitted_count": 484,
+      "source_id": "uac-113-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 113,
+      "university": "長榮大學",
+      "ownership": "私立",
+      "region": "臺南市",
+      "program_count": 34,
+      "admitted_count": 335,
+      "source_id": "uac-113-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 113,
+      "university": "靜宜大學",
+      "ownership": "私立",
+      "region": "臺中市",
+      "program_count": 36,
+      "admitted_count": 549,
+      "source_id": "uac-113-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 113,
+      "university": "馬偕醫學院",
+      "ownership": "私立",
+      "region": "新北市",
+      "program_count": 6,
+      "admitted_count": 120,
+      "source_id": "uac-113-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 113,
+      "university": "高雄醫學大學",
+      "ownership": "私立",
+      "region": "高雄市",
+      "program_count": 22,
+      "admitted_count": 551,
+      "source_id": "uac-113-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 114,
+      "university": "世新大學",
+      "ownership": "私立",
+      "region": "臺北市",
+      "program_count": 22,
+      "admitted_count": 934,
+      "source_id": "uac-114-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 114,
+      "university": "中原大學",
+      "ownership": "私立",
+      "region": "桃園市",
+      "program_count": 39,
+      "admitted_count": 572,
+      "source_id": "uac-114-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 114,
+      "university": "中國文化大學",
+      "ownership": "私立",
+      "region": "臺北市",
+      "program_count": 65,
+      "admitted_count": 1255,
+      "source_id": "uac-114-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 114,
+      "university": "中國醫藥大學",
+      "ownership": "私立",
+      "region": "臺中市",
+      "program_count": 17,
+      "admitted_count": 248,
+      "source_id": "uac-114-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 114,
+      "university": "中山醫學大學",
+      "ownership": "私立",
+      "region": "臺中市",
+      "program_count": 22,
+      "admitted_count": 774,
+      "source_id": "uac-114-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 114,
+      "university": "中華大學",
+      "ownership": "私立",
+      "region": "新竹市",
+      "program_count": 18,
+      "admitted_count": 264,
+      "source_id": "uac-114-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 114,
+      "university": "亞洲大學",
+      "ownership": "私立",
+      "region": "臺中市",
+      "program_count": 38,
+      "admitted_count": 402,
+      "source_id": "uac-114-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 114,
+      "university": "佛光大學",
+      "ownership": "私立",
+      "region": "宜蘭縣",
+      "program_count": 21,
+      "admitted_count": 68,
+      "source_id": "uac-114-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 114,
+      "university": "元智大學",
+      "ownership": "私立",
+      "region": "桃園市",
+      "program_count": 30,
+      "admitted_count": 441,
+      "source_id": "uac-114-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 114,
+      "university": "南華大學",
+      "ownership": "私立",
+      "region": "嘉義縣",
+      "program_count": 21,
+      "admitted_count": 102,
+      "source_id": "uac-114-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 114,
+      "university": "國立中央大學",
+      "ownership": "公立",
+      "region": "桃園市",
+      "program_count": 32,
+      "admitted_count": 575,
+      "source_id": "uac-114-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 114,
+      "university": "國立中山大學",
+      "ownership": "公立",
+      "region": "高雄市",
+      "program_count": 38,
+      "admitted_count": 436,
+      "source_id": "uac-114-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 114,
+      "university": "國立中正大學",
+      "ownership": "公立",
+      "region": "嘉義縣",
+      "program_count": 36,
+      "admitted_count": 719,
+      "source_id": "uac-114-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 114,
+      "university": "國立中興大學",
+      "ownership": "公立",
+      "region": "臺中市",
+      "program_count": 43,
+      "admitted_count": 837,
+      "source_id": "uac-114-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 114,
+      "university": "國立嘉義大學",
+      "ownership": "公立",
+      "region": "嘉義市",
+      "program_count": 43,
+      "admitted_count": 1016,
+      "source_id": "uac-114-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 114,
+      "university": "國立宜蘭大學",
+      "ownership": "公立",
+      "region": "宜蘭縣",
+      "program_count": 15,
+      "admitted_count": 227,
+      "source_id": "uac-114-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 114,
+      "university": "國立屏東大學",
+      "ownership": "公立",
+      "region": "屏東縣",
+      "program_count": 31,
+      "admitted_count": 375,
+      "source_id": "uac-114-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 114,
+      "university": "國立彰化師範大學",
+      "ownership": "公立",
+      "region": "彰化縣",
+      "program_count": 24,
+      "admitted_count": 514,
+      "source_id": "uac-114-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 114,
+      "university": "國立成功大學",
+      "ownership": "公立",
+      "region": "臺南市",
+      "program_count": 50,
+      "admitted_count": 1384,
+      "source_id": "uac-114-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 114,
+      "university": "國立政治大學",
+      "ownership": "公立",
+      "region": "臺北市",
+      "program_count": 45,
+      "admitted_count": 1069,
+      "source_id": "uac-114-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 114,
+      "university": "國立暨南國際大學",
+      "ownership": "公立",
+      "region": "南投縣",
+      "program_count": 28,
+      "admitted_count": 382,
+      "source_id": "uac-114-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 114,
+      "university": "國立東華大學",
+      "ownership": "公立",
+      "region": "花蓮縣",
+      "program_count": 51,
+      "admitted_count": 777,
+      "source_id": "uac-114-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 114,
+      "university": "國立清華大學",
+      "ownership": "公立",
+      "region": "新竹市",
+      "program_count": 49,
+      "admitted_count": 531,
+      "source_id": "uac-114-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 114,
+      "university": "國立聯合大學",
+      "ownership": "公立",
+      "region": "苗栗縣",
+      "program_count": 20,
+      "admitted_count": 438,
+      "source_id": "uac-114-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 114,
+      "university": "國立臺中教育大學",
+      "ownership": "公立",
+      "region": "臺中市",
+      "program_count": 18,
+      "admitted_count": 336,
+      "source_id": "uac-114-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 114,
+      "university": "國立臺北大學",
+      "ownership": "公立",
+      "region": "新北市",
+      "program_count": 20,
+      "admitted_count": 564,
+      "source_id": "uac-114-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 114,
+      "university": "國立臺北教育大學",
+      "ownership": "公立",
+      "region": "臺北市",
+      "program_count": 21,
+      "admitted_count": 348,
+      "source_id": "uac-114-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 114,
+      "university": "國立臺南大學",
+      "ownership": "公立",
+      "region": "臺南市",
+      "program_count": 23,
+      "admitted_count": 456,
+      "source_id": "uac-114-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 114,
+      "university": "國立臺南藝術大學",
+      "ownership": "公立",
+      "region": "臺南市",
+      "program_count": 3,
+      "admitted_count": 58,
+      "source_id": "uac-114-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 114,
+      "university": "國立臺東大學",
+      "ownership": "公立",
+      "region": "臺東縣",
+      "program_count": 20,
+      "admitted_count": 219,
+      "source_id": "uac-114-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 114,
+      "university": "國立臺灣大學",
+      "ownership": "公立",
+      "region": "臺北市",
+      "program_count": 68,
+      "admitted_count": 1468,
+      "source_id": "uac-114-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 114,
+      "university": "國立臺灣師範大學",
+      "ownership": "公立",
+      "region": "臺北市",
+      "program_count": 39,
+      "admitted_count": 588,
+      "source_id": "uac-114-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 114,
+      "university": "國立臺灣海洋大學",
+      "ownership": "公立",
+      "region": "基隆市",
+      "program_count": 23,
+      "admitted_count": 404,
+      "source_id": "uac-114-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 114,
+      "university": "國立臺灣藝術大學",
+      "ownership": "公立",
+      "region": "新北市",
+      "program_count": 14,
+      "admitted_count": 205,
+      "source_id": "uac-114-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 114,
+      "university": "國立臺灣體育運動大學",
+      "ownership": "公立",
+      "region": "臺中市",
+      "program_count": 5,
+      "admitted_count": 65,
+      "source_id": "uac-114-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 114,
+      "university": "國立金門大學",
+      "ownership": "公立",
+      "region": "金門縣",
+      "program_count": 20,
+      "admitted_count": 233,
+      "source_id": "uac-114-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 114,
+      "university": "國立陽明交通大學",
+      "ownership": "公立",
+      "region": "新竹市",
+      "program_count": 41,
+      "admitted_count": 541,
+      "source_id": "uac-114-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 114,
+      "university": "國立體育大學",
+      "ownership": "公立",
+      "region": "桃園市",
+      "program_count": 7,
+      "admitted_count": 65,
+      "source_id": "uac-114-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 114,
+      "university": "國立高雄大學",
+      "ownership": "公立",
+      "region": "高雄市",
+      "program_count": 23,
+      "admitted_count": 471,
+      "source_id": "uac-114-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 114,
+      "university": "國立高雄師範大學",
+      "ownership": "公立",
+      "region": "高雄市",
+      "program_count": 21,
+      "admitted_count": 389,
+      "source_id": "uac-114-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 114,
+      "university": "大同大學",
+      "ownership": "私立",
+      "region": "臺北市",
+      "program_count": 20,
+      "admitted_count": 215,
+      "source_id": "uac-114-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 114,
+      "university": "大葉大學",
+      "ownership": "私立",
+      "region": "彰化縣",
+      "program_count": 36,
+      "admitted_count": 245,
+      "source_id": "uac-114-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 114,
+      "university": "實踐大學",
+      "ownership": "私立",
+      "region": "臺北市",
+      "program_count": 43,
+      "admitted_count": 563,
+      "source_id": "uac-114-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 114,
+      "university": "康寧大學",
+      "ownership": "私立",
+      "region": "臺北市",
+      "program_count": 2,
+      "admitted_count": 12,
+      "source_id": "uac-114-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 114,
+      "university": "慈濟大學",
+      "ownership": "私立",
+      "region": "花蓮縣",
+      "program_count": 21,
+      "admitted_count": 180,
+      "source_id": "uac-114-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 114,
+      "university": "東吳大學",
+      "ownership": "私立",
+      "region": "臺北市",
+      "program_count": 25,
+      "admitted_count": 1096,
+      "source_id": "uac-114-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 114,
+      "university": "東海大學",
+      "ownership": "私立",
+      "region": "臺中市",
+      "program_count": 44,
+      "admitted_count": 1010,
+      "source_id": "uac-114-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 114,
+      "university": "淡江大學",
+      "ownership": "私立",
+      "region": "新北市",
+      "program_count": 47,
+      "admitted_count": 1735,
+      "source_id": "uac-114-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 114,
+      "university": "玄奘大學",
+      "ownership": "私立",
+      "region": "新竹市",
+      "program_count": 7,
+      "admitted_count": 13,
+      "source_id": "uac-114-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 114,
+      "university": "真理大學",
+      "ownership": "私立",
+      "region": "新北市",
+      "program_count": 17,
+      "admitted_count": 134,
+      "source_id": "uac-114-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 114,
+      "university": "義守大學",
+      "ownership": "私立",
+      "region": "高雄市",
+      "program_count": 39,
+      "admitted_count": 684,
+      "source_id": "uac-114-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 114,
+      "university": "臺北市立大學",
+      "ownership": "公立",
+      "region": "臺北市",
+      "program_count": 22,
+      "admitted_count": 326,
+      "source_id": "uac-114-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 114,
+      "university": "臺北醫學大學",
+      "ownership": "私立",
+      "region": "臺北市",
+      "program_count": 16,
+      "admitted_count": 254,
+      "source_id": "uac-114-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 114,
+      "university": "輔仁大學",
+      "ownership": "私立",
+      "region": "新北市",
+      "program_count": 58,
+      "admitted_count": 1431,
+      "source_id": "uac-114-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 114,
+      "university": "逢甲大學",
+      "ownership": "私立",
+      "region": "臺中市",
+      "program_count": 44,
+      "admitted_count": 717,
+      "source_id": "uac-114-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 114,
+      "university": "銘傳大學",
+      "ownership": "私立",
+      "region": "臺北市",
+      "program_count": 60,
+      "admitted_count": 1176,
+      "source_id": "uac-114-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 114,
+      "university": "長庚大學",
+      "ownership": "私立",
+      "region": "桃園市",
+      "program_count": 24,
+      "admitted_count": 496,
+      "source_id": "uac-114-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 114,
+      "university": "長榮大學",
+      "ownership": "私立",
+      "region": "臺南市",
+      "program_count": 32,
+      "admitted_count": 346,
+      "source_id": "uac-114-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 114,
+      "university": "靜宜大學",
+      "ownership": "私立",
+      "region": "臺中市",
+      "program_count": 38,
+      "admitted_count": 525,
+      "source_id": "uac-114-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 114,
+      "university": "馬偕醫學院",
+      "ownership": "私立",
+      "region": "新北市",
+      "program_count": 6,
+      "admitted_count": 131,
+      "source_id": "uac-114-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 114,
+      "university": "高雄醫學大學",
+      "ownership": "私立",
+      "region": "高雄市",
+      "program_count": 22,
+      "admitted_count": 458,
+      "source_id": "uac-114-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 115,
+      "university": "世新大學",
+      "ownership": "私立",
+      "region": "臺北市",
+      "program_count": 22,
+      "admitted_count": 823,
+      "source_id": "uac-115-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 115,
+      "university": "中原大學",
+      "ownership": "私立",
+      "region": "桃園市",
+      "program_count": 40,
+      "admitted_count": 557,
+      "source_id": "uac-115-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 115,
+      "university": "中國文化大學",
+      "ownership": "私立",
+      "region": "臺北市",
+      "program_count": 64,
+      "admitted_count": 1263,
+      "source_id": "uac-115-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 115,
+      "university": "中國醫藥大學",
+      "ownership": "私立",
+      "region": "臺中市",
+      "program_count": 17,
+      "admitted_count": 309,
+      "source_id": "uac-115-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 115,
+      "university": "中山醫學大學",
+      "ownership": "私立",
+      "region": "臺中市",
+      "program_count": 22,
+      "admitted_count": 818,
+      "source_id": "uac-115-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 115,
+      "university": "亞洲大學",
+      "ownership": "私立",
+      "region": "臺中市",
+      "program_count": 37,
+      "admitted_count": 408,
+      "source_id": "uac-115-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 115,
+      "university": "佛光大學",
+      "ownership": "私立",
+      "region": "宜蘭縣",
+      "program_count": 19,
+      "admitted_count": 46,
+      "source_id": "uac-115-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 115,
+      "university": "元智大學",
+      "ownership": "私立",
+      "region": "桃園市",
+      "program_count": 31,
+      "admitted_count": 466,
+      "source_id": "uac-115-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 115,
+      "university": "南華大學",
+      "ownership": "私立",
+      "region": "嘉義縣",
+      "program_count": 19,
+      "admitted_count": 125,
+      "source_id": "uac-115-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 115,
+      "university": "國立中央大學",
+      "ownership": "公立",
+      "region": "桃園市",
+      "program_count": 34,
+      "admitted_count": 618,
+      "source_id": "uac-115-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 115,
+      "university": "國立中山大學",
+      "ownership": "公立",
+      "region": "高雄市",
+      "program_count": 38,
+      "admitted_count": 463,
+      "source_id": "uac-115-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 115,
+      "university": "國立中正大學",
+      "ownership": "公立",
+      "region": "嘉義縣",
+      "program_count": 36,
+      "admitted_count": 750,
+      "source_id": "uac-115-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 115,
+      "university": "國立中興大學",
+      "ownership": "公立",
+      "region": "臺中市",
+      "program_count": 43,
+      "admitted_count": 880,
+      "source_id": "uac-115-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 115,
+      "university": "國立嘉義大學",
+      "ownership": "公立",
+      "region": "嘉義市",
+      "program_count": 43,
+      "admitted_count": 1045,
+      "source_id": "uac-115-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 115,
+      "university": "國立宜蘭大學",
+      "ownership": "公立",
+      "region": "宜蘭縣",
+      "program_count": 15,
+      "admitted_count": 180,
+      "source_id": "uac-115-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 115,
+      "university": "國立屏東大學",
+      "ownership": "公立",
+      "region": "屏東縣",
+      "program_count": 32,
+      "admitted_count": 348,
+      "source_id": "uac-115-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 115,
+      "university": "國立彰化師範大學",
+      "ownership": "公立",
+      "region": "彰化縣",
+      "program_count": 24,
+      "admitted_count": 526,
+      "source_id": "uac-115-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 115,
+      "university": "國立成功大學",
+      "ownership": "公立",
+      "region": "臺南市",
+      "program_count": 52,
+      "admitted_count": 1367,
+      "source_id": "uac-115-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 115,
+      "university": "國立政治大學",
+      "ownership": "公立",
+      "region": "臺北市",
+      "program_count": 45,
+      "admitted_count": 977,
+      "source_id": "uac-115-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 115,
+      "university": "國立暨南國際大學",
+      "ownership": "公立",
+      "region": "南投縣",
+      "program_count": 28,
+      "admitted_count": 373,
+      "source_id": "uac-115-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 115,
+      "university": "國立東華大學",
+      "ownership": "公立",
+      "region": "花蓮縣",
+      "program_count": 51,
+      "admitted_count": 699,
+      "source_id": "uac-115-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 115,
+      "university": "國立清華大學",
+      "ownership": "公立",
+      "region": "新竹市",
+      "program_count": 48,
+      "admitted_count": 500,
+      "source_id": "uac-115-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 115,
+      "university": "國立聯合大學",
+      "ownership": "公立",
+      "region": "苗栗縣",
+      "program_count": 21,
+      "admitted_count": 451,
+      "source_id": "uac-115-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 115,
+      "university": "國立臺中教育大學",
+      "ownership": "公立",
+      "region": "臺中市",
+      "program_count": 18,
+      "admitted_count": 331,
+      "source_id": "uac-115-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 115,
+      "university": "國立臺北大學",
+      "ownership": "公立",
+      "region": "新北市",
+      "program_count": 20,
+      "admitted_count": 582,
+      "source_id": "uac-115-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 115,
+      "university": "國立臺北教育大學",
+      "ownership": "公立",
+      "region": "臺北市",
+      "program_count": 22,
+      "admitted_count": 381,
+      "source_id": "uac-115-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 115,
+      "university": "國立臺南大學",
+      "ownership": "公立",
+      "region": "臺南市",
+      "program_count": 23,
+      "admitted_count": 447,
+      "source_id": "uac-115-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 115,
+      "university": "國立臺南藝術大學",
+      "ownership": "公立",
+      "region": "臺南市",
+      "program_count": 3,
+      "admitted_count": 57,
+      "source_id": "uac-115-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 115,
+      "university": "國立臺東大學",
+      "ownership": "公立",
+      "region": "臺東縣",
+      "program_count": 21,
+      "admitted_count": 239,
+      "source_id": "uac-115-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 115,
+      "university": "國立臺灣大學",
+      "ownership": "公立",
+      "region": "臺北市",
+      "program_count": 69,
+      "admitted_count": 1480,
+      "source_id": "uac-115-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 115,
+      "university": "國立臺灣師範大學",
+      "ownership": "公立",
+      "region": "臺北市",
+      "program_count": 39,
+      "admitted_count": 575,
+      "source_id": "uac-115-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 115,
+      "university": "國立臺灣海洋大學",
+      "ownership": "公立",
+      "region": "基隆市",
+      "program_count": 23,
+      "admitted_count": 458,
+      "source_id": "uac-115-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 115,
+      "university": "國立臺灣藝術大學",
+      "ownership": "公立",
+      "region": "新北市",
+      "program_count": 14,
+      "admitted_count": 199,
+      "source_id": "uac-115-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 115,
+      "university": "國立臺灣體育運動大學",
+      "ownership": "公立",
+      "region": "臺中市",
+      "program_count": 5,
+      "admitted_count": 65,
+      "source_id": "uac-115-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 115,
+      "university": "國立金門大學",
+      "ownership": "公立",
+      "region": "金門縣",
+      "program_count": 20,
+      "admitted_count": 185,
+      "source_id": "uac-115-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 115,
+      "university": "國立陽明交通大學",
+      "ownership": "公立",
+      "region": "新竹市",
+      "program_count": 41,
+      "admitted_count": 612,
+      "source_id": "uac-115-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 115,
+      "university": "國立體育大學",
+      "ownership": "公立",
+      "region": "桃園市",
+      "program_count": 7,
+      "admitted_count": 66,
+      "source_id": "uac-115-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 115,
+      "university": "國立高雄大學",
+      "ownership": "公立",
+      "region": "高雄市",
+      "program_count": 23,
+      "admitted_count": 508,
+      "source_id": "uac-115-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 115,
+      "university": "國立高雄師範大學",
+      "ownership": "公立",
+      "region": "高雄市",
+      "program_count": 22,
+      "admitted_count": 396,
+      "source_id": "uac-115-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 115,
+      "university": "大同大學",
+      "ownership": "私立",
+      "region": "臺北市",
+      "program_count": 19,
+      "admitted_count": 220,
+      "source_id": "uac-115-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 115,
+      "university": "大葉大學",
+      "ownership": "私立",
+      "region": "彰化縣",
+      "program_count": 32,
+      "admitted_count": 161,
+      "source_id": "uac-115-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 115,
+      "university": "實踐大學",
+      "ownership": "私立",
+      "region": "臺北市",
+      "program_count": 43,
+      "admitted_count": 532,
+      "source_id": "uac-115-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 115,
+      "university": "康寧大學",
+      "ownership": "私立",
+      "region": "臺北市",
+      "program_count": 2,
+      "admitted_count": 15,
+      "source_id": "uac-115-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 115,
+      "university": "慈濟大學",
+      "ownership": "私立",
+      "region": "花蓮縣",
+      "program_count": 19,
+      "admitted_count": 163,
+      "source_id": "uac-115-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 115,
+      "university": "東吳大學",
+      "ownership": "私立",
+      "region": "臺北市",
+      "program_count": 24,
+      "admitted_count": 1098,
+      "source_id": "uac-115-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 115,
+      "university": "東海大學",
+      "ownership": "私立",
+      "region": "臺中市",
+      "program_count": 45,
+      "admitted_count": 980,
+      "source_id": "uac-115-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 115,
+      "university": "淡江大學",
+      "ownership": "私立",
+      "region": "新北市",
+      "program_count": 47,
+      "admitted_count": 1766,
+      "source_id": "uac-115-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 115,
+      "university": "玄奘大學",
+      "ownership": "私立",
+      "region": "新竹市",
+      "program_count": 7,
+      "admitted_count": 20,
+      "source_id": "uac-115-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 115,
+      "university": "真理大學",
+      "ownership": "私立",
+      "region": "新北市",
+      "program_count": 14,
+      "admitted_count": 90,
+      "source_id": "uac-115-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 115,
+      "university": "義守大學",
+      "ownership": "私立",
+      "region": "高雄市",
+      "program_count": 34,
+      "admitted_count": 647,
+      "source_id": "uac-115-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 115,
+      "university": "臺北市立大學",
+      "ownership": "公立",
+      "region": "臺北市",
+      "program_count": 22,
+      "admitted_count": 316,
+      "source_id": "uac-115-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 115,
+      "university": "臺北醫學大學",
+      "ownership": "私立",
+      "region": "臺北市",
+      "program_count": 15,
+      "admitted_count": 271,
+      "source_id": "uac-115-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 115,
+      "university": "輔仁大學",
+      "ownership": "私立",
+      "region": "新北市",
+      "program_count": 60,
+      "admitted_count": 1403,
+      "source_id": "uac-115-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 115,
+      "university": "逢甲大學",
+      "ownership": "私立",
+      "region": "臺中市",
+      "program_count": 44,
+      "admitted_count": 759,
+      "source_id": "uac-115-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 115,
+      "university": "銘傳大學",
+      "ownership": "私立",
+      "region": "臺北市",
+      "program_count": 66,
+      "admitted_count": 1206,
+      "source_id": "uac-115-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 115,
+      "university": "長庚大學",
+      "ownership": "私立",
+      "region": "桃園市",
+      "program_count": 23,
+      "admitted_count": 462,
+      "source_id": "uac-115-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 115,
+      "university": "長榮大學",
+      "ownership": "私立",
+      "region": "臺南市",
+      "program_count": 33,
+      "admitted_count": 316,
+      "source_id": "uac-115-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 115,
+      "university": "靜宜大學",
+      "ownership": "私立",
+      "region": "臺中市",
+      "program_count": 37,
+      "admitted_count": 600,
+      "source_id": "uac-115-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 115,
+      "university": "馬偕醫學大學",
+      "ownership": "私立",
+      "region": "新北市",
+      "program_count": 6,
+      "admitted_count": 154,
+      "source_id": "uac-115-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    },
+    {
+      "academic_year": 115,
+      "university": "高雄醫學大學",
+      "ownership": "私立",
+      "region": "高雄市",
+      "program_count": 21,
+      "admitted_count": 505,
+      "source_id": "uac-115-program-results",
+      "institution_source_id": "moe-114-institution-directory"
+    }
+  ],
+  "notes": [
+    "地區以教育部 114 學年度名錄的學校本部縣市為準。",
+    "錄取人數含外加名額。",
+    "不同校系採計科目與加權不同，不跨校比較最低錄取分數。"
+  ],
+  "quality": {
+    "status": "passed",
+    "warnings": []
+  }
+}

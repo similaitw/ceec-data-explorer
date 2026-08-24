@@ -1,13 +1,16 @@
 "use client";
 
 import { useState } from "react";
+import { useSearchParams } from "next/navigation";
 import { FeatureIcon } from "./icons";
 import { LineChart } from "./line-chart";
 import { formatNumber, formatPercent } from "@/lib/constants";
 import type { NoncurrentPathwayFact } from "@/lib/types";
 
 export function NoncurrentExplorer({ rows }: { rows: NoncurrentPathwayFact[] }) {
-  const [year, setYear] = useState(rows.at(-1)?.academic_year ?? 115);
+  const search = useSearchParams();
+  const requestedYear = Number(search.get("year"));
+  const [year, setYear] = useState(rows.some((row) => row.academic_year === requestedYear) ? requestedYear : (rows.at(-1)?.academic_year ?? 115));
   const selected = rows.find((row) => row.academic_year === year) ?? rows.at(-1)!;
   const registrationSeries = [{ label: "非應屆占學測報名", color: "#557ac4", values: rows.map((row) => ({ x: row.academic_year, y: row.gsat_noncurrent_share })) }];
   const admissionSeries = [

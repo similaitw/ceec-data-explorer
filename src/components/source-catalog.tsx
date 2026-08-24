@@ -4,7 +4,7 @@ import { useState } from "react";
 import { YEARS } from "@/lib/constants";
 import type { SourceRecord } from "@/lib/types";
 
-const CATEGORY_LABEL: Record<string,string> = { registration:"報名", absence:"缺考", score_boundary:"分數—級分", score_distribution:"級分分布", standard:"五標", admission:"分發錄取" };
+const CATEGORY_LABEL: Record<string,string> = { registration:"報名", absence:"缺考", score_boundary:"分數—級分", score_distribution:"級分分布", standard:"五標", admission:"分發錄取", program_results:"校系錄取", institution_directory:"學校名錄" };
 
 export function SourceCatalog({ sources }: { sources: SourceRecord[] }) {
   const [query,setQuery] = useState(""), [year,setYear] = useState(0), [category,setCategory] = useState("");

@@ -24,7 +24,11 @@ for (const file of files) {
   await cp(resolve(sourceDir, file), resolve(publicDir, file));
 }
 
-const admissionsFiles = ["fact_noncurrent_pathway.csv", "fact_noncurrent_pathway.json"];
+const admissionsFiles = [
+  "fact_noncurrent_pathway.csv", "fact_noncurrent_pathway.json",
+  "fact_university_admission.csv", "fact_university_admission.json",
+  "fact_group_admission.csv", "fact_group_admission.json",
+];
 for (const file of admissionsFiles) {
   await cp(resolve(admissionsSourceDir, file), resolve(admissionsPublicDir, file));
 }

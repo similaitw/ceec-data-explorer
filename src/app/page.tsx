@@ -20,7 +20,8 @@ export default async function HomePage() {
         </div>
         <p className="hero-deck reveal delay-2">快速比較學測統計、定位成績，並回查官方資料。</p>
         <div className="hero-actions reveal delay-3">
-          <a className="button" href="/distribution?year=115&subject=chinese">探索 115 級分分布 →</a>
+          <a className="button" href="/explore">開啟條件探索 →</a>
+          <a className="button secondary" href="/distribution?year=115&subject=chinese">探索級分分布</a>
           <a className="button secondary" href="/position">定位我的成績</a>
         </div>
       </div>
@@ -56,6 +57,7 @@ export default async function HomePage() {
     <section className="section">
       <div className="section-heading"><div><span className="section-index">03</span><h2>選擇功能</h2></div></div>
       <div className="catalog-grid">
+        <a className="dataset-card" data-code="FILTER" href="/explore"><span className="feature-icon"><FeatureIcon name="distribution" /></span><h3>條件探索</h3><p>依大學、地區與公私立篩選招生統計。</p></a>
         <a className="dataset-card" data-code="COMPARE" href="/trends"><span className="feature-icon"><FeatureIcon name="trend" /></span><h3>歷年趨勢</h3><p>比較五標、報名與缺考率。</p></a>
         <a className="dataset-card" data-code="DISTRIBUTION" href="/distribution"><span className="feature-icon"><FeatureIcon name="distribution" /></span><h3>級分分布</h3><p>查看各級分人數與累計比例。</p></a>
         <a className="dataset-card" data-code="POSITION" href="/position"><span className="feature-icon"><FeatureIcon name="position" /></span><h3>成績定位</h3><p>取得 PR 區間與五標位置。</p></a>

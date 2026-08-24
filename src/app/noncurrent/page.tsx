@@ -1,3 +1,4 @@
+import { Suspense } from "react";
 import type { Metadata } from "next";
 import { NoncurrentExplorer } from "@/components/noncurrent-explorer";
 import { PageIntro } from "@/components/page-intro";
@@ -14,6 +15,6 @@ export default async function NoncurrentPage() {
       description="分開看學測報名與分發錄取，理解常被稱作重考生的非應屆群體。"
       note={<><strong>兩種母群</strong>學測報名者 ≠ 分發入學登記者，數字不可直接相減。</>}
     />
-    <NoncurrentExplorer rows={data.noncurrentPathways} />
+    <Suspense fallback={<div className="panel">正在載入非應屆統計…</div>}><NoncurrentExplorer rows={data.noncurrentPathways} /></Suspense>
   </div>;
 }
