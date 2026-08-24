@@ -3,6 +3,7 @@
 import { useState } from "react";
 import { useSearchParams } from "next/navigation";
 import { ChartActions } from "./chart-actions";
+import { FeatureIcon, SubjectIcon } from "./icons";
 import { LineChart, type LineSeries } from "./line-chart";
 import { STANDARD_ORDER, SUBJECT_COLORS, SUBJECT_LABEL, SUBJECTS, formatNumber, formatPercent } from "@/lib/constants";
 import type { RegistrationFact, StandardFact } from "@/lib/types";
@@ -51,6 +52,9 @@ export function TrendsExplorer({ standards, registration }: { standards: Standar
     <div className="panel panel-grid">
       <div className="chart-shell">
         <div className="chart-header"><div><h2>{title}</h2><div className="chart-subtitle">{subtitle}</div></div><ChartActions chartId="trend-chart" filename={`學測_${metric}_${standard}`} rows={rows} /></div>
+        <div className="subject-legend" aria-label="圖表科目圖例">
+          {metric === "registration" ? <div className="legend-chip" style={{"--subject-color":"#ee7769"} as React.CSSProperties}><FeatureIcon name="trend" size={24}/><span>總報名</span></div> : SUBJECTS.map((item) => <div className="legend-chip" key={item.id} style={{"--subject-color":SUBJECT_COLORS[item.id]} as React.CSSProperties}><SubjectIcon subject={item.id} size={25}/><span>{metric === "absence" && item.id === "chinese" ? "國綜" : item.label}</span></div>)}
+        </div>
         <LineChart id="trend-chart" series={series} yMax={yMax} yTicks={yTicks} suffix={suffix} />
         <details className="table-details"><summary>展開圖表替代資料表（{rows.length} 列）</summary><div className="data-table-wrap"><table className="data-table"><thead><tr>{Object.keys(rows[0] ?? {}).map((key) => <th key={key}>{key}</th>)}</tr></thead><tbody>{rows.map((row, index) => <tr key={index}>{Object.values(row).map((value, cell) => <td key={cell}>{typeof value === "number" ? (String(Object.keys(row)[cell]).includes("率") ? formatPercent(value) : formatNumber(value)) : String(value)}</td>)}</tr>)}</tbody></table></div></details>
       </div>

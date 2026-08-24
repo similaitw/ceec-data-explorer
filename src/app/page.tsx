@@ -1,5 +1,6 @@
 import { getAllData } from "@/lib/data";
-import { formatNumber, formatPercent, STANDARD_ORDER, SUBJECT_LABEL } from "@/lib/constants";
+import { formatNumber, formatPercent, STANDARD_ORDER, SUBJECT_LABEL, SUBJECTS, SUBJECT_COLORS } from "@/lib/constants";
+import { FeatureIcon, SubjectIcon } from "@/components/icons";
 
 export default async function HomePage() {
   const data = await getAllData();
@@ -13,7 +14,10 @@ export default async function HomePage() {
     <section className="hero">
       <div>
         <div className="eyebrow reveal">公共教育資料 · 非官方整理</div>
-        <h1 className="hero-title reveal delay-1">讀懂大考，<br /><em>不只看一個數字。</em></h1>
+        <h1 className="visually-hidden">大考資料洞察</h1>
+        <div className="subject-showcase reveal delay-1" aria-label="學測六科資料">
+          {SUBJECTS.map((item) => <div className="subject-tile" key={item.id} style={{"--subject-color":SUBJECT_COLORS[item.id]} as React.CSSProperties}><SubjectIcon subject={item.id} size={42}/><strong>{item.label}</strong></div>)}
+        </div>
         <p className="hero-deck reveal delay-2">快速比較學測統計、定位成績，並回查官方資料。</p>
         <div className="hero-actions reveal delay-3">
           <a className="button" href="/distribution?year=115&subject=chinese">探索 115 級分分布 →</a>
@@ -52,10 +56,10 @@ export default async function HomePage() {
     <section className="section">
       <div className="section-heading"><div><span className="section-index">03</span><h2>選擇功能</h2></div></div>
       <div className="catalog-grid">
-        <a className="dataset-card" data-code="COMPARE" href="/trends"><h3>歷年趨勢</h3><p>比較五標、報名與缺考率。</p></a>
-        <a className="dataset-card" data-code="DISTRIBUTION" href="/distribution"><h3>級分分布</h3><p>查看各級分人數與累計比例。</p></a>
-        <a className="dataset-card" data-code="POSITION" href="/position"><h3>成績定位</h3><p>取得 PR 區間與五標位置。</p></a>
-        <a className="dataset-card" data-code="REPRODUCE" href="/downloads"><h3>資料下載</h3><p>下載 CSV／JSON 或查看來源。</p></a>
+        <a className="dataset-card" data-code="COMPARE" href="/trends"><span className="feature-icon"><FeatureIcon name="trend" /></span><h3>歷年趨勢</h3><p>比較五標、報名與缺考率。</p></a>
+        <a className="dataset-card" data-code="DISTRIBUTION" href="/distribution"><span className="feature-icon"><FeatureIcon name="distribution" /></span><h3>級分分布</h3><p>查看各級分人數與累計比例。</p></a>
+        <a className="dataset-card" data-code="POSITION" href="/position"><span className="feature-icon"><FeatureIcon name="position" /></span><h3>成績定位</h3><p>取得 PR 區間與五標位置。</p></a>
+        <a className="dataset-card" data-code="REPRODUCE" href="/downloads"><span className="feature-icon"><FeatureIcon name="download" /></span><h3>資料下載</h3><p>下載 CSV／JSON 或查看來源。</p></a>
       </div>
     </section>
   </div>;
