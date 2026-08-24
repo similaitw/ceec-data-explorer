@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.tsbuildinfo
+.pytest_cache/
+.playwright-cli/
+.venv/
+.next/
+node_modules/
+out/
+output/
+public/data/
+data/raw/**/*.xls
+data/raw/**/*.xlsx
+data/staging/

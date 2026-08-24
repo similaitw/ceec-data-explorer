@@ -1,0 +1,41 @@
+﻿academic_year,exam,group_type,group_name,subject_id,registered_count,attended_count,absent_count,absence_rate,is_derived,derivation_method,derivation_version,input_source_ids,source_id
+111,GSAT,all_candidates,全體報名考生,,116445,,,,False,,,"[""gsat-111-registration""]",gsat-111-registration
+111,GSAT,subject_attendance,國綜,chinese_integrated,116177,113811,2366,2.0365476815548686,True,缺考 / (實到 + 缺考) × 100；報考數 = 實到 + 缺考,1.0.0,"[""gsat-111-absence""]",gsat-111-absence
+111,GSAT,subject_attendance,國寫,chinese_writing,116177,113287,2890,2.4875836008848564,True,缺考 / (實到 + 缺考) × 100；報考數 = 實到 + 缺考,1.0.0,"[""gsat-111-absence""]",gsat-111-absence
+111,GSAT,subject_attendance,英文,english,116099,113756,2343,2.0181052377712123,True,缺考 / (實到 + 缺考) × 100；報考數 = 實到 + 缺考,1.0.0,"[""gsat-111-absence""]",gsat-111-absence
+111,GSAT,subject_attendance,數學A,mathematics_a,81600,79834,1766,2.1642156862745097,True,缺考 / (實到 + 缺考) × 100；報考數 = 實到 + 缺考,1.0.0,"[""gsat-111-absence""]",gsat-111-absence
+111,GSAT,subject_attendance,數學B,mathematics_b,93856,90556,3300,3.5160245482441184,True,缺考 / (實到 + 缺考) × 100；報考數 = 實到 + 缺考,1.0.0,"[""gsat-111-absence""]",gsat-111-absence
+111,GSAT,subject_attendance,自然,natural_sciences,72195,69773,2422,3.3548029641941963,True,缺考 / (實到 + 缺考) × 100；報考數 = 實到 + 缺考,1.0.0,"[""gsat-111-absence""]",gsat-111-absence
+111,GSAT,subject_attendance,社會,social_studies,92729,89260,3469,3.7410087459155172,True,缺考 / (實到 + 缺考) × 100；報考數 = 實到 + 缺考,1.0.0,"[""gsat-111-absence""]",gsat-111-absence
+112,GSAT,all_candidates,全體報名考生,,118551,,,,False,,,"[""gsat-112-registration""]",gsat-112-registration
+112,GSAT,subject_attendance,國綜,chinese_integrated,118134,115766,2368,2.004503360590516,True,缺考 / (實到 + 缺考) × 100；報考數 = 實到 + 缺考,1.0.0,"[""gsat-112-absence""]",gsat-112-absence
+112,GSAT,subject_attendance,國寫,chinese_writing,118134,115021,3113,2.635143142533056,True,缺考 / (實到 + 缺考) × 100；報考數 = 實到 + 缺考,1.0.0,"[""gsat-112-absence""]",gsat-112-absence
+112,GSAT,subject_attendance,英文,english,118185,115919,2266,1.9173329948809068,True,缺考 / (實到 + 缺考) × 100；報考數 = 實到 + 缺考,1.0.0,"[""gsat-112-absence""]",gsat-112-absence
+112,GSAT,subject_attendance,數學A,mathematics_a,87111,85315,1796,2.0617373236445453,True,缺考 / (實到 + 缺考) × 100；報考數 = 實到 + 缺考,1.0.0,"[""gsat-112-absence""]",gsat-112-absence
+112,GSAT,subject_attendance,數學B,mathematics_b,101052,97384,3668,3.6298143530063727,True,缺考 / (實到 + 缺考) × 100；報考數 = 實到 + 缺考,1.0.0,"[""gsat-112-absence""]",gsat-112-absence
+112,GSAT,subject_attendance,自然,natural_sciences,74290,72087,2203,2.9654058419706555,True,缺考 / (實到 + 缺考) × 100；報考數 = 實到 + 缺考,1.0.0,"[""gsat-112-absence""]",gsat-112-absence
+112,GSAT,subject_attendance,社會,social_studies,96229,92631,3598,3.7389975994762494,True,缺考 / (實到 + 缺考) × 100；報考數 = 實到 + 缺考,1.0.0,"[""gsat-112-absence""]",gsat-112-absence
+113,GSAT,all_candidates,全體報名考生,,120172,,,,False,,,"[""gsat-113-registration""]",gsat-113-registration
+113,GSAT,subject_attendance,國綜,chinese_integrated,119706,116991,2715,2.268056739010576,True,缺考 / (實到 + 缺考) × 100；報考數 = 實到 + 缺考,1.0.0,"[""gsat-113-absence""]",gsat-113-absence
+113,GSAT,subject_attendance,國寫,chinese_writing,119706,116308,3398,2.838621288824286,True,缺考 / (實到 + 缺考) × 100；報考數 = 實到 + 缺考,1.0.0,"[""gsat-113-absence""]",gsat-113-absence
+113,GSAT,subject_attendance,英文,english,119760,117106,2654,2.2160988643954576,True,缺考 / (實到 + 缺考) × 100；報考數 = 實到 + 缺考,1.0.0,"[""gsat-113-absence""]",gsat-113-absence
+113,GSAT,subject_attendance,數學A,mathematics_a,90815,88694,2121,2.3355172603644774,True,缺考 / (實到 + 缺考) × 100；報考數 = 實到 + 缺考,1.0.0,"[""gsat-113-absence""]",gsat-113-absence
+113,GSAT,subject_attendance,數學B,mathematics_b,99021,94580,4441,4.484907241898183,True,缺考 / (實到 + 缺考) × 100；報考數 = 實到 + 缺考,1.0.0,"[""gsat-113-absence""]",gsat-113-absence
+113,GSAT,subject_attendance,自然,natural_sciences,78266,75680,2586,3.30411673012547,True,缺考 / (實到 + 缺考) × 100；報考數 = 實到 + 缺考,1.0.0,"[""gsat-113-absence""]",gsat-113-absence
+113,GSAT,subject_attendance,社會,social_studies,95925,91693,4232,4.411780036486839,True,缺考 / (實到 + 缺考) × 100；報考數 = 實到 + 缺考,1.0.0,"[""gsat-113-absence""]",gsat-113-absence
+114,GSAT,all_candidates,全體報名考生,,121181,,,,False,,,"[""gsat-114-registration""]",gsat-114-registration
+114,GSAT,subject_attendance,國綜,chinese_integrated,120674,117797,2877,2.3841092530288215,True,缺考 / (實到 + 缺考) × 100；報考數 = 實到 + 缺考,1.0.0,"[""gsat-114-absence""]",gsat-114-absence
+114,GSAT,subject_attendance,國寫,chinese_writing,120674,117219,3455,2.8630856688267565,True,缺考 / (實到 + 缺考) × 100；報考數 = 實到 + 缺考,1.0.0,"[""gsat-114-absence""]",gsat-114-absence
+114,GSAT,subject_attendance,英文,english,120695,117866,2829,2.3439247690459424,True,缺考 / (實到 + 缺考) × 100；報考數 = 實到 + 缺考,1.0.0,"[""gsat-114-absence""]",gsat-114-absence
+114,GSAT,subject_attendance,數學A,mathematics_a,92917,90576,2341,2.519452845012215,True,缺考 / (實到 + 缺考) × 100；報考數 = 實到 + 缺考,1.0.0,"[""gsat-114-absence""]",gsat-114-absence
+114,GSAT,subject_attendance,數學B,mathematics_b,99813,95521,4292,4.300041076813642,True,缺考 / (實到 + 缺考) × 100；報考數 = 實到 + 缺考,1.0.0,"[""gsat-114-absence""]",gsat-114-absence
+114,GSAT,subject_attendance,自然,natural_sciences,80226,77520,2706,3.3729713559195273,True,缺考 / (實到 + 缺考) × 100；報考數 = 實到 + 缺考,1.0.0,"[""gsat-114-absence""]",gsat-114-absence
+114,GSAT,subject_attendance,社會,social_studies,98009,93800,4209,4.294503565999041,True,缺考 / (實到 + 缺考) × 100；報考數 = 實到 + 缺考,1.0.0,"[""gsat-114-absence""]",gsat-114-absence
+115,GSAT,all_candidates,全體報名考生,,121535,,,,False,,,"[""gsat-115-registration""]",gsat-115-registration
+115,GSAT,subject_attendance,國綜,chinese_integrated,120902,118010,2892,2.39201998312683,True,缺考 / (實到 + 缺考) × 100；報考數 = 實到 + 缺考,1.0.0,"[""gsat-115-absence""]",gsat-115-absence
+115,GSAT,subject_attendance,國寫,chinese_writing,120902,117465,3437,2.8427982994491408,True,缺考 / (實到 + 缺考) × 100；報考數 = 實到 + 缺考,1.0.0,"[""gsat-115-absence""]",gsat-115-absence
+115,GSAT,subject_attendance,英文,english,120959,118169,2790,2.306566687885978,True,缺考 / (實到 + 缺考) × 100；報考數 = 實到 + 缺考,1.0.0,"[""gsat-115-absence""]",gsat-115-absence
+115,GSAT,subject_attendance,數學A,mathematics_a,92951,90579,2372,2.5518821744790263,True,缺考 / (實到 + 缺考) × 100；報考數 = 實到 + 缺考,1.0.0,"[""gsat-115-absence""]",gsat-115-absence
+115,GSAT,subject_attendance,數學B,mathematics_b,101718,97536,4182,4.111366719754616,True,缺考 / (實到 + 缺考) × 100；報考數 = 實到 + 缺考,1.0.0,"[""gsat-115-absence""]",gsat-115-absence
+115,GSAT,subject_attendance,自然,natural_sciences,81132,78382,2750,3.389538036779569,True,缺考 / (實到 + 缺考) × 100；報考數 = 實到 + 缺考,1.0.0,"[""gsat-115-absence""]",gsat-115-absence
+115,GSAT,subject_attendance,社會,social_studies,102061,97889,4172,4.087751442764621,True,缺考 / (實到 + 缺考) × 100；報考數 = 實到 + 缺考,1.0.0,"[""gsat-115-absence""]",gsat-115-absence

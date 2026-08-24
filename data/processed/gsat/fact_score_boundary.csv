@@ -1,0 +1,481 @@
+﻿academic_year,exam,subject_id,grade,raw_score_lower,raw_score_upper,lower_inclusive,upper_inclusive,source_interval_text,source_id
+111,GSAT,chinese,0,0.0,0.0,True,True,X =  0.00,gsat-111-score-boundary
+111,GSAT,chinese,1,0.0,5.34,False,True,0.00＜X≦  5.34,gsat-111-score-boundary
+111,GSAT,chinese,10,48.06,53.4,False,True,48.06＜X≦ 53.40,gsat-111-score-boundary
+111,GSAT,chinese,11,53.4,58.74,False,True,53.40＜X≦ 58.74,gsat-111-score-boundary
+111,GSAT,chinese,12,58.74,64.08,False,True,58.74＜X≦ 64.08,gsat-111-score-boundary
+111,GSAT,chinese,13,64.08,69.42,False,True,64.08＜X≦ 69.42,gsat-111-score-boundary
+111,GSAT,chinese,14,69.42,74.76,False,True,69.42＜X≦ 74.76,gsat-111-score-boundary
+111,GSAT,chinese,15,74.76,100.0,False,True,74.76＜X≦100.00,gsat-111-score-boundary
+111,GSAT,chinese,2,5.34,10.68,False,True,5.34＜X≦ 10.68,gsat-111-score-boundary
+111,GSAT,chinese,3,10.68,16.02,False,True,10.68＜X≦ 16.02,gsat-111-score-boundary
+111,GSAT,chinese,4,16.02,21.36,False,True,16.02＜X≦ 21.36,gsat-111-score-boundary
+111,GSAT,chinese,5,21.36,26.7,False,True,21.36＜X≦ 26.70,gsat-111-score-boundary
+111,GSAT,chinese,6,26.7,32.04,False,True,26.70＜X≦ 32.04,gsat-111-score-boundary
+111,GSAT,chinese,7,32.04,37.38,False,True,32.04＜X≦ 37.38,gsat-111-score-boundary
+111,GSAT,chinese,8,37.38,42.72,False,True,37.38＜X≦ 42.72,gsat-111-score-boundary
+111,GSAT,chinese,9,42.72,48.06,False,True,42.72＜X≦ 48.06,gsat-111-score-boundary
+111,GSAT,english,0,0.0,0.0,True,True,X =  0.00,gsat-111-score-boundary
+111,GSAT,english,1,0.0,6.21,False,True,0.00＜X≦  6.21,gsat-111-score-boundary
+111,GSAT,english,10,55.88,62.09,False,True,55.88＜X≦ 62.09,gsat-111-score-boundary
+111,GSAT,english,11,62.09,68.3,False,True,62.09＜X≦ 68.30,gsat-111-score-boundary
+111,GSAT,english,12,68.3,74.5,False,True,68.30＜X≦ 74.50,gsat-111-score-boundary
+111,GSAT,english,13,74.5,80.71,False,True,74.50＜X≦ 80.71,gsat-111-score-boundary
+111,GSAT,english,14,80.71,86.92,False,True,80.71＜X≦ 86.92,gsat-111-score-boundary
+111,GSAT,english,15,86.92,100.0,False,True,86.92＜X≦100.00,gsat-111-score-boundary
+111,GSAT,english,2,6.21,12.42,False,True,6.21＜X≦ 12.42,gsat-111-score-boundary
+111,GSAT,english,3,12.42,18.63,False,True,12.42＜X≦ 18.63,gsat-111-score-boundary
+111,GSAT,english,4,18.63,24.83,False,True,18.63＜X≦ 24.83,gsat-111-score-boundary
+111,GSAT,english,5,24.83,31.04,False,True,24.83＜X≦ 31.04,gsat-111-score-boundary
+111,GSAT,english,6,31.04,37.25,False,True,31.04＜X≦ 37.25,gsat-111-score-boundary
+111,GSAT,english,7,37.25,43.46,False,True,37.25＜X≦ 43.46,gsat-111-score-boundary
+111,GSAT,english,8,43.46,49.67,False,True,43.46＜X≦ 49.67,gsat-111-score-boundary
+111,GSAT,english,9,49.67,55.88,False,True,49.67＜X≦ 55.88,gsat-111-score-boundary
+111,GSAT,mathematics_a,0,0.0,0.0,True,True,X =  0.00,gsat-111-score-boundary
+111,GSAT,mathematics_a,1,0.0,5.56,False,True,0.00＜X≦  5.56,gsat-111-score-boundary
+111,GSAT,mathematics_a,10,50.05,55.61,False,True,50.05＜X≦ 55.61,gsat-111-score-boundary
+111,GSAT,mathematics_a,11,55.61,61.17,False,True,55.61＜X≦ 61.17,gsat-111-score-boundary
+111,GSAT,mathematics_a,12,61.17,66.74,False,True,61.17＜X≦ 66.74,gsat-111-score-boundary
+111,GSAT,mathematics_a,13,66.74,72.3,False,True,66.74＜X≦ 72.30,gsat-111-score-boundary
+111,GSAT,mathematics_a,14,72.3,77.86,False,True,72.30＜X≦ 77.86,gsat-111-score-boundary
+111,GSAT,mathematics_a,15,77.86,100.0,False,True,77.86＜X≦100.00,gsat-111-score-boundary
+111,GSAT,mathematics_a,2,5.56,11.12,False,True,5.56＜X≦ 11.12,gsat-111-score-boundary
+111,GSAT,mathematics_a,3,11.12,16.68,False,True,11.12＜X≦ 16.68,gsat-111-score-boundary
+111,GSAT,mathematics_a,4,16.68,22.25,False,True,16.68＜X≦ 22.25,gsat-111-score-boundary
+111,GSAT,mathematics_a,5,22.25,27.81,False,True,22.25＜X≦ 27.81,gsat-111-score-boundary
+111,GSAT,mathematics_a,6,27.81,33.37,False,True,27.81＜X≦ 33.37,gsat-111-score-boundary
+111,GSAT,mathematics_a,7,33.37,38.93,False,True,33.37＜X≦ 38.93,gsat-111-score-boundary
+111,GSAT,mathematics_a,8,38.93,44.49,False,True,38.93＜X≦ 44.49,gsat-111-score-boundary
+111,GSAT,mathematics_a,9,44.49,50.05,False,True,44.49＜X≦ 50.05,gsat-111-score-boundary
+111,GSAT,mathematics_b,0,0.0,0.0,True,True,X =  0.00,gsat-111-score-boundary
+111,GSAT,mathematics_b,1,0.0,6.6,False,True,0.00＜X≦  6.60,gsat-111-score-boundary
+111,GSAT,mathematics_b,10,59.39,65.99,False,True,59.39＜X≦ 65.99,gsat-111-score-boundary
+111,GSAT,mathematics_b,11,65.99,72.59,False,True,65.99＜X≦ 72.59,gsat-111-score-boundary
+111,GSAT,mathematics_b,12,72.59,79.18,False,True,72.59＜X≦ 79.18,gsat-111-score-boundary
+111,GSAT,mathematics_b,13,79.18,85.78,False,True,79.18＜X≦ 85.78,gsat-111-score-boundary
+111,GSAT,mathematics_b,14,85.78,92.38,False,True,85.78＜X≦ 92.38,gsat-111-score-boundary
+111,GSAT,mathematics_b,15,92.38,100.0,False,True,92.38＜X≦100.00,gsat-111-score-boundary
+111,GSAT,mathematics_b,2,6.6,13.2,False,True,6.60＜X≦ 13.20,gsat-111-score-boundary
+111,GSAT,mathematics_b,3,13.2,19.8,False,True,13.20＜X≦ 19.80,gsat-111-score-boundary
+111,GSAT,mathematics_b,4,19.8,26.39,False,True,19.80＜X≦ 26.39,gsat-111-score-boundary
+111,GSAT,mathematics_b,5,26.39,32.99,False,True,26.39＜X≦ 32.99,gsat-111-score-boundary
+111,GSAT,mathematics_b,6,32.99,39.59,False,True,32.99＜X≦ 39.59,gsat-111-score-boundary
+111,GSAT,mathematics_b,7,39.59,46.19,False,True,39.59＜X≦ 46.19,gsat-111-score-boundary
+111,GSAT,mathematics_b,8,46.19,52.79,False,True,46.19＜X≦ 52.79,gsat-111-score-boundary
+111,GSAT,mathematics_b,9,52.79,59.39,False,True,52.79＜X≦ 59.39,gsat-111-score-boundary
+111,GSAT,natural_sciences,0,0.0,0.0,True,True,X =  0.00,gsat-111-score-boundary
+111,GSAT,natural_sciences,1,0.0,8.05,False,True,0.00＜X≦  8.05,gsat-111-score-boundary
+111,GSAT,natural_sciences,10,72.46,80.51,False,True,72.46＜X≦ 80.51,gsat-111-score-boundary
+111,GSAT,natural_sciences,11,80.51,88.56,False,True,80.51＜X≦ 88.56,gsat-111-score-boundary
+111,GSAT,natural_sciences,12,88.56,96.62,False,True,88.56＜X≦ 96.62,gsat-111-score-boundary
+111,GSAT,natural_sciences,13,96.62,104.67,False,True,96.62＜X≦104.67,gsat-111-score-boundary
+111,GSAT,natural_sciences,14,104.67,112.72,False,True,104.67＜X≦112.72,gsat-111-score-boundary
+111,GSAT,natural_sciences,15,112.72,128.0,False,True,112.72＜X≦128.00,gsat-111-score-boundary
+111,GSAT,natural_sciences,2,8.05,16.1,False,True,8.05＜X≦ 16.10,gsat-111-score-boundary
+111,GSAT,natural_sciences,3,16.1,24.15,False,True,16.10＜X≦ 24.15,gsat-111-score-boundary
+111,GSAT,natural_sciences,4,24.15,32.21,False,True,24.15＜X≦ 32.21,gsat-111-score-boundary
+111,GSAT,natural_sciences,5,32.21,40.26,False,True,32.21＜X≦ 40.26,gsat-111-score-boundary
+111,GSAT,natural_sciences,6,40.26,48.31,False,True,40.26＜X≦ 48.31,gsat-111-score-boundary
+111,GSAT,natural_sciences,7,48.31,56.36,False,True,48.31＜X≦ 56.36,gsat-111-score-boundary
+111,GSAT,natural_sciences,8,56.36,64.41,False,True,56.36＜X≦ 64.41,gsat-111-score-boundary
+111,GSAT,natural_sciences,9,64.41,72.46,False,True,64.41＜X≦ 72.46,gsat-111-score-boundary
+111,GSAT,social_studies,0,0.0,0.0,True,True,X =  0.00,gsat-111-score-boundary
+111,GSAT,social_studies,1,0.0,8.26,False,True,0.00＜X≦  8.26,gsat-111-score-boundary
+111,GSAT,social_studies,10,74.36,82.62,False,True,74.36＜X≦ 82.62,gsat-111-score-boundary
+111,GSAT,social_studies,11,82.62,90.88,False,True,82.62＜X≦ 90.88,gsat-111-score-boundary
+111,GSAT,social_studies,12,90.88,99.14,False,True,90.88＜X≦ 99.14,gsat-111-score-boundary
+111,GSAT,social_studies,13,99.14,107.41,False,True,99.14＜X≦107.41,gsat-111-score-boundary
+111,GSAT,social_studies,14,107.41,115.67,False,True,107.41＜X≦115.67,gsat-111-score-boundary
+111,GSAT,social_studies,15,115.67,144.0,False,True,115.67＜X≦144.00,gsat-111-score-boundary
+111,GSAT,social_studies,2,8.26,16.52,False,True,8.26＜X≦ 16.52,gsat-111-score-boundary
+111,GSAT,social_studies,3,16.52,24.79,False,True,16.52＜X≦ 24.79,gsat-111-score-boundary
+111,GSAT,social_studies,4,24.79,33.05,False,True,24.79＜X≦ 33.05,gsat-111-score-boundary
+111,GSAT,social_studies,5,33.05,41.31,False,True,33.05＜X≦ 41.31,gsat-111-score-boundary
+111,GSAT,social_studies,6,41.31,49.57,False,True,41.31＜X≦ 49.57,gsat-111-score-boundary
+111,GSAT,social_studies,7,49.57,57.83,False,True,49.57＜X≦ 57.83,gsat-111-score-boundary
+111,GSAT,social_studies,8,57.83,66.1,False,True,57.83＜X≦ 66.10,gsat-111-score-boundary
+111,GSAT,social_studies,9,66.1,74.36,False,True,66.10＜X≦ 74.36,gsat-111-score-boundary
+112,GSAT,chinese,0,0.0,0.0,True,True,X =  0.00,gsat-112-score-boundary
+112,GSAT,chinese,1,0.0,5.22,False,True,0.00＜X≦  5.22,gsat-112-score-boundary
+112,GSAT,chinese,10,46.97,52.19,False,True,46.97＜X≦ 52.19,gsat-112-score-boundary
+112,GSAT,chinese,11,52.19,57.41,False,True,52.19＜X≦ 57.41,gsat-112-score-boundary
+112,GSAT,chinese,12,57.41,62.63,False,True,57.41＜X≦ 62.63,gsat-112-score-boundary
+112,GSAT,chinese,13,62.63,67.85,False,True,62.63＜X≦ 67.85,gsat-112-score-boundary
+112,GSAT,chinese,14,67.85,73.07,False,True,67.85＜X≦ 73.07,gsat-112-score-boundary
+112,GSAT,chinese,15,73.07,100.0,False,True,73.07＜X≦100.00,gsat-112-score-boundary
+112,GSAT,chinese,2,5.22,10.44,False,True,5.22＜X≦ 10.44,gsat-112-score-boundary
+112,GSAT,chinese,3,10.44,15.66,False,True,10.44＜X≦ 15.66,gsat-112-score-boundary
+112,GSAT,chinese,4,15.66,20.88,False,True,15.66＜X≦ 20.88,gsat-112-score-boundary
+112,GSAT,chinese,5,20.88,26.1,False,True,20.88＜X≦ 26.10,gsat-112-score-boundary
+112,GSAT,chinese,6,26.1,31.32,False,True,26.10＜X≦ 31.32,gsat-112-score-boundary
+112,GSAT,chinese,7,31.32,36.54,False,True,31.32＜X≦ 36.54,gsat-112-score-boundary
+112,GSAT,chinese,8,36.54,41.75,False,True,36.54＜X≦ 41.75,gsat-112-score-boundary
+112,GSAT,chinese,9,41.75,46.97,False,True,41.75＜X≦ 46.97,gsat-112-score-boundary
+112,GSAT,english,0,0.0,0.0,True,True,X =  0.00,gsat-112-score-boundary
+112,GSAT,english,1,0.0,6.12,False,True,0.00＜X≦  6.12,gsat-112-score-boundary
+112,GSAT,english,10,55.04,61.15,False,True,55.04＜X≦ 61.15,gsat-112-score-boundary
+112,GSAT,english,11,61.15,67.27,False,True,61.15＜X≦ 67.27,gsat-112-score-boundary
+112,GSAT,english,12,67.27,73.38,False,True,67.27＜X≦ 73.38,gsat-112-score-boundary
+112,GSAT,english,13,73.38,79.5,False,True,73.38＜X≦ 79.50,gsat-112-score-boundary
+112,GSAT,english,14,79.5,85.61,False,True,79.50＜X≦ 85.61,gsat-112-score-boundary
+112,GSAT,english,15,85.61,100.0,False,True,85.61＜X≦100.00,gsat-112-score-boundary
+112,GSAT,english,2,6.12,12.23,False,True,6.12＜X≦ 12.23,gsat-112-score-boundary
+112,GSAT,english,3,12.23,18.35,False,True,12.23＜X≦ 18.35,gsat-112-score-boundary
+112,GSAT,english,4,18.35,24.46,False,True,18.35＜X≦ 24.46,gsat-112-score-boundary
+112,GSAT,english,5,24.46,30.58,False,True,24.46＜X≦ 30.58,gsat-112-score-boundary
+112,GSAT,english,6,30.58,36.69,False,True,30.58＜X≦ 36.69,gsat-112-score-boundary
+112,GSAT,english,7,36.69,42.81,False,True,36.69＜X≦ 42.81,gsat-112-score-boundary
+112,GSAT,english,8,42.81,48.92,False,True,42.81＜X≦ 48.92,gsat-112-score-boundary
+112,GSAT,english,9,48.92,55.04,False,True,48.92＜X≦ 55.04,gsat-112-score-boundary
+112,GSAT,mathematics_a,0,0.0,0.0,True,True,X =  0.00,gsat-112-score-boundary
+112,GSAT,mathematics_a,1,0.0,6.37,False,True,0.00＜X≦  6.37,gsat-112-score-boundary
+112,GSAT,mathematics_a,10,57.37,63.75,False,True,57.37＜X≦ 63.75,gsat-112-score-boundary
+112,GSAT,mathematics_a,11,63.75,70.12,False,True,63.75＜X≦ 70.12,gsat-112-score-boundary
+112,GSAT,mathematics_a,12,70.12,76.5,False,True,70.12＜X≦ 76.50,gsat-112-score-boundary
+112,GSAT,mathematics_a,13,76.5,82.87,False,True,76.50＜X≦ 82.87,gsat-112-score-boundary
+112,GSAT,mathematics_a,14,82.87,89.25,False,True,82.87＜X≦ 89.25,gsat-112-score-boundary
+112,GSAT,mathematics_a,15,89.25,100.0,False,True,89.25＜X≦100.00,gsat-112-score-boundary
+112,GSAT,mathematics_a,2,6.37,12.75,False,True,6.37＜X≦ 12.75,gsat-112-score-boundary
+112,GSAT,mathematics_a,3,12.75,19.12,False,True,12.75＜X≦ 19.12,gsat-112-score-boundary
+112,GSAT,mathematics_a,4,19.12,25.5,False,True,19.12＜X≦ 25.50,gsat-112-score-boundary
+112,GSAT,mathematics_a,5,25.5,31.87,False,True,25.50＜X≦ 31.87,gsat-112-score-boundary
+112,GSAT,mathematics_a,6,31.87,38.25,False,True,31.87＜X≦ 38.25,gsat-112-score-boundary
+112,GSAT,mathematics_a,7,38.25,44.62,False,True,38.25＜X≦ 44.62,gsat-112-score-boundary
+112,GSAT,mathematics_a,8,44.62,51.0,False,True,44.62＜X≦ 51.00,gsat-112-score-boundary
+112,GSAT,mathematics_a,9,51.0,57.37,False,True,51.00＜X≦ 57.37,gsat-112-score-boundary
+112,GSAT,mathematics_b,0,0.0,0.0,True,True,X =  0.00,gsat-112-score-boundary
+112,GSAT,mathematics_b,1,0.0,6.38,False,True,0.00＜X≦  6.38,gsat-112-score-boundary
+112,GSAT,mathematics_b,10,57.43,63.81,False,True,57.43＜X≦ 63.81,gsat-112-score-boundary
+112,GSAT,mathematics_b,11,63.81,70.19,False,True,63.81＜X≦ 70.19,gsat-112-score-boundary
+112,GSAT,mathematics_b,12,70.19,76.57,False,True,70.19＜X≦ 76.57,gsat-112-score-boundary
+112,GSAT,mathematics_b,13,76.57,82.95,False,True,76.57＜X≦ 82.95,gsat-112-score-boundary
+112,GSAT,mathematics_b,14,82.95,89.33,False,True,82.95＜X≦ 89.33,gsat-112-score-boundary
+112,GSAT,mathematics_b,15,89.33,100.0,False,True,89.33＜X≦100.00,gsat-112-score-boundary
+112,GSAT,mathematics_b,2,6.38,12.76,False,True,6.38＜X≦ 12.76,gsat-112-score-boundary
+112,GSAT,mathematics_b,3,12.76,19.14,False,True,12.76＜X≦ 19.14,gsat-112-score-boundary
+112,GSAT,mathematics_b,4,19.14,25.52,False,True,19.14＜X≦ 25.52,gsat-112-score-boundary
+112,GSAT,mathematics_b,5,25.52,31.9,False,True,25.52＜X≦ 31.90,gsat-112-score-boundary
+112,GSAT,mathematics_b,6,31.9,38.28,False,True,31.90＜X≦ 38.28,gsat-112-score-boundary
+112,GSAT,mathematics_b,7,38.28,44.66,False,True,38.28＜X≦ 44.66,gsat-112-score-boundary
+112,GSAT,mathematics_b,8,44.66,51.05,False,True,44.66＜X≦ 51.05,gsat-112-score-boundary
+112,GSAT,mathematics_b,9,51.05,57.43,False,True,51.05＜X≦ 57.43,gsat-112-score-boundary
+112,GSAT,natural_sciences,0,0.0,0.0,True,True,X =  0.00,gsat-112-score-boundary
+112,GSAT,natural_sciences,1,0.0,7.57,False,True,0.00＜X≦  7.57,gsat-112-score-boundary
+112,GSAT,natural_sciences,10,68.15,75.72,False,True,68.15＜X≦ 75.72,gsat-112-score-boundary
+112,GSAT,natural_sciences,11,75.72,83.29,False,True,75.72＜X≦ 83.29,gsat-112-score-boundary
+112,GSAT,natural_sciences,12,83.29,90.86,False,True,83.29＜X≦ 90.86,gsat-112-score-boundary
+112,GSAT,natural_sciences,13,90.86,98.44,False,True,90.86＜X≦ 98.44,gsat-112-score-boundary
+112,GSAT,natural_sciences,14,98.44,106.01,False,True,98.44＜X≦106.01,gsat-112-score-boundary
+112,GSAT,natural_sciences,15,106.01,128.0,False,True,106.01＜X≦128.00,gsat-112-score-boundary
+112,GSAT,natural_sciences,2,7.57,15.14,False,True,7.57＜X≦ 15.14,gsat-112-score-boundary
+112,GSAT,natural_sciences,3,15.14,22.72,False,True,15.14＜X≦ 22.72,gsat-112-score-boundary
+112,GSAT,natural_sciences,4,22.72,30.29,False,True,22.72＜X≦ 30.29,gsat-112-score-boundary
+112,GSAT,natural_sciences,5,30.29,37.86,False,True,30.29＜X≦ 37.86,gsat-112-score-boundary
+112,GSAT,natural_sciences,6,37.86,45.43,False,True,37.86＜X≦ 45.43,gsat-112-score-boundary
+112,GSAT,natural_sciences,7,45.43,53.0,False,True,45.43＜X≦ 53.00,gsat-112-score-boundary
+112,GSAT,natural_sciences,8,53.0,60.58,False,True,53.00＜X≦ 60.58,gsat-112-score-boundary
+112,GSAT,natural_sciences,9,60.58,68.15,False,True,60.58＜X≦ 68.15,gsat-112-score-boundary
+112,GSAT,social_studies,0,0.0,0.0,True,True,X =  0.00,gsat-112-score-boundary
+112,GSAT,social_studies,1,0.0,7.84,False,True,0.00＜X≦  7.84,gsat-112-score-boundary
+112,GSAT,social_studies,10,70.59,78.43,False,True,70.59＜X≦ 78.43,gsat-112-score-boundary
+112,GSAT,social_studies,11,78.43,86.28,False,True,78.43＜X≦ 86.28,gsat-112-score-boundary
+112,GSAT,social_studies,12,86.28,94.12,False,True,86.28＜X≦ 94.12,gsat-112-score-boundary
+112,GSAT,social_studies,13,94.12,101.96,False,True,94.12＜X≦101.96,gsat-112-score-boundary
+112,GSAT,social_studies,14,101.96,109.81,False,True,101.96＜X≦109.81,gsat-112-score-boundary
+112,GSAT,social_studies,15,109.81,144.0,False,True,109.81＜X≦144.00,gsat-112-score-boundary
+112,GSAT,social_studies,2,7.84,15.69,False,True,7.84＜X≦ 15.69,gsat-112-score-boundary
+112,GSAT,social_studies,3,15.69,23.53,False,True,15.69＜X≦ 23.53,gsat-112-score-boundary
+112,GSAT,social_studies,4,23.53,31.37,False,True,23.53＜X≦ 31.37,gsat-112-score-boundary
+112,GSAT,social_studies,5,31.37,39.22,False,True,31.37＜X≦ 39.22,gsat-112-score-boundary
+112,GSAT,social_studies,6,39.22,47.06,False,True,39.22＜X≦ 47.06,gsat-112-score-boundary
+112,GSAT,social_studies,7,47.06,54.9,False,True,47.06＜X≦ 54.90,gsat-112-score-boundary
+112,GSAT,social_studies,8,54.9,62.75,False,True,54.90＜X≦ 62.75,gsat-112-score-boundary
+112,GSAT,social_studies,9,62.75,70.59,False,True,62.75＜X≦ 70.59,gsat-112-score-boundary
+113,GSAT,chinese,0,0.0,0.0,True,True,X =  0.00,gsat-113-score-boundary
+113,GSAT,chinese,1,0.0,5.29,False,True,0.00＜X≦  5.29,gsat-113-score-boundary
+113,GSAT,chinese,10,47.61,52.9,False,True,47.61＜X≦ 52.90,gsat-113-score-boundary
+113,GSAT,chinese,11,52.9,58.19,False,True,52.90＜X≦ 58.19,gsat-113-score-boundary
+113,GSAT,chinese,12,58.19,63.48,False,True,58.19＜X≦ 63.48,gsat-113-score-boundary
+113,GSAT,chinese,13,63.48,68.77,False,True,63.48＜X≦ 68.77,gsat-113-score-boundary
+113,GSAT,chinese,14,68.77,74.06,False,True,68.77＜X≦ 74.06,gsat-113-score-boundary
+113,GSAT,chinese,15,74.06,100.0,False,True,74.06＜X≦100.00,gsat-113-score-boundary
+113,GSAT,chinese,2,5.29,10.58,False,True,5.29＜X≦ 10.58,gsat-113-score-boundary
+113,GSAT,chinese,3,10.58,15.87,False,True,10.58＜X≦ 15.87,gsat-113-score-boundary
+113,GSAT,chinese,4,15.87,21.16,False,True,15.87＜X≦ 21.16,gsat-113-score-boundary
+113,GSAT,chinese,5,21.16,26.45,False,True,21.16＜X≦ 26.45,gsat-113-score-boundary
+113,GSAT,chinese,6,26.45,31.74,False,True,26.45＜X≦ 31.74,gsat-113-score-boundary
+113,GSAT,chinese,7,31.74,37.03,False,True,31.74＜X≦ 37.03,gsat-113-score-boundary
+113,GSAT,chinese,8,37.03,42.32,False,True,37.03＜X≦ 42.32,gsat-113-score-boundary
+113,GSAT,chinese,9,42.32,47.61,False,True,42.32＜X≦ 47.61,gsat-113-score-boundary
+113,GSAT,english,0,0.0,0.0,True,True,X =  0.00,gsat-113-score-boundary
+113,GSAT,english,1,0.0,6.2,False,True,0.00＜X≦  6.20,gsat-113-score-boundary
+113,GSAT,english,10,55.76,61.96,False,True,55.76＜X≦ 61.96,gsat-113-score-boundary
+113,GSAT,english,11,61.96,68.16,False,True,61.96＜X≦ 68.16,gsat-113-score-boundary
+113,GSAT,english,12,68.16,74.35,False,True,68.16＜X≦ 74.35,gsat-113-score-boundary
+113,GSAT,english,13,74.35,80.55,False,True,74.35＜X≦ 80.55,gsat-113-score-boundary
+113,GSAT,english,14,80.55,86.74,False,True,80.55＜X≦ 86.74,gsat-113-score-boundary
+113,GSAT,english,15,86.74,100.0,False,True,86.74＜X≦100.00,gsat-113-score-boundary
+113,GSAT,english,2,6.2,12.39,False,True,6.20＜X≦ 12.39,gsat-113-score-boundary
+113,GSAT,english,3,12.39,18.59,False,True,12.39＜X≦ 18.59,gsat-113-score-boundary
+113,GSAT,english,4,18.59,24.78,False,True,18.59＜X≦ 24.78,gsat-113-score-boundary
+113,GSAT,english,5,24.78,30.98,False,True,24.78＜X≦ 30.98,gsat-113-score-boundary
+113,GSAT,english,6,30.98,37.18,False,True,30.98＜X≦ 37.18,gsat-113-score-boundary
+113,GSAT,english,7,37.18,43.37,False,True,37.18＜X≦ 43.37,gsat-113-score-boundary
+113,GSAT,english,8,43.37,49.57,False,True,43.37＜X≦ 49.57,gsat-113-score-boundary
+113,GSAT,english,9,49.57,55.76,False,True,49.57＜X≦ 55.76,gsat-113-score-boundary
+113,GSAT,mathematics_a,0,0.0,0.0,True,True,X =  0.00,gsat-113-score-boundary
+113,GSAT,mathematics_a,1,0.0,6.17,False,True,0.00＜X≦  6.17,gsat-113-score-boundary
+113,GSAT,mathematics_a,10,55.51,61.67,False,True,55.51＜X≦ 61.67,gsat-113-score-boundary
+113,GSAT,mathematics_a,11,61.67,67.84,False,True,61.67＜X≦ 67.84,gsat-113-score-boundary
+113,GSAT,mathematics_a,12,67.84,74.01,False,True,67.84＜X≦ 74.01,gsat-113-score-boundary
+113,GSAT,mathematics_a,13,74.01,80.18,False,True,74.01＜X≦ 80.18,gsat-113-score-boundary
+113,GSAT,mathematics_a,14,80.18,86.34,False,True,80.18＜X≦ 86.34,gsat-113-score-boundary
+113,GSAT,mathematics_a,15,86.34,100.0,False,True,86.34＜X≦100.00,gsat-113-score-boundary
+113,GSAT,mathematics_a,2,6.17,12.33,False,True,6.17＜X≦ 12.33,gsat-113-score-boundary
+113,GSAT,mathematics_a,3,12.33,18.5,False,True,12.33＜X≦ 18.50,gsat-113-score-boundary
+113,GSAT,mathematics_a,4,18.5,24.67,False,True,18.50＜X≦ 24.67,gsat-113-score-boundary
+113,GSAT,mathematics_a,5,24.67,30.84,False,True,24.67＜X≦ 30.84,gsat-113-score-boundary
+113,GSAT,mathematics_a,6,30.84,37.0,False,True,30.84＜X≦ 37.00,gsat-113-score-boundary
+113,GSAT,mathematics_a,7,37.0,43.17,False,True,37.00＜X≦ 43.17,gsat-113-score-boundary
+113,GSAT,mathematics_a,8,43.17,49.34,False,True,43.17＜X≦ 49.34,gsat-113-score-boundary
+113,GSAT,mathematics_a,9,49.34,55.51,False,True,49.34＜X≦ 55.51,gsat-113-score-boundary
+113,GSAT,mathematics_b,0,0.0,0.0,True,True,X =  0.00,gsat-113-score-boundary
+113,GSAT,mathematics_b,1,0.0,6.15,False,True,0.00＜X≦  6.15,gsat-113-score-boundary
+113,GSAT,mathematics_b,10,55.35,61.5,False,True,55.35＜X≦ 61.50,gsat-113-score-boundary
+113,GSAT,mathematics_b,11,61.5,67.65,False,True,61.50＜X≦ 67.65,gsat-113-score-boundary
+113,GSAT,mathematics_b,12,67.65,73.8,False,True,67.65＜X≦ 73.80,gsat-113-score-boundary
+113,GSAT,mathematics_b,13,73.8,79.95,False,True,73.80＜X≦ 79.95,gsat-113-score-boundary
+113,GSAT,mathematics_b,14,79.95,86.1,False,True,79.95＜X≦ 86.10,gsat-113-score-boundary
+113,GSAT,mathematics_b,15,86.1,100.0,False,True,86.10＜X≦100.00,gsat-113-score-boundary
+113,GSAT,mathematics_b,2,6.15,12.3,False,True,6.15＜X≦ 12.30,gsat-113-score-boundary
+113,GSAT,mathematics_b,3,12.3,18.45,False,True,12.30＜X≦ 18.45,gsat-113-score-boundary
+113,GSAT,mathematics_b,4,18.45,24.6,False,True,18.45＜X≦ 24.60,gsat-113-score-boundary
+113,GSAT,mathematics_b,5,24.6,30.75,False,True,24.60＜X≦ 30.75,gsat-113-score-boundary
+113,GSAT,mathematics_b,6,30.75,36.9,False,True,30.75＜X≦ 36.90,gsat-113-score-boundary
+113,GSAT,mathematics_b,7,36.9,43.05,False,True,36.90＜X≦ 43.05,gsat-113-score-boundary
+113,GSAT,mathematics_b,8,43.05,49.2,False,True,43.05＜X≦ 49.20,gsat-113-score-boundary
+113,GSAT,mathematics_b,9,49.2,55.35,False,True,49.20＜X≦ 55.35,gsat-113-score-boundary
+113,GSAT,natural_sciences,0,0.0,0.0,True,True,X =  0.00,gsat-113-score-boundary
+113,GSAT,natural_sciences,1,0.0,8.04,False,True,0.00＜X≦  8.04,gsat-113-score-boundary
+113,GSAT,natural_sciences,10,72.35,80.39,False,True,72.35＜X≦ 80.39,gsat-113-score-boundary
+113,GSAT,natural_sciences,11,80.39,88.43,False,True,80.39＜X≦ 88.43,gsat-113-score-boundary
+113,GSAT,natural_sciences,12,88.43,96.47,False,True,88.43＜X≦ 96.47,gsat-113-score-boundary
+113,GSAT,natural_sciences,13,96.47,104.51,False,True,96.47＜X≦104.51,gsat-113-score-boundary
+113,GSAT,natural_sciences,14,104.51,112.55,False,True,104.51＜X≦112.55,gsat-113-score-boundary
+113,GSAT,natural_sciences,15,112.55,128.0,False,True,112.55＜X≦128.00,gsat-113-score-boundary
+113,GSAT,natural_sciences,2,8.04,16.08,False,True,8.04＜X≦ 16.08,gsat-113-score-boundary
+113,GSAT,natural_sciences,3,16.08,24.12,False,True,16.08＜X≦ 24.12,gsat-113-score-boundary
+113,GSAT,natural_sciences,4,24.12,32.16,False,True,24.12＜X≦ 32.16,gsat-113-score-boundary
+113,GSAT,natural_sciences,5,32.16,40.2,False,True,32.16＜X≦ 40.20,gsat-113-score-boundary
+113,GSAT,natural_sciences,6,40.2,48.24,False,True,40.20＜X≦ 48.24,gsat-113-score-boundary
+113,GSAT,natural_sciences,7,48.24,56.28,False,True,48.24＜X≦ 56.28,gsat-113-score-boundary
+113,GSAT,natural_sciences,8,56.28,64.31,False,True,56.28＜X≦ 64.31,gsat-113-score-boundary
+113,GSAT,natural_sciences,9,64.31,72.35,False,True,64.31＜X≦ 72.35,gsat-113-score-boundary
+113,GSAT,social_studies,0,0.0,0.0,True,True,X =  0.00,gsat-113-score-boundary
+113,GSAT,social_studies,1,0.0,8.14,False,True,0.00＜X≦  8.14,gsat-113-score-boundary
+113,GSAT,social_studies,10,73.23,81.37,False,True,73.23＜X≦ 81.37,gsat-113-score-boundary
+113,GSAT,social_studies,11,81.37,89.5,False,True,81.37＜X≦ 89.50,gsat-113-score-boundary
+113,GSAT,social_studies,12,89.5,97.64,False,True,89.50＜X≦ 97.64,gsat-113-score-boundary
+113,GSAT,social_studies,13,97.64,105.78,False,True,97.64＜X≦105.78,gsat-113-score-boundary
+113,GSAT,social_studies,14,105.78,113.91,False,True,105.78＜X≦113.91,gsat-113-score-boundary
+113,GSAT,social_studies,15,113.91,144.0,False,True,113.91＜X≦144.00,gsat-113-score-boundary
+113,GSAT,social_studies,2,8.14,16.27,False,True,8.14＜X≦ 16.27,gsat-113-score-boundary
+113,GSAT,social_studies,3,16.27,24.41,False,True,16.27＜X≦ 24.41,gsat-113-score-boundary
+113,GSAT,social_studies,4,24.41,32.55,False,True,24.41＜X≦ 32.55,gsat-113-score-boundary
+113,GSAT,social_studies,5,32.55,40.68,False,True,32.55＜X≦ 40.68,gsat-113-score-boundary
+113,GSAT,social_studies,6,40.68,48.82,False,True,40.68＜X≦ 48.82,gsat-113-score-boundary
+113,GSAT,social_studies,7,48.82,56.96,False,True,48.82＜X≦ 56.96,gsat-113-score-boundary
+113,GSAT,social_studies,8,56.96,65.09,False,True,56.96＜X≦ 65.09,gsat-113-score-boundary
+113,GSAT,social_studies,9,65.09,73.23,False,True,65.09＜X≦ 73.23,gsat-113-score-boundary
+114,GSAT,chinese,0,0.0,0.0,True,True,X =  0.00,gsat-114-score-boundary
+114,GSAT,chinese,1,0.0,5.29,False,True,0.00＜X≦  5.29,gsat-114-score-boundary
+114,GSAT,chinese,10,47.61,52.9,False,True,47.61＜X≦ 52.90,gsat-114-score-boundary
+114,GSAT,chinese,11,52.9,58.19,False,True,52.90＜X≦ 58.19,gsat-114-score-boundary
+114,GSAT,chinese,12,58.19,63.48,False,True,58.19＜X≦ 63.48,gsat-114-score-boundary
+114,GSAT,chinese,13,63.48,68.77,False,True,63.48＜X≦ 68.77,gsat-114-score-boundary
+114,GSAT,chinese,14,68.77,74.06,False,True,68.77＜X≦ 74.06,gsat-114-score-boundary
+114,GSAT,chinese,15,74.06,100.0,False,True,74.06＜X≦100.00,gsat-114-score-boundary
+114,GSAT,chinese,2,5.29,10.58,False,True,5.29＜X≦ 10.58,gsat-114-score-boundary
+114,GSAT,chinese,3,10.58,15.87,False,True,10.58＜X≦ 15.87,gsat-114-score-boundary
+114,GSAT,chinese,4,15.87,21.16,False,True,15.87＜X≦ 21.16,gsat-114-score-boundary
+114,GSAT,chinese,5,21.16,26.45,False,True,21.16＜X≦ 26.45,gsat-114-score-boundary
+114,GSAT,chinese,6,26.45,31.74,False,True,26.45＜X≦ 31.74,gsat-114-score-boundary
+114,GSAT,chinese,7,31.74,37.03,False,True,31.74＜X≦ 37.03,gsat-114-score-boundary
+114,GSAT,chinese,8,37.03,42.32,False,True,37.03＜X≦ 42.32,gsat-114-score-boundary
+114,GSAT,chinese,9,42.32,47.61,False,True,42.32＜X≦ 47.61,gsat-114-score-boundary
+114,GSAT,english,0,0.0,0.0,True,True,X =  0.00,gsat-114-score-boundary
+114,GSAT,english,1,0.0,6.17,False,True,0.00＜X≦  6.17,gsat-114-score-boundary
+114,GSAT,english,10,55.54,61.71,False,True,55.54＜X≦ 61.71,gsat-114-score-boundary
+114,GSAT,english,11,61.71,67.88,False,True,61.71＜X≦ 67.88,gsat-114-score-boundary
+114,GSAT,english,12,67.88,74.05,False,True,67.88＜X≦ 74.05,gsat-114-score-boundary
+114,GSAT,english,13,74.05,80.22,False,True,74.05＜X≦ 80.22,gsat-114-score-boundary
+114,GSAT,english,14,80.22,86.39,False,True,80.22＜X≦ 86.39,gsat-114-score-boundary
+114,GSAT,english,15,86.39,100.0,False,True,86.39＜X≦100.00,gsat-114-score-boundary
+114,GSAT,english,2,6.17,12.34,False,True,6.17＜X≦ 12.34,gsat-114-score-boundary
+114,GSAT,english,3,12.34,18.51,False,True,12.34＜X≦ 18.51,gsat-114-score-boundary
+114,GSAT,english,4,18.51,24.68,False,True,18.51＜X≦ 24.68,gsat-114-score-boundary
+114,GSAT,english,5,24.68,30.85,False,True,24.68＜X≦ 30.85,gsat-114-score-boundary
+114,GSAT,english,6,30.85,37.02,False,True,30.85＜X≦ 37.02,gsat-114-score-boundary
+114,GSAT,english,7,37.02,43.19,False,True,37.02＜X≦ 43.19,gsat-114-score-boundary
+114,GSAT,english,8,43.19,49.37,False,True,43.19＜X≦ 49.37,gsat-114-score-boundary
+114,GSAT,english,9,49.37,55.54,False,True,49.37＜X≦ 55.54,gsat-114-score-boundary
+114,GSAT,mathematics_a,0,0.0,0.0,True,True,X =  0.00,gsat-114-score-boundary
+114,GSAT,mathematics_a,1,0.0,6.13,False,True,0.00＜X≦  6.13,gsat-114-score-boundary
+114,GSAT,mathematics_a,10,55.14,61.27,False,True,55.14＜X≦ 61.27,gsat-114-score-boundary
+114,GSAT,mathematics_a,11,61.27,67.39,False,True,61.27＜X≦ 67.39,gsat-114-score-boundary
+114,GSAT,mathematics_a,12,67.39,73.52,False,True,67.39＜X≦ 73.52,gsat-114-score-boundary
+114,GSAT,mathematics_a,13,73.52,79.65,False,True,73.52＜X≦ 79.65,gsat-114-score-boundary
+114,GSAT,mathematics_a,14,79.65,85.77,False,True,79.65＜X≦ 85.77,gsat-114-score-boundary
+114,GSAT,mathematics_a,15,85.77,100.0,False,True,85.77＜X≦100.00,gsat-114-score-boundary
+114,GSAT,mathematics_a,2,6.13,12.25,False,True,6.13＜X≦ 12.25,gsat-114-score-boundary
+114,GSAT,mathematics_a,3,12.25,18.38,False,True,12.25＜X≦ 18.38,gsat-114-score-boundary
+114,GSAT,mathematics_a,4,18.38,24.51,False,True,18.38＜X≦ 24.51,gsat-114-score-boundary
+114,GSAT,mathematics_a,5,24.51,30.63,False,True,24.51＜X≦ 30.63,gsat-114-score-boundary
+114,GSAT,mathematics_a,6,30.63,36.76,False,True,30.63＜X≦ 36.76,gsat-114-score-boundary
+114,GSAT,mathematics_a,7,36.76,42.89,False,True,36.76＜X≦ 42.89,gsat-114-score-boundary
+114,GSAT,mathematics_a,8,42.89,49.01,False,True,42.89＜X≦ 49.01,gsat-114-score-boundary
+114,GSAT,mathematics_a,9,49.01,55.14,False,True,49.01＜X≦ 55.14,gsat-114-score-boundary
+114,GSAT,mathematics_b,0,0.0,0.0,True,True,X =  0.00,gsat-114-score-boundary
+114,GSAT,mathematics_b,1,0.0,6.29,False,True,0.00＜X≦  6.29,gsat-114-score-boundary
+114,GSAT,mathematics_b,10,56.61,62.9,False,True,56.61＜X≦ 62.90,gsat-114-score-boundary
+114,GSAT,mathematics_b,11,62.9,69.19,False,True,62.90＜X≦ 69.19,gsat-114-score-boundary
+114,GSAT,mathematics_b,12,69.19,75.48,False,True,69.19＜X≦ 75.48,gsat-114-score-boundary
+114,GSAT,mathematics_b,13,75.48,81.77,False,True,75.48＜X≦ 81.77,gsat-114-score-boundary
+114,GSAT,mathematics_b,14,81.77,88.06,False,True,81.77＜X≦ 88.06,gsat-114-score-boundary
+114,GSAT,mathematics_b,15,88.06,100.0,False,True,88.06＜X≦100.00,gsat-114-score-boundary
+114,GSAT,mathematics_b,2,6.29,12.58,False,True,6.29＜X≦ 12.58,gsat-114-score-boundary
+114,GSAT,mathematics_b,3,12.58,18.87,False,True,12.58＜X≦ 18.87,gsat-114-score-boundary
+114,GSAT,mathematics_b,4,18.87,25.16,False,True,18.87＜X≦ 25.16,gsat-114-score-boundary
+114,GSAT,mathematics_b,5,25.16,31.45,False,True,25.16＜X≦ 31.45,gsat-114-score-boundary
+114,GSAT,mathematics_b,6,31.45,37.74,False,True,31.45＜X≦ 37.74,gsat-114-score-boundary
+114,GSAT,mathematics_b,7,37.74,44.03,False,True,37.74＜X≦ 44.03,gsat-114-score-boundary
+114,GSAT,mathematics_b,8,44.03,50.32,False,True,44.03＜X≦ 50.32,gsat-114-score-boundary
+114,GSAT,mathematics_b,9,50.32,56.61,False,True,50.32＜X≦ 56.61,gsat-114-score-boundary
+114,GSAT,natural_sciences,0,0.0,0.0,True,True,X =  0.00,gsat-114-score-boundary
+114,GSAT,natural_sciences,1,0.0,7.87,False,True,0.00＜X≦  7.87,gsat-114-score-boundary
+114,GSAT,natural_sciences,10,70.87,78.75,False,True,70.87＜X≦ 78.75,gsat-114-score-boundary
+114,GSAT,natural_sciences,11,78.75,86.62,False,True,78.75＜X≦ 86.62,gsat-114-score-boundary
+114,GSAT,natural_sciences,12,86.62,94.5,False,True,86.62＜X≦ 94.50,gsat-114-score-boundary
+114,GSAT,natural_sciences,13,94.5,102.37,False,True,94.50＜X≦ 102.37,gsat-114-score-boundary
+114,GSAT,natural_sciences,14,102.37,110.25,False,True,102.37＜X≦ 110.25,gsat-114-score-boundary
+114,GSAT,natural_sciences,15,110.25,128.0,False,True,110.25＜X≦128.00,gsat-114-score-boundary
+114,GSAT,natural_sciences,2,7.87,15.75,False,True,7.87＜X≦ 15.75,gsat-114-score-boundary
+114,GSAT,natural_sciences,3,15.75,23.62,False,True,15.75＜X≦ 23.62,gsat-114-score-boundary
+114,GSAT,natural_sciences,4,23.62,31.5,False,True,23.62＜X≦ 31.50,gsat-114-score-boundary
+114,GSAT,natural_sciences,5,31.5,39.37,False,True,31.50＜X≦ 39.37,gsat-114-score-boundary
+114,GSAT,natural_sciences,6,39.37,47.25,False,True,39.37＜X≦ 47.25,gsat-114-score-boundary
+114,GSAT,natural_sciences,7,47.25,55.12,False,True,47.25＜X≦ 55.12,gsat-114-score-boundary
+114,GSAT,natural_sciences,8,55.12,63.0,False,True,55.12＜X≦ 63.00,gsat-114-score-boundary
+114,GSAT,natural_sciences,9,63.0,70.87,False,True,63.00＜X≦ 70.87,gsat-114-score-boundary
+114,GSAT,social_studies,0,0.0,0.0,True,True,X =  0.00,gsat-114-score-boundary
+114,GSAT,social_studies,1,0.0,7.69,False,True,0.00＜X≦  7.69,gsat-114-score-boundary
+114,GSAT,social_studies,10,69.2,76.89,False,True,69.20＜X≦ 76.89,gsat-114-score-boundary
+114,GSAT,social_studies,11,76.89,84.58,False,True,76.89＜X≦ 84.58,gsat-114-score-boundary
+114,GSAT,social_studies,12,84.58,92.27,False,True,84.58＜X≦ 92.27,gsat-114-score-boundary
+114,GSAT,social_studies,13,92.27,99.96,False,True,92.27＜X≦ 99.96,gsat-114-score-boundary
+114,GSAT,social_studies,14,99.96,107.65,False,True,99.96＜X≦ 107.65,gsat-114-score-boundary
+114,GSAT,social_studies,15,107.65,144.0,False,True,107.65＜X≦144.00,gsat-114-score-boundary
+114,GSAT,social_studies,2,7.69,15.38,False,True,7.69＜X≦ 15.38,gsat-114-score-boundary
+114,GSAT,social_studies,3,15.38,23.07,False,True,15.38＜X≦ 23.07,gsat-114-score-boundary
+114,GSAT,social_studies,4,23.07,30.76,False,True,23.07＜X≦ 30.76,gsat-114-score-boundary
+114,GSAT,social_studies,5,30.76,38.45,False,True,30.76＜X≦ 38.45,gsat-114-score-boundary
+114,GSAT,social_studies,6,38.45,46.14,False,True,38.45＜X≦ 46.14,gsat-114-score-boundary
+114,GSAT,social_studies,7,46.14,53.83,False,True,46.14＜X≦ 53.83,gsat-114-score-boundary
+114,GSAT,social_studies,8,53.83,61.51,False,True,53.83＜X≦ 61.51,gsat-114-score-boundary
+114,GSAT,social_studies,9,61.51,69.2,False,True,61.51＜X≦ 69.20,gsat-114-score-boundary
+115,GSAT,chinese,0,0.0,0.0,True,True,X =  0.00,gsat-115-score-boundary
+115,GSAT,chinese,1,0.0,5.11,False,True,0.00＜X≦  5.11,gsat-115-score-boundary
+115,GSAT,chinese,10,45.95,51.06,False,True,45.95＜X≦ 51.06,gsat-115-score-boundary
+115,GSAT,chinese,11,51.06,56.17,False,True,51.06＜X≦ 56.17,gsat-115-score-boundary
+115,GSAT,chinese,12,56.17,61.27,False,True,56.17＜X≦ 61.27,gsat-115-score-boundary
+115,GSAT,chinese,13,61.27,66.38,False,True,61.27＜X≦ 66.38,gsat-115-score-boundary
+115,GSAT,chinese,14,66.38,71.48,False,True,66.38＜X≦ 71.48,gsat-115-score-boundary
+115,GSAT,chinese,15,71.48,100.0,False,True,71.48＜X≦100.00,gsat-115-score-boundary
+115,GSAT,chinese,2,5.11,10.21,False,True,5.11＜X≦ 10.21,gsat-115-score-boundary
+115,GSAT,chinese,3,10.21,15.32,False,True,10.21＜X≦ 15.32,gsat-115-score-boundary
+115,GSAT,chinese,4,15.32,20.42,False,True,15.32＜X≦ 20.42,gsat-115-score-boundary
+115,GSAT,chinese,5,20.42,25.53,False,True,20.42＜X≦ 25.53,gsat-115-score-boundary
+115,GSAT,chinese,6,25.53,30.64,False,True,25.53＜X≦ 30.64,gsat-115-score-boundary
+115,GSAT,chinese,7,30.64,35.74,False,True,30.64＜X≦ 35.74,gsat-115-score-boundary
+115,GSAT,chinese,8,35.74,40.85,False,True,35.74＜X≦ 40.85,gsat-115-score-boundary
+115,GSAT,chinese,9,40.85,45.95,False,True,40.85＜X≦ 45.95,gsat-115-score-boundary
+115,GSAT,english,0,0.0,0.0,True,True,X =  0.00,gsat-115-score-boundary
+115,GSAT,english,1,0.0,6.1,False,True,0.00＜X≦  6.10,gsat-115-score-boundary
+115,GSAT,english,10,54.88,60.97,False,True,54.88＜X≦ 60.97,gsat-115-score-boundary
+115,GSAT,english,11,60.97,67.07,False,True,60.97＜X≦ 67.07,gsat-115-score-boundary
+115,GSAT,english,12,67.07,73.17,False,True,67.07＜X≦ 73.17,gsat-115-score-boundary
+115,GSAT,english,13,73.17,79.27,False,True,73.17＜X≦ 79.27,gsat-115-score-boundary
+115,GSAT,english,14,79.27,85.36,False,True,79.27＜X≦ 85.36,gsat-115-score-boundary
+115,GSAT,english,15,85.36,100.0,False,True,85.36＜X≦100.00,gsat-115-score-boundary
+115,GSAT,english,2,6.1,12.19,False,True,6.10＜X≦ 12.19,gsat-115-score-boundary
+115,GSAT,english,3,12.19,18.29,False,True,12.19＜X≦ 18.29,gsat-115-score-boundary
+115,GSAT,english,4,18.29,24.39,False,True,18.29＜X≦ 24.39,gsat-115-score-boundary
+115,GSAT,english,5,24.39,30.49,False,True,24.39＜X≦ 30.49,gsat-115-score-boundary
+115,GSAT,english,6,30.49,36.58,False,True,30.49＜X≦ 36.58,gsat-115-score-boundary
+115,GSAT,english,7,36.58,42.68,False,True,36.58＜X≦ 42.68,gsat-115-score-boundary
+115,GSAT,english,8,42.68,48.78,False,True,42.68＜X≦ 48.78,gsat-115-score-boundary
+115,GSAT,english,9,48.78,54.88,False,True,48.78＜X≦ 54.88,gsat-115-score-boundary
+115,GSAT,mathematics_a,0,0.0,0.0,True,True,X =  0.00,gsat-115-score-boundary
+115,GSAT,mathematics_a,1,0.0,5.72,False,True,0.00＜X≦  5.72,gsat-115-score-boundary
+115,GSAT,mathematics_a,10,51.51,57.23,False,True,51.51＜X≦ 57.23,gsat-115-score-boundary
+115,GSAT,mathematics_a,11,57.23,62.96,False,True,57.23＜X≦ 62.96,gsat-115-score-boundary
+115,GSAT,mathematics_a,12,62.96,68.68,False,True,62.96＜X≦ 68.68,gsat-115-score-boundary
+115,GSAT,mathematics_a,13,68.68,74.4,False,True,68.68＜X≦ 74.40,gsat-115-score-boundary
+115,GSAT,mathematics_a,14,74.4,80.13,False,True,74.40＜X≦ 80.13,gsat-115-score-boundary
+115,GSAT,mathematics_a,15,80.13,100.0,False,True,80.13＜X≦100.00,gsat-115-score-boundary
+115,GSAT,mathematics_a,2,5.72,11.45,False,True,5.72＜X≦ 11.45,gsat-115-score-boundary
+115,GSAT,mathematics_a,3,11.45,17.17,False,True,11.45＜X≦ 17.17,gsat-115-score-boundary
+115,GSAT,mathematics_a,4,17.17,22.89,False,True,17.17＜X≦ 22.89,gsat-115-score-boundary
+115,GSAT,mathematics_a,5,22.89,28.62,False,True,22.89＜X≦ 28.62,gsat-115-score-boundary
+115,GSAT,mathematics_a,6,28.62,34.34,False,True,28.62＜X≦ 34.34,gsat-115-score-boundary
+115,GSAT,mathematics_a,7,34.34,40.06,False,True,34.34＜X≦ 40.06,gsat-115-score-boundary
+115,GSAT,mathematics_a,8,40.06,45.79,False,True,40.06＜X≦ 45.79,gsat-115-score-boundary
+115,GSAT,mathematics_a,9,45.79,51.51,False,True,45.79＜X≦ 51.51,gsat-115-score-boundary
+115,GSAT,mathematics_b,0,0.0,0.0,True,True,X =  0.00,gsat-115-score-boundary
+115,GSAT,mathematics_b,1,0.0,6.21,False,True,0.00＜X≦  6.21,gsat-115-score-boundary
+115,GSAT,mathematics_b,10,55.93,62.14,False,True,55.93＜X≦ 62.14,gsat-115-score-boundary
+115,GSAT,mathematics_b,11,62.14,68.35,False,True,62.14＜X≦ 68.35,gsat-115-score-boundary
+115,GSAT,mathematics_b,12,68.35,74.57,False,True,68.35＜X≦ 74.57,gsat-115-score-boundary
+115,GSAT,mathematics_b,13,74.57,80.78,False,True,74.57＜X≦ 80.78,gsat-115-score-boundary
+115,GSAT,mathematics_b,14,80.78,87.0,False,True,80.78＜X≦ 87.00,gsat-115-score-boundary
+115,GSAT,mathematics_b,15,87.0,100.0,False,True,87.00＜X≦100.00,gsat-115-score-boundary
+115,GSAT,mathematics_b,2,6.21,12.43,False,True,6.21＜X≦ 12.43,gsat-115-score-boundary
+115,GSAT,mathematics_b,3,12.43,18.64,False,True,12.43＜X≦ 18.64,gsat-115-score-boundary
+115,GSAT,mathematics_b,4,18.64,24.86,False,True,18.64＜X≦ 24.86,gsat-115-score-boundary
+115,GSAT,mathematics_b,5,24.86,31.07,False,True,24.86＜X≦ 31.07,gsat-115-score-boundary
+115,GSAT,mathematics_b,6,31.07,37.28,False,True,31.07＜X≦ 37.28,gsat-115-score-boundary
+115,GSAT,mathematics_b,7,37.28,43.5,False,True,37.28＜X≦ 43.50,gsat-115-score-boundary
+115,GSAT,mathematics_b,8,43.5,49.71,False,True,43.50＜X≦ 49.71,gsat-115-score-boundary
+115,GSAT,mathematics_b,9,49.71,55.93,False,True,49.71＜X≦ 55.93,gsat-115-score-boundary
+115,GSAT,natural_sciences,0,0.0,0.0,True,True,X =  0.00,gsat-115-score-boundary
+115,GSAT,natural_sciences,1,0.0,7.91,False,True,0.00＜X≦  7.91,gsat-115-score-boundary
+115,GSAT,natural_sciences,10,71.15,79.05,False,True,71.15＜X≦ 79.05,gsat-115-score-boundary
+115,GSAT,natural_sciences,11,79.05,86.96,False,True,79.05＜X≦ 86.96,gsat-115-score-boundary
+115,GSAT,natural_sciences,12,86.96,94.86,False,True,86.96＜X≦ 94.86,gsat-115-score-boundary
+115,GSAT,natural_sciences,13,94.86,102.77,False,True,94.86＜X≦ 102.77,gsat-115-score-boundary
+115,GSAT,natural_sciences,14,102.77,110.67,False,True,102.77＜X≦ 110.67,gsat-115-score-boundary
+115,GSAT,natural_sciences,15,110.67,128.0,False,True,110.67＜X≦128.00,gsat-115-score-boundary
+115,GSAT,natural_sciences,2,7.91,15.81,False,True,7.91＜X≦ 15.81,gsat-115-score-boundary
+115,GSAT,natural_sciences,3,15.81,23.72,False,True,15.81＜X≦ 23.72,gsat-115-score-boundary
+115,GSAT,natural_sciences,4,23.72,31.62,False,True,23.72＜X≦ 31.62,gsat-115-score-boundary
+115,GSAT,natural_sciences,5,31.62,39.53,False,True,31.62＜X≦ 39.53,gsat-115-score-boundary
+115,GSAT,natural_sciences,6,39.53,47.43,False,True,39.53＜X≦ 47.43,gsat-115-score-boundary
+115,GSAT,natural_sciences,7,47.43,55.34,False,True,47.43＜X≦ 55.34,gsat-115-score-boundary
+115,GSAT,natural_sciences,8,55.34,63.24,False,True,55.34＜X≦ 63.24,gsat-115-score-boundary
+115,GSAT,natural_sciences,9,63.24,71.15,False,True,63.24＜X≦ 71.15,gsat-115-score-boundary
+115,GSAT,social_studies,0,0.0,0.0,True,True,X =  0.00,gsat-115-score-boundary
+115,GSAT,social_studies,1,0.0,7.8,False,True,0.00＜X≦  7.80,gsat-115-score-boundary
+115,GSAT,social_studies,10,70.21,78.01,False,True,70.21＜X≦ 78.01,gsat-115-score-boundary
+115,GSAT,social_studies,11,78.01,85.81,False,True,78.01＜X≦ 85.81,gsat-115-score-boundary
+115,GSAT,social_studies,12,85.81,93.62,False,True,85.81＜X≦ 93.62,gsat-115-score-boundary
+115,GSAT,social_studies,13,93.62,101.42,False,True,93.62＜X≦ 101.42,gsat-115-score-boundary
+115,GSAT,social_studies,14,101.42,109.22,False,True,101.42＜X≦ 109.22,gsat-115-score-boundary
+115,GSAT,social_studies,15,109.22,144.0,False,True,109.22＜X≦144.00,gsat-115-score-boundary
+115,GSAT,social_studies,2,7.8,15.6,False,True,7.80＜X≦ 15.60,gsat-115-score-boundary
+115,GSAT,social_studies,3,15.6,23.4,False,True,15.60＜X≦ 23.40,gsat-115-score-boundary
+115,GSAT,social_studies,4,23.4,31.21,False,True,23.40＜X≦ 31.21,gsat-115-score-boundary
+115,GSAT,social_studies,5,31.21,39.01,False,True,31.21＜X≦ 39.01,gsat-115-score-boundary
+115,GSAT,social_studies,6,39.01,46.81,False,True,39.01＜X≦ 46.81,gsat-115-score-boundary
+115,GSAT,social_studies,7,46.81,54.61,False,True,46.81＜X≦ 54.61,gsat-115-score-boundary
+115,GSAT,social_studies,8,54.61,62.41,False,True,54.61＜X≦ 62.41,gsat-115-score-boundary
+115,GSAT,social_studies,9,62.41,70.21,False,True,62.41＜X≦ 70.21,gsat-115-score-boundary

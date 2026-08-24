@@ -1,0 +1,743 @@
+{
+  "schema_version": "1.0.0",
+  "generated_at": "2026-08-23T14:46:04.495597+00:00",
+  "source_ids": [
+    "gsat-111-absence",
+    "gsat-111-registration",
+    "gsat-112-absence",
+    "gsat-112-registration",
+    "gsat-113-absence",
+    "gsat-113-registration",
+    "gsat-114-absence",
+    "gsat-114-registration",
+    "gsat-115-absence",
+    "gsat-115-registration"
+  ],
+  "data": [
+    {
+      "academic_year": 111,
+      "exam": "GSAT",
+      "group_type": "all_candidates",
+      "group_name": "全體報名考生",
+      "subject_id": null,
+      "registered_count": 116445,
+      "attended_count": null,
+      "absent_count": null,
+      "absence_rate": null,
+      "is_derived": false,
+      "derivation_method": null,
+      "derivation_version": null,
+      "input_source_ids": [
+        "gsat-111-registration"
+      ],
+      "source_id": "gsat-111-registration"
+    },
+    {
+      "academic_year": 111,
+      "exam": "GSAT",
+      "group_type": "subject_attendance",
+      "group_name": "國綜",
+      "subject_id": "chinese_integrated",
+      "registered_count": 116177,
+      "attended_count": 113811,
+      "absent_count": 2366,
+      "absence_rate": 2.0365476815548686,
+      "is_derived": true,
+      "derivation_method": "缺考 / (實到 + 缺考) × 100；報考數 = 實到 + 缺考",
+      "derivation_version": "1.0.0",
+      "input_source_ids": [
+        "gsat-111-absence"
+      ],
+      "source_id": "gsat-111-absence"
+    },
+    {
+      "academic_year": 111,
+      "exam": "GSAT",
+      "group_type": "subject_attendance",
+      "group_name": "國寫",
+      "subject_id": "chinese_writing",
+      "registered_count": 116177,
+      "attended_count": 113287,
+      "absent_count": 2890,
+      "absence_rate": 2.4875836008848564,
+      "is_derived": true,
+      "derivation_method": "缺考 / (實到 + 缺考) × 100；報考數 = 實到 + 缺考",
+      "derivation_version": "1.0.0",
+      "input_source_ids": [
+        "gsat-111-absence"
+      ],
+      "source_id": "gsat-111-absence"
+    },
+    {
+      "academic_year": 111,
+      "exam": "GSAT",
+      "group_type": "subject_attendance",
+      "group_name": "英文",
+      "subject_id": "english",
+      "registered_count": 116099,
+      "attended_count": 113756,
+      "absent_count": 2343,
+      "absence_rate": 2.0181052377712123,
+      "is_derived": true,
+      "derivation_method": "缺考 / (實到 + 缺考) × 100；報考數 = 實到 + 缺考",
+      "derivation_version": "1.0.0",
+      "input_source_ids": [
+        "gsat-111-absence"
+      ],
+      "source_id": "gsat-111-absence"
+    },
+    {
+      "academic_year": 111,
+      "exam": "GSAT",
+      "group_type": "subject_attendance",
+      "group_name": "數學A",
+      "subject_id": "mathematics_a",
+      "registered_count": 81600,
+      "attended_count": 79834,
+      "absent_count": 1766,
+      "absence_rate": 2.1642156862745097,
+      "is_derived": true,
+      "derivation_method": "缺考 / (實到 + 缺考) × 100；報考數 = 實到 + 缺考",
+      "derivation_version": "1.0.0",
+      "input_source_ids": [
+        "gsat-111-absence"
+      ],
+      "source_id": "gsat-111-absence"
+    },
+    {
+      "academic_year": 111,
+      "exam": "GSAT",
+      "group_type": "subject_attendance",
+      "group_name": "數學B",
+      "subject_id": "mathematics_b",
+      "registered_count": 93856,
+      "attended_count": 90556,
+      "absent_count": 3300,
+      "absence_rate": 3.5160245482441184,
+      "is_derived": true,
+      "derivation_method": "缺考 / (實到 + 缺考) × 100；報考數 = 實到 + 缺考",
+      "derivation_version": "1.0.0",
+      "input_source_ids": [
+        "gsat-111-absence"
+      ],
+      "source_id": "gsat-111-absence"
+    },
+    {
+      "academic_year": 111,
+      "exam": "GSAT",
+      "group_type": "subject_attendance",
+      "group_name": "自然",
+      "subject_id": "natural_sciences",
+      "registered_count": 72195,
+      "attended_count": 69773,
+      "absent_count": 2422,
+      "absence_rate": 3.3548029641941963,
+      "is_derived": true,
+      "derivation_method": "缺考 / (實到 + 缺考) × 100；報考數 = 實到 + 缺考",
+      "derivation_version": "1.0.0",
+      "input_source_ids": [
+        "gsat-111-absence"
+      ],
+      "source_id": "gsat-111-absence"
+    },
+    {
+      "academic_year": 111,
+      "exam": "GSAT",
+      "group_type": "subject_attendance",
+      "group_name": "社會",
+      "subject_id": "social_studies",
+      "registered_count": 92729,
+      "attended_count": 89260,
+      "absent_count": 3469,
+      "absence_rate": 3.7410087459155172,
+      "is_derived": true,
+      "derivation_method": "缺考 / (實到 + 缺考) × 100；報考數 = 實到 + 缺考",
+      "derivation_version": "1.0.0",
+      "input_source_ids": [
+        "gsat-111-absence"
+      ],
+      "source_id": "gsat-111-absence"
+    },
+    {
+      "academic_year": 112,
+      "exam": "GSAT",
+      "group_type": "all_candidates",
+      "group_name": "全體報名考生",
+      "subject_id": null,
+      "registered_count": 118551,
+      "attended_count": null,
+      "absent_count": null,
+      "absence_rate": null,
+      "is_derived": false,
+      "derivation_method": null,
+      "derivation_version": null,
+      "input_source_ids": [
+        "gsat-112-registration"
+      ],
+      "source_id": "gsat-112-registration"
+    },
+    {
+      "academic_year": 112,
+      "exam": "GSAT",
+      "group_type": "subject_attendance",
+      "group_name": "國綜",
+      "subject_id": "chinese_integrated",
+      "registered_count": 118134,
+      "attended_count": 115766,
+      "absent_count": 2368,
+      "absence_rate": 2.004503360590516,
+      "is_derived": true,
+      "derivation_method": "缺考 / (實到 + 缺考) × 100；報考數 = 實到 + 缺考",
+      "derivation_version": "1.0.0",
+      "input_source_ids": [
+        "gsat-112-absence"
+      ],
+      "source_id": "gsat-112-absence"
+    },
+    {
+      "academic_year": 112,
+      "exam": "GSAT",
+      "group_type": "subject_attendance",
+      "group_name": "國寫",
+      "subject_id": "chinese_writing",
+      "registered_count": 118134,
+      "attended_count": 115021,
+      "absent_count": 3113,
+      "absence_rate": 2.635143142533056,
+      "is_derived": true,
+      "derivation_method": "缺考 / (實到 + 缺考) × 100；報考數 = 實到 + 缺考",
+      "derivation_version": "1.0.0",
+      "input_source_ids": [
+        "gsat-112-absence"
+      ],
+      "source_id": "gsat-112-absence"
+    },
+    {
+      "academic_year": 112,
+      "exam": "GSAT",
+      "group_type": "subject_attendance",
+      "group_name": "英文",
+      "subject_id": "english",
+      "registered_count": 118185,
+      "attended_count": 115919,
+      "absent_count": 2266,
+      "absence_rate": 1.9173329948809068,
+      "is_derived": true,
+      "derivation_method": "缺考 / (實到 + 缺考) × 100；報考數 = 實到 + 缺考",
+      "derivation_version": "1.0.0",
+      "input_source_ids": [
+        "gsat-112-absence"
+      ],
+      "source_id": "gsat-112-absence"
+    },
+    {
+      "academic_year": 112,
+      "exam": "GSAT",
+      "group_type": "subject_attendance",
+      "group_name": "數學A",
+      "subject_id": "mathematics_a",
+      "registered_count": 87111,
+      "attended_count": 85315,
+      "absent_count": 1796,
+      "absence_rate": 2.0617373236445453,
+      "is_derived": true,
+      "derivation_method": "缺考 / (實到 + 缺考) × 100；報考數 = 實到 + 缺考",
+      "derivation_version": "1.0.0",
+      "input_source_ids": [
+        "gsat-112-absence"
+      ],
+      "source_id": "gsat-112-absence"
+    },
+    {
+      "academic_year": 112,
+      "exam": "GSAT",
+      "group_type": "subject_attendance",
+      "group_name": "數學B",
+      "subject_id": "mathematics_b",
+      "registered_count": 101052,
+      "attended_count": 97384,
+      "absent_count": 3668,
+      "absence_rate": 3.6298143530063727,
+      "is_derived": true,
+      "derivation_method": "缺考 / (實到 + 缺考) × 100；報考數 = 實到 + 缺考",
+      "derivation_version": "1.0.0",
+      "input_source_ids": [
+        "gsat-112-absence"
+      ],
+      "source_id": "gsat-112-absence"
+    },
+    {
+      "academic_year": 112,
+      "exam": "GSAT",
+      "group_type": "subject_attendance",
+      "group_name": "自然",
+      "subject_id": "natural_sciences",
+      "registered_count": 74290,
+      "attended_count": 72087,
+      "absent_count": 2203,
+      "absence_rate": 2.9654058419706555,
+      "is_derived": true,
+      "derivation_method": "缺考 / (實到 + 缺考) × 100；報考數 = 實到 + 缺考",
+      "derivation_version": "1.0.0",
+      "input_source_ids": [
+        "gsat-112-absence"
+      ],
+      "source_id": "gsat-112-absence"
+    },
+    {
+      "academic_year": 112,
+      "exam": "GSAT",
+      "group_type": "subject_attendance",
+      "group_name": "社會",
+      "subject_id": "social_studies",
+      "registered_count": 96229,
+      "attended_count": 92631,
+      "absent_count": 3598,
+      "absence_rate": 3.7389975994762494,
+      "is_derived": true,
+      "derivation_method": "缺考 / (實到 + 缺考) × 100；報考數 = 實到 + 缺考",
+      "derivation_version": "1.0.0",
+      "input_source_ids": [
+        "gsat-112-absence"
+      ],
+      "source_id": "gsat-112-absence"
+    },
+    {
+      "academic_year": 113,
+      "exam": "GSAT",
+      "group_type": "all_candidates",
+      "group_name": "全體報名考生",
+      "subject_id": null,
+      "registered_count": 120172,
+      "attended_count": null,
+      "absent_count": null,
+      "absence_rate": null,
+      "is_derived": false,
+      "derivation_method": null,
+      "derivation_version": null,
+      "input_source_ids": [
+        "gsat-113-registration"
+      ],
+      "source_id": "gsat-113-registration"
+    },
+    {
+      "academic_year": 113,
+      "exam": "GSAT",
+      "group_type": "subject_attendance",
+      "group_name": "國綜",
+      "subject_id": "chinese_integrated",
+      "registered_count": 119706,
+      "attended_count": 116991,
+      "absent_count": 2715,
+      "absence_rate": 2.268056739010576,
+      "is_derived": true,
+      "derivation_method": "缺考 / (實到 + 缺考) × 100；報考數 = 實到 + 缺考",
+      "derivation_version": "1.0.0",
+      "input_source_ids": [
+        "gsat-113-absence"
+      ],
+      "source_id": "gsat-113-absence"
+    },
+    {
+      "academic_year": 113,
+      "exam": "GSAT",
+      "group_type": "subject_attendance",
+      "group_name": "國寫",
+      "subject_id": "chinese_writing",
+      "registered_count": 119706,
+      "attended_count": 116308,
+      "absent_count": 3398,
+      "absence_rate": 2.838621288824286,
+      "is_derived": true,
+      "derivation_method": "缺考 / (實到 + 缺考) × 100；報考數 = 實到 + 缺考",
+      "derivation_version": "1.0.0",
+      "input_source_ids": [
+        "gsat-113-absence"
+      ],
+      "source_id": "gsat-113-absence"
+    },
+    {
+      "academic_year": 113,
+      "exam": "GSAT",
+      "group_type": "subject_attendance",
+      "group_name": "英文",
+      "subject_id": "english",
+      "registered_count": 119760,
+      "attended_count": 117106,
+      "absent_count": 2654,
+      "absence_rate": 2.2160988643954576,
+      "is_derived": true,
+      "derivation_method": "缺考 / (實到 + 缺考) × 100；報考數 = 實到 + 缺考",
+      "derivation_version": "1.0.0",
+      "input_source_ids": [
+        "gsat-113-absence"
+      ],
+      "source_id": "gsat-113-absence"
+    },
+    {
+      "academic_year": 113,
+      "exam": "GSAT",
+      "group_type": "subject_attendance",
+      "group_name": "數學A",
+      "subject_id": "mathematics_a",
+      "registered_count": 90815,
+      "attended_count": 88694,
+      "absent_count": 2121,
+      "absence_rate": 2.3355172603644774,
+      "is_derived": true,
+      "derivation_method": "缺考 / (實到 + 缺考) × 100；報考數 = 實到 + 缺考",
+      "derivation_version": "1.0.0",
+      "input_source_ids": [
+        "gsat-113-absence"
+      ],
+      "source_id": "gsat-113-absence"
+    },
+    {
+      "academic_year": 113,
+      "exam": "GSAT",
+      "group_type": "subject_attendance",
+      "group_name": "數學B",
+      "subject_id": "mathematics_b",
+      "registered_count": 99021,
+      "attended_count": 94580,
+      "absent_count": 4441,
+      "absence_rate": 4.484907241898183,
+      "is_derived": true,
+      "derivation_method": "缺考 / (實到 + 缺考) × 100；報考數 = 實到 + 缺考",
+      "derivation_version": "1.0.0",
+      "input_source_ids": [
+        "gsat-113-absence"
+      ],
+      "source_id": "gsat-113-absence"
+    },
+    {
+      "academic_year": 113,
+      "exam": "GSAT",
+      "group_type": "subject_attendance",
+      "group_name": "自然",
+      "subject_id": "natural_sciences",
+      "registered_count": 78266,
+      "attended_count": 75680,
+      "absent_count": 2586,
+      "absence_rate": 3.30411673012547,
+      "is_derived": true,
+      "derivation_method": "缺考 / (實到 + 缺考) × 100；報考數 = 實到 + 缺考",
+      "derivation_version": "1.0.0",
+      "input_source_ids": [
+        "gsat-113-absence"
+      ],
+      "source_id": "gsat-113-absence"
+    },
+    {
+      "academic_year": 113,
+      "exam": "GSAT",
+      "group_type": "subject_attendance",
+      "group_name": "社會",
+      "subject_id": "social_studies",
+      "registered_count": 95925,
+      "attended_count": 91693,
+      "absent_count": 4232,
+      "absence_rate": 4.411780036486839,
+      "is_derived": true,
+      "derivation_method": "缺考 / (實到 + 缺考) × 100；報考數 = 實到 + 缺考",
+      "derivation_version": "1.0.0",
+      "input_source_ids": [
+        "gsat-113-absence"
+      ],
+      "source_id": "gsat-113-absence"
+    },
+    {
+      "academic_year": 114,
+      "exam": "GSAT",
+      "group_type": "all_candidates",
+      "group_name": "全體報名考生",
+      "subject_id": null,
+      "registered_count": 121181,
+      "attended_count": null,
+      "absent_count": null,
+      "absence_rate": null,
+      "is_derived": false,
+      "derivation_method": null,
+      "derivation_version": null,
+      "input_source_ids": [
+        "gsat-114-registration"
+      ],
+      "source_id": "gsat-114-registration"
+    },
+    {
+      "academic_year": 114,
+      "exam": "GSAT",
+      "group_type": "subject_attendance",
+      "group_name": "國綜",
+      "subject_id": "chinese_integrated",
+      "registered_count": 120674,
+      "attended_count": 117797,
+      "absent_count": 2877,
+      "absence_rate": 2.3841092530288215,
+      "is_derived": true,
+      "derivation_method": "缺考 / (實到 + 缺考) × 100；報考數 = 實到 + 缺考",
+      "derivation_version": "1.0.0",
+      "input_source_ids": [
+        "gsat-114-absence"
+      ],
+      "source_id": "gsat-114-absence"
+    },
+    {
+      "academic_year": 114,
+      "exam": "GSAT",
+      "group_type": "subject_attendance",
+      "group_name": "國寫",
+      "subject_id": "chinese_writing",
+      "registered_count": 120674,
+      "attended_count": 117219,
+      "absent_count": 3455,
+      "absence_rate": 2.8630856688267565,
+      "is_derived": true,
+      "derivation_method": "缺考 / (實到 + 缺考) × 100；報考數 = 實到 + 缺考",
+      "derivation_version": "1.0.0",
+      "input_source_ids": [
+        "gsat-114-absence"
+      ],
+      "source_id": "gsat-114-absence"
+    },
+    {
+      "academic_year": 114,
+      "exam": "GSAT",
+      "group_type": "subject_attendance",
+      "group_name": "英文",
+      "subject_id": "english",
+      "registered_count": 120695,
+      "attended_count": 117866,
+      "absent_count": 2829,
+      "absence_rate": 2.3439247690459424,
+      "is_derived": true,
+      "derivation_method": "缺考 / (實到 + 缺考) × 100；報考數 = 實到 + 缺考",
+      "derivation_version": "1.0.0",
+      "input_source_ids": [
+        "gsat-114-absence"
+      ],
+      "source_id": "gsat-114-absence"
+    },
+    {
+      "academic_year": 114,
+      "exam": "GSAT",
+      "group_type": "subject_attendance",
+      "group_name": "數學A",
+      "subject_id": "mathematics_a",
+      "registered_count": 92917,
+      "attended_count": 90576,
+      "absent_count": 2341,
+      "absence_rate": 2.519452845012215,
+      "is_derived": true,
+      "derivation_method": "缺考 / (實到 + 缺考) × 100；報考數 = 實到 + 缺考",
+      "derivation_version": "1.0.0",
+      "input_source_ids": [
+        "gsat-114-absence"
+      ],
+      "source_id": "gsat-114-absence"
+    },
+    {
+      "academic_year": 114,
+      "exam": "GSAT",
+      "group_type": "subject_attendance",
+      "group_name": "數學B",
+      "subject_id": "mathematics_b",
+      "registered_count": 99813,
+      "attended_count": 95521,
+      "absent_count": 4292,
+      "absence_rate": 4.300041076813642,
+      "is_derived": true,
+      "derivation_method": "缺考 / (實到 + 缺考) × 100；報考數 = 實到 + 缺考",
+      "derivation_version": "1.0.0",
+      "input_source_ids": [
+        "gsat-114-absence"
+      ],
+      "source_id": "gsat-114-absence"
+    },
+    {
+      "academic_year": 114,
+      "exam": "GSAT",
+      "group_type": "subject_attendance",
+      "group_name": "自然",
+      "subject_id": "natural_sciences",
+      "registered_count": 80226,
+      "attended_count": 77520,
+      "absent_count": 2706,
+      "absence_rate": 3.3729713559195273,
+      "is_derived": true,
+      "derivation_method": "缺考 / (實到 + 缺考) × 100；報考數 = 實到 + 缺考",
+      "derivation_version": "1.0.0",
+      "input_source_ids": [
+        "gsat-114-absence"
+      ],
+      "source_id": "gsat-114-absence"
+    },
+    {
+      "academic_year": 114,
+      "exam": "GSAT",
+      "group_type": "subject_attendance",
+      "group_name": "社會",
+      "subject_id": "social_studies",
+      "registered_count": 98009,
+      "attended_count": 93800,
+      "absent_count": 4209,
+      "absence_rate": 4.294503565999041,
+      "is_derived": true,
+      "derivation_method": "缺考 / (實到 + 缺考) × 100；報考數 = 實到 + 缺考",
+      "derivation_version": "1.0.0",
+      "input_source_ids": [
+        "gsat-114-absence"
+      ],
+      "source_id": "gsat-114-absence"
+    },
+    {
+      "academic_year": 115,
+      "exam": "GSAT",
+      "group_type": "all_candidates",
+      "group_name": "全體報名考生",
+      "subject_id": null,
+      "registered_count": 121535,
+      "attended_count": null,
+      "absent_count": null,
+      "absence_rate": null,
+      "is_derived": false,
+      "derivation_method": null,
+      "derivation_version": null,
+      "input_source_ids": [
+        "gsat-115-registration"
+      ],
+      "source_id": "gsat-115-registration"
+    },
+    {
+      "academic_year": 115,
+      "exam": "GSAT",
+      "group_type": "subject_attendance",
+      "group_name": "國綜",
+      "subject_id": "chinese_integrated",
+      "registered_count": 120902,
+      "attended_count": 118010,
+      "absent_count": 2892,
+      "absence_rate": 2.39201998312683,
+      "is_derived": true,
+      "derivation_method": "缺考 / (實到 + 缺考) × 100；報考數 = 實到 + 缺考",
+      "derivation_version": "1.0.0",
+      "input_source_ids": [
+        "gsat-115-absence"
+      ],
+      "source_id": "gsat-115-absence"
+    },
+    {
+      "academic_year": 115,
+      "exam": "GSAT",
+      "group_type": "subject_attendance",
+      "group_name": "國寫",
+      "subject_id": "chinese_writing",
+      "registered_count": 120902,
+      "attended_count": 117465,
+      "absent_count": 3437,
+      "absence_rate": 2.8427982994491408,
+      "is_derived": true,
+      "derivation_method": "缺考 / (實到 + 缺考) × 100；報考數 = 實到 + 缺考",
+      "derivation_version": "1.0.0",
+      "input_source_ids": [
+        "gsat-115-absence"
+      ],
+      "source_id": "gsat-115-absence"
+    },
+    {
+      "academic_year": 115,
+      "exam": "GSAT",
+      "group_type": "subject_attendance",
+      "group_name": "英文",
+      "subject_id": "english",
+      "registered_count": 120959,
+      "attended_count": 118169,
+      "absent_count": 2790,
+      "absence_rate": 2.306566687885978,
+      "is_derived": true,
+      "derivation_method": "缺考 / (實到 + 缺考) × 100；報考數 = 實到 + 缺考",
+      "derivation_version": "1.0.0",
+      "input_source_ids": [
+        "gsat-115-absence"
+      ],
+      "source_id": "gsat-115-absence"
+    },
+    {
+      "academic_year": 115,
+      "exam": "GSAT",
+      "group_type": "subject_attendance",
+      "group_name": "數學A",
+      "subject_id": "mathematics_a",
+      "registered_count": 92951,
+      "attended_count": 90579,
+      "absent_count": 2372,
+      "absence_rate": 2.5518821744790263,
+      "is_derived": true,
+      "derivation_method": "缺考 / (實到 + 缺考) × 100；報考數 = 實到 + 缺考",
+      "derivation_version": "1.0.0",
+      "input_source_ids": [
+        "gsat-115-absence"
+      ],
+      "source_id": "gsat-115-absence"
+    },
+    {
+      "academic_year": 115,
+      "exam": "GSAT",
+      "group_type": "subject_attendance",
+      "group_name": "數學B",
+      "subject_id": "mathematics_b",
+      "registered_count": 101718,
+      "attended_count": 97536,
+      "absent_count": 4182,
+      "absence_rate": 4.111366719754616,
+      "is_derived": true,
+      "derivation_method": "缺考 / (實到 + 缺考) × 100；報考數 = 實到 + 缺考",
+      "derivation_version": "1.0.0",
+      "input_source_ids": [
+        "gsat-115-absence"
+      ],
+      "source_id": "gsat-115-absence"
+    },
+    {
+      "academic_year": 115,
+      "exam": "GSAT",
+      "group_type": "subject_attendance",
+      "group_name": "自然",
+      "subject_id": "natural_sciences",
+      "registered_count": 81132,
+      "attended_count": 78382,
+      "absent_count": 2750,
+      "absence_rate": 3.389538036779569,
+      "is_derived": true,
+      "derivation_method": "缺考 / (實到 + 缺考) × 100；報考數 = 實到 + 缺考",
+      "derivation_version": "1.0.0",
+      "input_source_ids": [
+        "gsat-115-absence"
+      ],
+      "source_id": "gsat-115-absence"
+    },
+    {
+      "academic_year": 115,
+      "exam": "GSAT",
+      "group_type": "subject_attendance",
+      "group_name": "社會",
+      "subject_id": "social_studies",
+      "registered_count": 102061,
+      "attended_count": 97889,
+      "absent_count": 4172,
+      "absence_rate": 4.087751442764621,
+      "is_derived": true,
+      "derivation_method": "缺考 / (實到 + 缺考) × 100；報考數 = 實到 + 缺考",
+      "derivation_version": "1.0.0",
+      "input_source_ids": [
+        "gsat-115-absence"
+      ],
+      "source_id": "gsat-115-absence"
+    }
+  ],
+  "notes": [],
+  "quality": {
+    "status": "passed",
+    "warnings": []
+  }
+}

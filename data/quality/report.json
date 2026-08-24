@@ -1,0 +1,650 @@
+{
+  "generated_at": "2026-08-23T15:47:05.507214+00:00",
+  "status": "passed",
+  "coverage": {
+    "exam": "GSAT",
+    "academic_years": [
+      111,
+      112,
+      113,
+      114,
+      115
+    ],
+    "source_files": 25
+  },
+  "source_status": {
+    "success": 25,
+    "warning": 0,
+    "failed": 0,
+    "pending": 0
+  },
+  "dataset_rows": {
+    "fact_registration": 40,
+    "fact_score_boundary": 480,
+    "fact_score_distribution": 480,
+    "fact_standard": 150
+  },
+  "checks": [
+    {
+      "check": "registration_year_coverage",
+      "status": "passed",
+      "detail": "應涵蓋 111–115"
+    },
+    {
+      "check": "distribution_expected_rows",
+      "status": "passed",
+      "detail": "實際 480，預期 480"
+    },
+    {
+      "check": "boundary_expected_rows",
+      "status": "passed",
+      "detail": "實際 480，預期 480"
+    },
+    {
+      "check": "standard_expected_rows",
+      "status": "passed",
+      "detail": "實際 150，預期 150"
+    },
+    {
+      "check": "distribution_reconcile_111_chinese",
+      "status": "passed",
+      "detail": "級分合計 113826"
+    },
+    {
+      "check": "distribution_monotonic_111_chinese",
+      "status": "passed",
+      "detail": "低至高累計應隨級分增加"
+    },
+    {
+      "check": "distribution_reconcile_111_english",
+      "status": "passed",
+      "detail": "級分合計 113756"
+    },
+    {
+      "check": "distribution_monotonic_111_english",
+      "status": "passed",
+      "detail": "低至高累計應隨級分增加"
+    },
+    {
+      "check": "distribution_reconcile_111_mathematics_a",
+      "status": "passed",
+      "detail": "級分合計 79834"
+    },
+    {
+      "check": "distribution_monotonic_111_mathematics_a",
+      "status": "passed",
+      "detail": "低至高累計應隨級分增加"
+    },
+    {
+      "check": "distribution_reconcile_111_mathematics_b",
+      "status": "passed",
+      "detail": "級分合計 90556"
+    },
+    {
+      "check": "distribution_monotonic_111_mathematics_b",
+      "status": "passed",
+      "detail": "低至高累計應隨級分增加"
+    },
+    {
+      "check": "distribution_reconcile_111_natural_sciences",
+      "status": "passed",
+      "detail": "級分合計 69773"
+    },
+    {
+      "check": "distribution_monotonic_111_natural_sciences",
+      "status": "passed",
+      "detail": "低至高累計應隨級分增加"
+    },
+    {
+      "check": "distribution_reconcile_111_social_studies",
+      "status": "passed",
+      "detail": "級分合計 89260"
+    },
+    {
+      "check": "distribution_monotonic_111_social_studies",
+      "status": "passed",
+      "detail": "低至高累計應隨級分增加"
+    },
+    {
+      "check": "distribution_reconcile_112_chinese",
+      "status": "passed",
+      "detail": "級分合計 115788"
+    },
+    {
+      "check": "distribution_monotonic_112_chinese",
+      "status": "passed",
+      "detail": "低至高累計應隨級分增加"
+    },
+    {
+      "check": "distribution_reconcile_112_english",
+      "status": "passed",
+      "detail": "級分合計 115919"
+    },
+    {
+      "check": "distribution_monotonic_112_english",
+      "status": "passed",
+      "detail": "低至高累計應隨級分增加"
+    },
+    {
+      "check": "distribution_reconcile_112_mathematics_a",
+      "status": "passed",
+      "detail": "級分合計 85315"
+    },
+    {
+      "check": "distribution_monotonic_112_mathematics_a",
+      "status": "passed",
+      "detail": "低至高累計應隨級分增加"
+    },
+    {
+      "check": "distribution_reconcile_112_mathematics_b",
+      "status": "passed",
+      "detail": "級分合計 97384"
+    },
+    {
+      "check": "distribution_monotonic_112_mathematics_b",
+      "status": "passed",
+      "detail": "低至高累計應隨級分增加"
+    },
+    {
+      "check": "distribution_reconcile_112_natural_sciences",
+      "status": "passed",
+      "detail": "級分合計 72087"
+    },
+    {
+      "check": "distribution_monotonic_112_natural_sciences",
+      "status": "passed",
+      "detail": "低至高累計應隨級分增加"
+    },
+    {
+      "check": "distribution_reconcile_112_social_studies",
+      "status": "passed",
+      "detail": "級分合計 92631"
+    },
+    {
+      "check": "distribution_monotonic_112_social_studies",
+      "status": "passed",
+      "detail": "低至高累計應隨級分增加"
+    },
+    {
+      "check": "distribution_reconcile_113_chinese",
+      "status": "passed",
+      "detail": "級分合計 117016"
+    },
+    {
+      "check": "distribution_monotonic_113_chinese",
+      "status": "passed",
+      "detail": "低至高累計應隨級分增加"
+    },
+    {
+      "check": "distribution_reconcile_113_english",
+      "status": "passed",
+      "detail": "級分合計 117106"
+    },
+    {
+      "check": "distribution_monotonic_113_english",
+      "status": "passed",
+      "detail": "低至高累計應隨級分增加"
+    },
+    {
+      "check": "distribution_reconcile_113_mathematics_a",
+      "status": "passed",
+      "detail": "級分合計 88694"
+    },
+    {
+      "check": "distribution_monotonic_113_mathematics_a",
+      "status": "passed",
+      "detail": "低至高累計應隨級分增加"
+    },
+    {
+      "check": "distribution_reconcile_113_mathematics_b",
+      "status": "passed",
+      "detail": "級分合計 94580"
+    },
+    {
+      "check": "distribution_monotonic_113_mathematics_b",
+      "status": "passed",
+      "detail": "低至高累計應隨級分增加"
+    },
+    {
+      "check": "distribution_reconcile_113_natural_sciences",
+      "status": "passed",
+      "detail": "級分合計 75680"
+    },
+    {
+      "check": "distribution_monotonic_113_natural_sciences",
+      "status": "passed",
+      "detail": "低至高累計應隨級分增加"
+    },
+    {
+      "check": "distribution_reconcile_113_social_studies",
+      "status": "passed",
+      "detail": "級分合計 91693"
+    },
+    {
+      "check": "distribution_monotonic_113_social_studies",
+      "status": "passed",
+      "detail": "低至高累計應隨級分增加"
+    },
+    {
+      "check": "distribution_reconcile_114_chinese",
+      "status": "passed",
+      "detail": "級分合計 117817"
+    },
+    {
+      "check": "distribution_monotonic_114_chinese",
+      "status": "passed",
+      "detail": "低至高累計應隨級分增加"
+    },
+    {
+      "check": "distribution_reconcile_114_english",
+      "status": "passed",
+      "detail": "級分合計 117866"
+    },
+    {
+      "check": "distribution_monotonic_114_english",
+      "status": "passed",
+      "detail": "低至高累計應隨級分增加"
+    },
+    {
+      "check": "distribution_reconcile_114_mathematics_a",
+      "status": "passed",
+      "detail": "級分合計 90576"
+    },
+    {
+      "check": "distribution_monotonic_114_mathematics_a",
+      "status": "passed",
+      "detail": "低至高累計應隨級分增加"
+    },
+    {
+      "check": "distribution_reconcile_114_mathematics_b",
+      "status": "passed",
+      "detail": "級分合計 95521"
+    },
+    {
+      "check": "distribution_monotonic_114_mathematics_b",
+      "status": "passed",
+      "detail": "低至高累計應隨級分增加"
+    },
+    {
+      "check": "distribution_reconcile_114_natural_sciences",
+      "status": "passed",
+      "detail": "級分合計 77520"
+    },
+    {
+      "check": "distribution_monotonic_114_natural_sciences",
+      "status": "passed",
+      "detail": "低至高累計應隨級分增加"
+    },
+    {
+      "check": "distribution_reconcile_114_social_studies",
+      "status": "passed",
+      "detail": "級分合計 93800"
+    },
+    {
+      "check": "distribution_monotonic_114_social_studies",
+      "status": "passed",
+      "detail": "低至高累計應隨級分增加"
+    },
+    {
+      "check": "distribution_reconcile_115_chinese",
+      "status": "passed",
+      "detail": "級分合計 118026"
+    },
+    {
+      "check": "distribution_monotonic_115_chinese",
+      "status": "passed",
+      "detail": "低至高累計應隨級分增加"
+    },
+    {
+      "check": "distribution_reconcile_115_english",
+      "status": "passed",
+      "detail": "級分合計 118169"
+    },
+    {
+      "check": "distribution_monotonic_115_english",
+      "status": "passed",
+      "detail": "低至高累計應隨級分增加"
+    },
+    {
+      "check": "distribution_reconcile_115_mathematics_a",
+      "status": "passed",
+      "detail": "級分合計 90579"
+    },
+    {
+      "check": "distribution_monotonic_115_mathematics_a",
+      "status": "passed",
+      "detail": "低至高累計應隨級分增加"
+    },
+    {
+      "check": "distribution_reconcile_115_mathematics_b",
+      "status": "passed",
+      "detail": "級分合計 97536"
+    },
+    {
+      "check": "distribution_monotonic_115_mathematics_b",
+      "status": "passed",
+      "detail": "低至高累計應隨級分增加"
+    },
+    {
+      "check": "distribution_reconcile_115_natural_sciences",
+      "status": "passed",
+      "detail": "級分合計 78382"
+    },
+    {
+      "check": "distribution_monotonic_115_natural_sciences",
+      "status": "passed",
+      "detail": "低至高累計應隨級分增加"
+    },
+    {
+      "check": "distribution_reconcile_115_social_studies",
+      "status": "passed",
+      "detail": "級分合計 97889"
+    },
+    {
+      "check": "distribution_monotonic_115_social_studies",
+      "status": "passed",
+      "detail": "低至高累計應隨級分增加"
+    },
+    {
+      "check": "boundary_nonoverlap_111_chinese",
+      "status": "passed",
+      "detail": "相鄰級分區間不得重疊（容許官方顯示四捨五入 0.01）"
+    },
+    {
+      "check": "boundary_nonoverlap_111_english",
+      "status": "passed",
+      "detail": "相鄰級分區間不得重疊（容許官方顯示四捨五入 0.01）"
+    },
+    {
+      "check": "boundary_nonoverlap_111_mathematics_a",
+      "status": "passed",
+      "detail": "相鄰級分區間不得重疊（容許官方顯示四捨五入 0.01）"
+    },
+    {
+      "check": "boundary_nonoverlap_111_mathematics_b",
+      "status": "passed",
+      "detail": "相鄰級分區間不得重疊（容許官方顯示四捨五入 0.01）"
+    },
+    {
+      "check": "boundary_nonoverlap_111_natural_sciences",
+      "status": "passed",
+      "detail": "相鄰級分區間不得重疊（容許官方顯示四捨五入 0.01）"
+    },
+    {
+      "check": "boundary_nonoverlap_111_social_studies",
+      "status": "passed",
+      "detail": "相鄰級分區間不得重疊（容許官方顯示四捨五入 0.01）"
+    },
+    {
+      "check": "boundary_nonoverlap_112_chinese",
+      "status": "passed",
+      "detail": "相鄰級分區間不得重疊（容許官方顯示四捨五入 0.01）"
+    },
+    {
+      "check": "boundary_nonoverlap_112_english",
+      "status": "passed",
+      "detail": "相鄰級分區間不得重疊（容許官方顯示四捨五入 0.01）"
+    },
+    {
+      "check": "boundary_nonoverlap_112_mathematics_a",
+      "status": "passed",
+      "detail": "相鄰級分區間不得重疊（容許官方顯示四捨五入 0.01）"
+    },
+    {
+      "check": "boundary_nonoverlap_112_mathematics_b",
+      "status": "passed",
+      "detail": "相鄰級分區間不得重疊（容許官方顯示四捨五入 0.01）"
+    },
+    {
+      "check": "boundary_nonoverlap_112_natural_sciences",
+      "status": "passed",
+      "detail": "相鄰級分區間不得重疊（容許官方顯示四捨五入 0.01）"
+    },
+    {
+      "check": "boundary_nonoverlap_112_social_studies",
+      "status": "passed",
+      "detail": "相鄰級分區間不得重疊（容許官方顯示四捨五入 0.01）"
+    },
+    {
+      "check": "boundary_nonoverlap_113_chinese",
+      "status": "passed",
+      "detail": "相鄰級分區間不得重疊（容許官方顯示四捨五入 0.01）"
+    },
+    {
+      "check": "boundary_nonoverlap_113_english",
+      "status": "passed",
+      "detail": "相鄰級分區間不得重疊（容許官方顯示四捨五入 0.01）"
+    },
+    {
+      "check": "boundary_nonoverlap_113_mathematics_a",
+      "status": "passed",
+      "detail": "相鄰級分區間不得重疊（容許官方顯示四捨五入 0.01）"
+    },
+    {
+      "check": "boundary_nonoverlap_113_mathematics_b",
+      "status": "passed",
+      "detail": "相鄰級分區間不得重疊（容許官方顯示四捨五入 0.01）"
+    },
+    {
+      "check": "boundary_nonoverlap_113_natural_sciences",
+      "status": "passed",
+      "detail": "相鄰級分區間不得重疊（容許官方顯示四捨五入 0.01）"
+    },
+    {
+      "check": "boundary_nonoverlap_113_social_studies",
+      "status": "passed",
+      "detail": "相鄰級分區間不得重疊（容許官方顯示四捨五入 0.01）"
+    },
+    {
+      "check": "boundary_nonoverlap_114_chinese",
+      "status": "passed",
+      "detail": "相鄰級分區間不得重疊（容許官方顯示四捨五入 0.01）"
+    },
+    {
+      "check": "boundary_nonoverlap_114_english",
+      "status": "passed",
+      "detail": "相鄰級分區間不得重疊（容許官方顯示四捨五入 0.01）"
+    },
+    {
+      "check": "boundary_nonoverlap_114_mathematics_a",
+      "status": "passed",
+      "detail": "相鄰級分區間不得重疊（容許官方顯示四捨五入 0.01）"
+    },
+    {
+      "check": "boundary_nonoverlap_114_mathematics_b",
+      "status": "passed",
+      "detail": "相鄰級分區間不得重疊（容許官方顯示四捨五入 0.01）"
+    },
+    {
+      "check": "boundary_nonoverlap_114_natural_sciences",
+      "status": "passed",
+      "detail": "相鄰級分區間不得重疊（容許官方顯示四捨五入 0.01）"
+    },
+    {
+      "check": "boundary_nonoverlap_114_social_studies",
+      "status": "passed",
+      "detail": "相鄰級分區間不得重疊（容許官方顯示四捨五入 0.01）"
+    },
+    {
+      "check": "boundary_nonoverlap_115_chinese",
+      "status": "passed",
+      "detail": "相鄰級分區間不得重疊（容許官方顯示四捨五入 0.01）"
+    },
+    {
+      "check": "boundary_nonoverlap_115_english",
+      "status": "passed",
+      "detail": "相鄰級分區間不得重疊（容許官方顯示四捨五入 0.01）"
+    },
+    {
+      "check": "boundary_nonoverlap_115_mathematics_a",
+      "status": "passed",
+      "detail": "相鄰級分區間不得重疊（容許官方顯示四捨五入 0.01）"
+    },
+    {
+      "check": "boundary_nonoverlap_115_mathematics_b",
+      "status": "passed",
+      "detail": "相鄰級分區間不得重疊（容許官方顯示四捨五入 0.01）"
+    },
+    {
+      "check": "boundary_nonoverlap_115_natural_sciences",
+      "status": "passed",
+      "detail": "相鄰級分區間不得重疊（容許官方顯示四捨五入 0.01）"
+    },
+    {
+      "check": "boundary_nonoverlap_115_social_studies",
+      "status": "passed",
+      "detail": "相鄰級分區間不得重疊（容許官方顯示四捨五入 0.01）"
+    },
+    {
+      "check": "standard_order_111_chinese",
+      "status": "passed",
+      "detail": "五標級分 [13, 12, 10, 9, 7]"
+    },
+    {
+      "check": "standard_order_111_english",
+      "status": "passed",
+      "detail": "五標級分 [13, 12, 8, 5, 4]"
+    },
+    {
+      "check": "standard_order_111_mathematics_a",
+      "status": "passed",
+      "detail": "五標級分 [10, 8, 6, 4, 3]"
+    },
+    {
+      "check": "standard_order_111_mathematics_b",
+      "status": "passed",
+      "detail": "五標級分 [13, 11, 8, 4, 3]"
+    },
+    {
+      "check": "standard_order_111_natural_sciences",
+      "status": "passed",
+      "detail": "五標級分 [14, 12, 10, 7, 5]"
+    },
+    {
+      "check": "standard_order_111_social_studies",
+      "status": "passed",
+      "detail": "五標級分 [13, 12, 11, 9, 7]"
+    },
+    {
+      "check": "standard_order_112_chinese",
+      "status": "passed",
+      "detail": "五標級分 [13, 12, 11, 9, 8]"
+    },
+    {
+      "check": "standard_order_112_english",
+      "status": "passed",
+      "detail": "五標級分 [13, 11, 8, 5, 4]"
+    },
+    {
+      "check": "standard_order_112_mathematics_a",
+      "status": "passed",
+      "detail": "五標級分 [11, 9, 7, 5, 4]"
+    },
+    {
+      "check": "standard_order_112_mathematics_b",
+      "status": "passed",
+      "detail": "五標級分 [12, 10, 7, 4, 3]"
+    },
+    {
+      "check": "standard_order_112_natural_sciences",
+      "status": "passed",
+      "detail": "五標級分 [13, 11, 9, 6, 5]"
+    },
+    {
+      "check": "standard_order_112_social_studies",
+      "status": "passed",
+      "detail": "五標級分 [12, 11, 9, 8, 6]"
+    },
+    {
+      "check": "standard_order_113_chinese",
+      "status": "passed",
+      "detail": "五標級分 [13, 12, 11, 9, 8]"
+    },
+    {
+      "check": "standard_order_113_english",
+      "status": "passed",
+      "detail": "五標級分 [13, 11, 8, 5, 3]"
+    },
+    {
+      "check": "standard_order_113_mathematics_a",
+      "status": "passed",
+      "detail": "五標級分 [12, 10, 7, 5, 3]"
+    },
+    {
+      "check": "standard_order_113_mathematics_b",
+      "status": "passed",
+      "detail": "五標級分 [12, 9, 6, 4, 3]"
+    },
+    {
+      "check": "standard_order_113_natural_sciences",
+      "status": "passed",
+      "detail": "五標級分 [13, 12, 9, 6, 5]"
+    },
+    {
+      "check": "standard_order_113_social_studies",
+      "status": "passed",
+      "detail": "五標級分 [13, 12, 10, 8, 6]"
+    },
+    {
+      "check": "standard_order_114_chinese",
+      "status": "passed",
+      "detail": "五標級分 [13, 12, 10, 9, 7]"
+    },
+    {
+      "check": "standard_order_114_english",
+      "status": "passed",
+      "detail": "五標級分 [13, 11, 8, 4, 3]"
+    },
+    {
+      "check": "standard_order_114_mathematics_a",
+      "status": "passed",
+      "detail": "五標級分 [11, 9, 6, 4, 3]"
+    },
+    {
+      "check": "standard_order_114_mathematics_b",
+      "status": "passed",
+      "detail": "五標級分 [12, 10, 6, 4, 3]"
+    },
+    {
+      "check": "standard_order_114_natural_sciences",
+      "status": "passed",
+      "detail": "五標級分 [13, 12, 9, 7, 5]"
+    },
+    {
+      "check": "standard_order_114_social_studies",
+      "status": "passed",
+      "detail": "五標級分 [13, 12, 10, 8, 7]"
+    },
+    {
+      "check": "standard_order_115_chinese",
+      "status": "passed",
+      "detail": "五標級分 [13, 12, 10, 9, 7]"
+    },
+    {
+      "check": "standard_order_115_english",
+      "status": "passed",
+      "detail": "五標級分 [13, 11, 8, 5, 3]"
+    },
+    {
+      "check": "standard_order_115_mathematics_a",
+      "status": "passed",
+      "detail": "五標級分 [12, 10, 8, 5, 4]"
+    },
+    {
+      "check": "standard_order_115_mathematics_b",
+      "status": "passed",
+      "detail": "五標級分 [11, 9, 5, 3, 2]"
+    },
+    {
+      "check": "standard_order_115_natural_sciences",
+      "status": "passed",
+      "detail": "五標級分 [13, 12, 9, 7, 5]"
+    },
+    {
+      "check": "standard_order_115_social_studies",
+      "status": "passed",
+      "detail": "五標級分 [13, 12, 10, 8, 7]"
+    }
+  ],
+  "warnings": []
+}
