@@ -4,7 +4,7 @@ import { useMemo, useState } from "react";
 import { FeatureIcon } from "./icons";
 import { LineChart } from "./line-chart";
 import { YEARS, formatNumber, formatPercent } from "@/lib/constants";
-import type { GroupAdmissionFact, UniversityAdmissionFact } from "@/lib/types";
+import type { GroupAdmissionFact, NoncurrentPathwayFact, UniversityAdmissionFact } from "@/lib/types";
 
 const unique = (items: string[]) => [...new Set(items)].sort((a, b) => a.localeCompare(b, "zh-TW"));
 
@@ -16,7 +16,7 @@ function chartScale(values: number[]) {
   return { yMax: step * 4, yTicks: [0, step, step * 2, step * 3, step * 4] };
 }
 
-export function AdmissionExplorer({ universities, groups }: { universities: UniversityAdmissionFact[]; groups: GroupAdmissionFact[] }) {
+export function AdmissionExplorer({ universities, groups, noncurrent }: { universities: UniversityAdmissionFact[]; groups: GroupAdmissionFact[]; noncurrent: NoncurrentPathwayFact[] }) {
   const [year, setYear] = useState(115);
   const [ownership, setOwnership] = useState("");
   const [region, setRegion] = useState("");
@@ -34,6 +34,8 @@ export function AdmissionExplorer({ universities, groups }: { universities: Univ
   const scale = chartScale(totals.map((item) => item.admitted));
   const topUniversities = [...current].sort((a, b) => b.admitted_count - a.admitted_count).slice(0, 12);
   const selectedGroup = groups.find((item) => item.group === group);
+  const selectedNoncurrent = noncurrent.find((item) => item.academic_year === year)!;
+  const currentAdmitted = current.reduce((sum, row) => sum + row.admitted_count, 0);
   const reset = () => { setOwnership(""); setRegion(""); setUniversity(""); };
   const scopeLabel = university || [region, ownership].filter(Boolean).join(" · ") || "全體分發大學";
 
@@ -52,7 +54,7 @@ export function AdmissionExplorer({ universities, groups }: { universities: Univ
       <article><span>目前範圍</span><strong className="scope-name">{scopeLabel}</strong><small>{year} 學年度</small></article>
       <article><span>大學數</span><strong>{formatNumber(current.length)}</strong><small>該年度有錄取資料</small></article>
       <article><span>系組數</span><strong>{formatNumber(current.reduce((sum, row) => sum + row.program_count, 0))}</strong><small>分發招生系組</small></article>
-      <article><span>錄取人數</span><strong>{formatNumber(current.reduce((sum, row) => sum + row.admitted_count, 0))}</strong><small>含外加名額</small></article>
+      <article><span>錄取人數</span><strong>{formatNumber(currentAdmitted)}</strong><small>含外加名額</small></article>
     </section>
 
     <section className="explore-results">
@@ -68,20 +70,42 @@ export function AdmissionExplorer({ universities, groups }: { universities: Univ
     </section>
 
     <section className="section">
-      <div className="section-heading"><div><span className="section-index">04 / Groups · 115 only</span><h2>學群錄取統計</h2></div><div className="field compact-field"><label htmlFor="explore-group">學群</label><select id="explore-group" value={group} onChange={(event) => setGroup(event.target.value)}><option value="">全部學群</option>{groups.map((item) => <option key={item.group}>{item.group}</option>)}</select></div></div>
-      <p className="dimension-warning">官方目前提供的是 115 學年度學群彙總，沒有逐校系的學群對照，因此此區不與大學／地區條件交叉。</p>
-      {selectedGroup ? <article className="selected-group-card"><span>{selectedGroup.group}學群</span><strong>{formatNumber(selectedGroup.admitted_count)}<small> 人次</small></strong><div><b style={{ width: `${selectedGroup.capacity_usage_rate}%` }} /></div><p>名額使用率 {formatPercent(selectedGroup.capacity_usage_rate)}</p></article> : <div className="group-stat-grid">{groups.map((item) => <button type="button" key={item.group} onClick={() => setGroup(item.group)}><span>{item.group}</span><strong>{formatNumber(item.admitted_count)}</strong><small>使用率 {formatPercent(item.capacity_usage_rate)}</small></button>)}</div>}
+      <div className="section-heading benchmark-heading"><div><span className="section-index">04 / Noncurrent baseline</span><h2>全體非應屆年度基準</h2></div><span className="benchmark-scope">母群：全體分發登記／錄取</span></div>
+      <p className="dimension-warning">這是所有大學合計的官方非應屆統計。左側大學、地區與公私立條件不套用到此區，也不以全體比例推估個別學校。</p>
+      <div className="noncurrent-benchmark-grid">
+        <article className="panel benchmark-chart">
+          <div className="mini-chart-heading"><div><span>Admitted share</span><h3>非應屆占全部錄取</h3></div><strong>{formatPercent(selectedNoncurrent.distribution_noncurrent_admitted_share)}</strong></div>
+          <LineChart id="noncurrent-admitted-share" series={[{ label: "全體非應屆錄取占比", color: "#e26d5a", values: noncurrent.map((item) => ({ x: item.academic_year, y: item.distribution_noncurrent_admitted_share })) }]} yMax={20} yTicks={[0, 5, 10, 15, 20]} suffix="%" />
+        </article>
+        <article className="benchmark-current" aria-live="polite">
+          <span className="benchmark-year">{year} 學年度</span>
+          <h3>全體非應屆</h3>
+          <dl>
+            <div><dt>完成分發登記</dt><dd>{formatNumber(selectedNoncurrent.distribution_noncurrent_registered)}</dd></div>
+            <div><dt>分發錄取</dt><dd>{formatNumber(selectedNoncurrent.distribution_noncurrent_admitted)}</dd></div>
+            <div><dt>非應屆錄取率</dt><dd>{formatPercent(selectedNoncurrent.distribution_noncurrent_admission_rate)}</dd></div>
+          </dl>
+          <p>{scopeLabel}同年總錄取 <strong>{formatNumber(currentAdmitted)}</strong> 人；{university || region || ownership ? "與右列全體非應屆屬不同統計層級，不計算兩者比例。" : "其中非應屆占比即為上圖數值。"}</p>
+        </article>
+      </div>
+      <div className="benchmark-years" aria-label="歷年非應屆錄取資料">{noncurrent.map((item) => <button type="button" className={item.academic_year === year ? "active" : ""} key={item.academic_year} onClick={() => setYear(item.academic_year)}><span>{item.academic_year}</span><strong>{formatNumber(item.distribution_noncurrent_admitted)}</strong><small>占錄取 {formatPercent(item.distribution_noncurrent_admitted_share)}</small></button>)}</div>
     </section>
 
     <section className="section">
-      <div className="section-heading"><div><span className="section-index">05 / Continue</span><h2>再看考試資料</h2></div><p>沿用 {year} 學年度；招生條件不套入全體考生分布。</p></div>
+      <div className="section-heading"><div><span className="section-index">05 / Groups · 115 only</span><h2>學群錄取統計</h2></div><div className="field compact-field"><label htmlFor="explore-group">學群</label><select id="explore-group" value={group} onChange={(event) => setGroup(event.target.value)}><option value="">全部學群</option>{groups.map((item) => <option key={item.group}>{item.group}</option>)}</select></div></div>
+      <p className="dimension-warning">官方目前提供的是 115 學年度學群彙總，沒有逐校系的學群對照，因此此區不與大學／地區條件交叉。</p>
+      {selectedGroup ? <div className="selected-group-layout"><article className="selected-group-card"><span>{selectedGroup.group}學群</span><strong>{formatNumber(selectedGroup.admitted_count)}<small> 人次</small></strong><div><b style={{ width: `${selectedGroup.capacity_usage_rate}%` }} /></div><p>名額使用率 {formatPercent(selectedGroup.capacity_usage_rate)}</p></article><aside className="group-baseline-note"><span>115 全體基準</span><strong>{formatPercent(noncurrent.find((item) => item.academic_year === 115)!.distribution_noncurrent_admitted_share)}</strong><p>非應屆占全部分發錄取。這不是「{selectedGroup.group}學群」的非應屆比例。</p></aside></div> : <div className="group-stat-grid">{groups.map((item) => <button type="button" key={item.group} onClick={() => setGroup(item.group)}><span>{item.group}</span><strong>{formatNumber(item.admitted_count)}</strong><small>使用率 {formatPercent(item.capacity_usage_rate)}</small></button>)}</div>}
+    </section>
+
+    <section className="section">
+      <div className="section-heading"><div><span className="section-index">06 / Continue</span><h2>再看考試資料</h2></div><p>沿用 {year} 學年度；招生條件不套入全體考生分布。</p></div>
       <div className="analysis-route-grid">
         <a href={`/trends?metric=standard`}><FeatureIcon name="trend"/><span><strong>歷年趨勢</strong><small>六科五標、報名與缺考</small></span></a>
         <a href={`/distribution?year=${year}&subject=chinese`}><FeatureIcon name="distribution"/><span><strong>級分分布</strong><small>{year} 學年度全體考生</small></span></a>
         <a href={`/position?year=${year}&subject=chinese`}><FeatureIcon name="position"/><span><strong>成績定位</strong><small>單科 PR 與五標位置</small></span></a>
         <a href={`/noncurrent?year=${year}`}><FeatureIcon name="repeaters"/><span><strong>非應屆觀察</strong><small>人數、占比與分發錄取率</small></span></a>
       </div>
-      <p className="source-note"><strong>資料口徑：</strong>大學、地區與公私立統計來自分發委員會各系組錄取表；地區依教育部 114 學年度學校本部地址。部分系組跨兩個學群，學群人數不可加總為全體錄取人數。<a href="https://www2.uac.edu.tw/115data/115_result_school_data.pdf" target="_blank" rel="noreferrer">校系錄取表 ↗</a>　<a href="https://udb.moe.edu.tw/ulist/Resource" target="_blank" rel="noreferrer">教育部名錄 ↗</a></p>
+      <p className="source-note"><strong>資料口徑：</strong>大學、地區與公私立統計來自分發委員會各系組錄取表；地區依教育部 114 學年度學校本部地址。部分系組跨兩個學群，學群人數不可加總為全體錄取人數。<a href="https://www2.uac.edu.tw/115data/115_result_school_data.pdf" target="_blank" rel="noreferrer">校系錄取表 ↗</a>　<a href="https://www2.uac.edu.tw/115data/115_result_presentation.pdf" target="_blank" rel="noreferrer">非應屆統計 ↗</a>　<a href="https://udb.moe.edu.tw/ulist/Resource" target="_blank" rel="noreferrer">教育部名錄 ↗</a></p>
     </section>
   </>;
 }
