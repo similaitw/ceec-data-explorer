@@ -23,3 +23,15 @@ test("research notes document the required gaps and application fallback", () =>
     assert.match(notes, new RegExp(required));
   }
 });
+
+test("official validation totals reconcile for 111-115", () => {
+  const lines = readFileSync(`${directory}/validation_totals.csv`, "utf8").trim().split(/\r?\n/);
+  assert.equal(lines.length, 6, "應包含欄位列及111-115五個學年度");
+
+  for (const line of lines.slice(1)) {
+    const fields = line.match(/(?:^|,)("(?:[^"]|"")*"|[^,]*)/g)?.map((value) => value.replace(/^,/, "").replace(/^"|"$/g, "")) ?? [];
+    const [year, , totalRegistered, noncurrentRegistered, currentRegistered, totalAdmitted, noncurrentAdmitted, currentAdmitted] = fields;
+    assert.equal(Number(noncurrentRegistered) + Number(currentRegistered), Number(totalRegistered), `${year} 登記人數應屆與非應屆加總`);
+    assert.equal(Number(noncurrentAdmitted) + Number(currentAdmitted), Number(totalAdmitted), `${year} 錄取人數應屆與非應屆加總`);
+  }
+});
